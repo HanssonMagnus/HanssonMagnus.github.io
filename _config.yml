@@ -1,1 +1,10 @@
+# basic options
+title: Magnus blog
+author: Magnus Hansson
+email: hansson.carl.magnus@gmail.com
+description: Blog about machine learning, maths and other fun stuff.
+github_username: HanssonMagnus
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-minimal

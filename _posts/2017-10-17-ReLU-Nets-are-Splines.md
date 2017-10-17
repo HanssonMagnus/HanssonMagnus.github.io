@@ -1,6 +1,5 @@
 ---
 layout: post
-mathjax: true
 title: ReLU nets are splines
 ---
 

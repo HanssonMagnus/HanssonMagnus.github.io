@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Create Jekyll Blog
+title: ReLU nets are splines
 ---
 
 ### Introduction

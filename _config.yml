@@ -7,5 +7,7 @@ github_username: HanssonMagnus
 
 # Build settings
 markdown: kramdown
+kramdown:
+  math_engine: mathjax
 theme: minima
 future: true

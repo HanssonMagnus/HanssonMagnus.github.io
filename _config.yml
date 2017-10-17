@@ -7,4 +7,4 @@ github_username: HanssonMagnus
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima

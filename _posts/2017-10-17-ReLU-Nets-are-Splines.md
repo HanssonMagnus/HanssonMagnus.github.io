@@ -1,5 +1,6 @@
 ---
 layout: post
+mathjax: true
 title: ReLU nets are splines
 ---
 
@@ -11,4 +12,6 @@ In this post I will try to shed some light upon how a neural network with the in
 
 ### ReLU nets are splines
 
-$x^2 + y^2$ $$x^2 + y^2$$
+$x^2 + y^2$
+
+$$x^2 + y^2$$

@@ -66,4 +66,5 @@ The network plotted below has 3 nodes plus 2 endpoints.
 
 Furthermore, the position of the knots are plotted by solving for $$x$$, i.e. $$-\frac{b_i^{(1)}}{w_i^{(1)}}$$,
 
+<img src="images/3nodes2.png" alt="hi" class="inline"/>
 [[https://github.com/HanssonMagnus/HanssonMagnus.github.io/blob/master/images/3nodes2.png|alt=octocat]]

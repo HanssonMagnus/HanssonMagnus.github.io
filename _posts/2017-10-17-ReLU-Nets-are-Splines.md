@@ -42,8 +42,9 @@ $$
 
 In order to show that the ReLU net is a linear spline it is helpful to first define what a linear spline is.
 
+
+$$\newtheorem*{mydef3}{Definition of linear spline}$$
 $$
-\newtheorem*{mydef3}{Definition of linear spline}
 \begin{mydef3}
 A function, $S$, is called a \textit{linear spline} or a \textit{spline of degree 1} if for a finite set of knots $x_0,x_1,...,x_n$ the following two conditions hold
 \begin{enumerate}

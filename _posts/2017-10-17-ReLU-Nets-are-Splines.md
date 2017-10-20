@@ -52,4 +52,14 @@ $$
 
 Thus the knots of the linear spline is defined by the fraction of the weights and biases. This means that the position of the knots of the linear spline is adjusted when the weights and biases are updated, i.e. the network is optimized/trained.
 
+### Upper bound of knots
+In fact, one can prove that there is an upper bound on the number of knots produced by the ReLU network approximation. When looking at a ReLU net with one hidden layer the number of knots is bounded by the number of nodes in the network. The relationship is $$k\leseqn$$. The reason that it can be less is because theoretically two or more knots of the approximation can coincide, however this is not very likely in practice.
+
+For theorem and proof see [Chen 2016](https://arxiv.org/pdf/1611.09448.pdf) for an general version and [my thesis](link) for a more explanatory version of the case with one hidden layer.
+
+### Numerical experiment
+In order to investigate this property a one hidden layer network with ReLU activation is set up in Keras with TensorFlow backend and tested on [Runge's function](https://en.wikipedia.org/wiki/Runge%27s_phenomenon), i.e. $$\frac{1}{1+25x^2}$$. The network approximation is compared to a linear spline with equidistant placed knots.
+
+The results,
+
 

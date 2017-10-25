@@ -13,7 +13,7 @@ The theorems and proofs in this blog post can be found in my [bachelor's thesis 
 
 ### ReLU nets are linear splines
 
-The neural network model that will be investigated has one single hidden layer, with an arbitrary number of nodes, and the rectified linear unit as activation function for the hidden layer and the unit function as final layer. The network maps one input value to one output value. Hence, $$y: \mathbb{R} \rightarrow \mathbb{R}$$. Thus the network can be expressed as:
+The neural network model that will be investigated has one single hidden layer, with an arbitrary number of nodes, the [rectified linear unit](https://en.wikipedia.org/wiki/Rectifier_(neural_networks)) as activation function for the hidden layer and the unit function (i.e. $$g(a) = a$$) as activation function for the final output layer. The network maps one input value to one output value. Hence, $$y: \mathbb{R} \rightarrow \mathbb{R}$$. Thus the network can be expressed as:
 
 $$
 \begin{equation}

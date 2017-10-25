@@ -35,13 +35,12 @@ The ReLU function is defined as,
 \begin{equation}
     g(a) \equiv \max(0,a) \text{ and } g^{\prime}(a) =         \begin{cases}
             1 \text{ if } a > 0 \\
-            0 \text{ otherwise}
+            0 \text{ otherwise} \tag{3}
         \end{cases}
-        \tag{3}
 \end{equation}
 
 
-Already when looking at the ReLU function one can see that it looks like a linear spline. It has two "line parts" and one discontinuity at 0. By looking at equation 2 of this blog post one can see how $$z$$ is just an affine transformation of the input with a wrapper, i.e. $$g()$$. Since $$g()$$ is defined as the the ReLU function the hinge will be where the affine transformation is equal to zero.
+Already when looking at the ReLU function one can see that it looks like a linear spline. It has two "line parts" and one discontinuity at 0. By looking at equation 2 one can see how $$z$$ is just an affine transformation of the input with a wrapper, i.e. $$g()$$. Since $$g()$$ is defined as the the ReLU function the hinge will be where the affine transformation is equal to zero.
 
 Solving for where the transformation is equal to zero,
 

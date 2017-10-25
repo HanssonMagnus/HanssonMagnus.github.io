@@ -67,3 +67,17 @@ Furthermore, the position of the knots are plotted by solving for $$x$$, i.e. $$
 ### Theorems and proofs
 The theorems and proofs presented below is taken from [my thesis](link). For a generalization see [Chen 2016](https://arxiv.org/pdf/1611.09448.pdf).
 
+
+In order to show that the ReLU net is a linear spline it is helpful to first define what a linear spline is.
+
+
+\newtheorem*{mydef3}{Definition of linear spline}
+\begin{mydef3}
+A function, $S$, is called a \textit{linear spline} or a \textit{spline of degree 1} if for a finite set of knots $x_0,x_1,...,x_n$ the following two conditions hold
+\begin{enumerate}
+    \item on each interval $[x_{i-1},x_i]$, $S$ is a polynomial of maximal degree $1$
+    \item $S$ is continuous
+\end{enumerate}
+\end{mydef3}
+
+

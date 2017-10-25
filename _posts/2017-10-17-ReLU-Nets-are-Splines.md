@@ -62,7 +62,7 @@ In order to investigate this property a one hidden layer network with ReLU activ
 The network plotted below has 3 inner nodes plus 2 endpoints, yielding 5 knots.
 ![Fig 2](/images/3nodes1.png)
 
-Furthermore, the position of the knots are plotted by solving for $$x$$, i.e. $$-\frac{b_i^{(1)}}{w_i^{(1)}}$$,
+Furthermore, the positions of the inner knots are plotted by solving for $$x$$, i.e. $$-\frac{b_i^{(1)}}{w_i^{(1)}}$$,
 
 ![Fig 3](/images/3nodes2.png)
 

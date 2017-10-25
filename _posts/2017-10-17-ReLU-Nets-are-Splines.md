@@ -17,7 +17,7 @@ The neural network model that will be investigated has one single hidden layer, 
 
 
 \begin{equation}
-    y = \sum_{i=1}^n w_i^{(2)} z_i + b^{(2)}
+    y = \sum_{i=1}^n w_i^{(2)} z_i + b^{(2)} \tag
 \end{equation}
 
 

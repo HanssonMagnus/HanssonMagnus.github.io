@@ -29,7 +29,7 @@ where,
 
 Figure 1 is showing a visual representation of Equation 1 and 2,
 
-![Fig 1](/images/network2.png)
+![Fig 1](/images/Network2.png)
 
 
 The ReLU function is defined as,

@@ -9,7 +9,7 @@ Artificial Neural Networks has been increasingly popular during the last years. 
 
 In this post I will try to shed some light upon how a neural network with the increasingly popular ReLU activation function actually makes its approximations.
 
-The theorems and proofs for the claims in this blog post can be found in my [bachelor's thesis in mathematics/numerical analysis](link). When writing the thesis, [my thesis partner](https://github.com/dachrillz) and I got inspiration from [Chen 2016](https://arxiv.org/pdf/1611.09448.pdf).
+The theorems and proofs in this blog post can be found in my [bachelor's thesis in mathematics/numerical analysis](link). When writing the thesis, [my thesis partner](https://github.com/dachrillz) and I got inspiration from [Chen 2016](https://arxiv.org/pdf/1611.09448.pdf).
 
 ### ReLU nets are linear splines
 

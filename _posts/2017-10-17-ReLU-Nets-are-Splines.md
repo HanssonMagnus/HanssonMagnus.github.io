@@ -23,32 +23,33 @@ The neural network model that will be investigated has one single hidden layer, 
 
 where,
 
-$$
+
 \begin{equation}
-    z_i = g(w_i^{(1)}x + b_i^{(1)})
+    z_i = g(w_i^{(1)}x + b_i^{(1)}) \tag{2}
 \end{equation}
-$$
 
-The ReLU function is defined as follows,
 
-$$
+The ReLU function is defined as,
+
+
 \begin{equation}
     g(a) \equiv \max(0,a) \text{ and } g^{\prime}(a) =         \begin{cases}
             1 \text{ if } a > 0 \\
             0 \text{ otherwise}
         \end{cases}
+        \tag{3}
 \end{equation}
-$$
+
 
 Already when looking at the ReLU function one can see that it looks like a linear spline. It has two "line parts" and one discontinuity at 0. By looking at equation 2 of this blog post one can see how $$z$$ is just an affine transformation of the input with a wrapper, i.e. $$g()$$. Since $$g()$$ is defined as the the ReLU function the hinge will be where the affine transformation is equal to zero.
 
 Solving for where the transformation is equal to zero,
 
-$$
+
 \begin{equation}
-    w_i^{(1)}x + b_i^{(1)} = 0 \Leftrightarrow x = -\frac{b_i^{(1)}}{w_i^{(1)}}
+    w_i^{(1)}x + b_i^{(1)} = 0 \Leftrightarrow x = -\frac{b_i^{(1)}}{w_i^{(1)}} \tag{4}
 \end{equation}
-$$
+
 
 Thus the knots of the linear spline is defined by the fraction of the weights and biases. This means that the position of the knots of the linear spline is adjusted when the weights and biases are updated, i.e. the network is optimized/trained.
 

@@ -60,9 +60,9 @@ For theorem and proof see [Chen 2016](https://arxiv.org/pdf/1611.09448.pdf) for 
 ### Numerical experiment
 In order to investigate this property a one hidden layer network with ReLU activation is set up in Keras with TensorFlow backend and tested on [Runge's function](https://en.wikipedia.org/wiki/Runge%27s_phenomenon), i.e. $$\frac{1}{1+25x^2}$$. The network approximation is compared to a linear spline with equidistant placed knots.
 
-The network plotted below has 3 nodes plus 2 endpoints.
+The network plotted below has 3 inner nodes plus 2 endpoints, yielding 5 knots.
 ![Fig 1](/images/3nodes1.png)
 
 Furthermore, the position of the knots are plotted by solving for $$x$$, i.e. $$-\frac{b_i^{(1)}}{w_i^{(1)}}$$,
 
-![Fig 2](https://github.com/HanssonMagnus/HanssonMagnus.github.io/blob/master/images/3nodes2.png)
+![Fig 2](/images/3nodes2.png)

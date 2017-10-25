@@ -86,7 +86,7 @@ Proof: Let $$g(a)$$ be the ReLU function. $$g(a)$$ is a linear spline with knots
 - Let $$z$$ be an inner node of the neural network, $$y$$, defined as $$z = g(wx + b)$$. $$z$$ is a linear spline with knots $$X = \{\frac{x_{min} - b}{w}, \frac{-b}{w}, \frac{x_{max} - b}{w} \}$$.
 - The whole network $$y$$ is an [affine transformation](https://en.wikipedia.org/wiki/Affine_transformation) of the inner nodes $$z_1,z_2,...,z_n$$ such that $$y(x) = w^{(2)}_1g(w_1^{(1)} x + b^{(1)}_1) + w^{(2)}_2g(w_2^{(1)} x + b^{(1)}_2) + ... + w^{(2)}_n g(w_n^{(1)} x + b^{(1)}_n) + b^{(2)}$$
 
-By creating the ser of knots $$X_y$$ for $$y$$ sa the union of all the knots of the inner network nodes, $$X_1,X_2,X_n$$ such that  $$X_y = X_1 \cup X_2 \cup ... \cup X_n$$. Then $$y$$ is defined by a ser of knots. As $$y$$ consists of a linear combination of $$z_i$$'s the two conditions for linear splines are preserved in $$y$$. Combining these results one sees that $$y$$ is a linear spline. Q.E.D.
+By creating the set of knots $$X_y$$ for $$y$$ as the union of all the knots of the inner network nodes, $$X_1,X_2, ..., X_n$$ such that  $$X_y = X_1 \cup X_2 \cup ... \cup X_n$$. Then $$y$$ is defined by a set of knots. As $$y$$ consists of a linear combination of $$z_i$$'s the two conditions for linear splines are preserved in $$y$$. Combining these results one sees that $$y$$ is a linear spline. Q.E.D.
 
 ### Theorem 2.
 

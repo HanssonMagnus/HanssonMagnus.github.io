@@ -11,3 +11,6 @@ kramdown:
   math_engine: mathjax
 theme: minima
 future: true
+
+plugins:
+  - jekyll-seo-tag

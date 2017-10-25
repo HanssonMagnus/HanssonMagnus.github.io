@@ -23,13 +23,13 @@ The neural network model that will be investigated has one single hidden layer, 
 
 where,
 
-Figure 1 is showing a visual representation of Equation 1 and 2,
-
-![Fig 1](/images/network2.png)
-
 \begin{equation}
     z_i = g(w_i^{(1)}x + b_i^{(1)}) \tag{2}
 \end{equation}
+
+Figure 1 is showing a visual representation of Equation 1 and 2,
+
+![Fig 1](/images/network2.png)
 
 
 The ReLU function is defined as,

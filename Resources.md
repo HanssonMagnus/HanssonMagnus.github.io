@@ -5,9 +5,7 @@ title: Resources
 
 # Python
 
-## Visualization
-
-### OpenGL
+### OpenGL:
 * [VisPy](https://vispy.readthedocs.io/en/latest/index.html) is an OpenGL visualization library.
 * [OpenGL bindings for Python](http://pyopengl.sourceforge.net/)
 * [Intro to OpenGL with Python](http://pyopengl.sourceforge.net/context/tutorials/index.html)

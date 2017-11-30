@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ReLU nets are splines
+title: Stock prediction with LSTM networks
 ---
 
 ## Introduction

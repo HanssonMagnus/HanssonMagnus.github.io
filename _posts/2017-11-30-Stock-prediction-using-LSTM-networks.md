@@ -29,15 +29,24 @@ Instead of regular neural network nodes, a LSTM network consists of LSTM blocks.
 
 
 \begin{equation}
-\begin{cases}
-f_t = g \left( W_f \cdot [x_t, h_{t-1}] + b_f \right)\\
-i_t = g \left( W_i \cdot [x_t, h_{t-1}] + b_i \right)\\
-o_t = g \left( W_0 \cdot [x_t, h_{t-1}] + b_0 \right)\\
-c_t = f_t \circ c_{t-1} + i_t \circ tanh \left( W_c \cdot [x_t, h_{t-1}] + b_c \right)\\
-h_t = o_t \circ tanh \left( c_t \right)
-\end{cases}
+f_t = g \left( W_f \cdot [x_t, h_{t-1}] + b_f \right)
 \end{equation}
 
+\begin{equation}
+i_t = g \left( W_i \cdot [x_t, h_{t-1}] + b_i \right)
+\end{equation}
+
+\begin{equation}
+o_t = g \left( W_0 \cdot [x_t, h_{t-1}] + b_0 \right)
+\end{equation}
+
+\begin{equation}
+c_t = f_t \circ c_{t-1} + i_t \circ tanh \left( W_c \cdot [x_t, h_{t-1}] + b_c \right)
+\end{equation}
+
+\begin{equation}
+h_t = o_t \circ tanh \left( c_t \right)
+\end{equation}
 
 where $$g(\cdot)$$ is the sigmoid function, $$tanh(\cdot)$$ is the hyperbolic tangent, $$x_t$$ is the input vector,
 $$h_t$$ is the output vector, $$c_t$$ is a cell state vector. $$W$$ are weights as before and $$b$$ are biases. $$f_t$$, $$i_t$$

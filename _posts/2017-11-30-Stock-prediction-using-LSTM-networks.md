@@ -4,9 +4,9 @@ title: Stock prediction with LSTM networks
 ---
 
 ## Introduction
-In this blogpost I've taken inspiration from my master thesis and the results presented here are taken from my thesis. The experiment is designed to be able to run on a laptop cpu.
+In this blogpost I've taken inspiration from some parts of my master thesis. The results presented here are taken from my thesis. The experiment is designed to be able to run on a laptop cpu.
 
-Stock market data is often analyzed in terms of returns, i.e. $$price_t - price_{t-1} / price_{t-1}$$. Financial returns has
+Stock market data is often analyzed in terms of returns, i.e. $$(price_t - price_{t-1}) / price_{t-1}$$. Financial returns has
 certain noticable characteristics, some of them are:
 
 - No linear correlation
@@ -49,7 +49,7 @@ h_t = o_t \circ tanh \left( c_t \right)
 \end{equation}
 
 where $$g(\cdot)$$ is the sigmoid function, $$tanh(\cdot)$$ is the hyperbolic tangent, $$x_t$$ is the input vector,
-$$h_t$$ is the output vector, $$c_t$$ is a cell state vector. $$W$$ are weights as before and $$b$$ are biases. $$f_t$$, $$i_t$$
+$$h_t$$ is the output vector, $$c_t$$ is a cell state vector. $$W$$ are weights and $$b$$ are biases. $$f_t$$, $$i_t$$
 and $$o_t$$ are called gates of the block. Note that $$\circ$$ is not matrix multiplication but the Schur product,
 i.e. entry wise product.
 
@@ -79,13 +79,17 @@ The data set consists of multimariate time series return data from 2009 to 2017 
 Figure 1: S&P 500, Bovespa, OMX.
 ![Fig 1](/images/data2.png)
 
-Figure 2: LSTM forcast output. Black indicates positive returns and grey indicates negative returns.
+
+Figure 2: LSTM 1 day ahead forcast output. Black indicates probability of positive returns and grey indicates probability of negative returns.
 ![Fig 2](/images/lstm_deep_prob2.png)
+
 
 Note: Regarding the US and Brazilian market the model says "always buy", i.e. the probability of positive returns tomorrow is always over 50%. Looking at the Swedish market, the model seems to have found some structure. Lets build two trading strategies and evaluate the models generalization.
 
+
 Figure 3: Trading strategy implemented.
 ![Fig 3](/images/strategy.png)
+
 
 ## Conclusion
 The LSTM model doesn't find any structure in the US or Brazilian market. However, the model finds some successfull generalization for the Swedish market. TNote that this could very well be due to optimization traps etc.

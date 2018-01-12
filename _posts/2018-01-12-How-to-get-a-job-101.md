@@ -11,7 +11,7 @@ My first advice is to make job applications one of your new hobbies. Spend time 
 Start with the attitude that you can and will get a cool job that will be inspiring and interesting!
 
 ## First
-I believe that in order to efficiently apply for jobs and make the process smooth the first thing one needs to do is to define some goals. Where do you want to work, i.e. what cities would you like to live in? What industry do you want to work in? Do you want to work at a small new firm, an large old firm, and so on? When you have defined your goals, time plan etc your ready to start preparing.
+I believe that in order to efficiently apply for jobs and make the process smooth the first thing one needs to do is to define some goals. Where do you want to work, i.e. what cities would you like to live in? What industry do you want to work in? Do you want to work at a small new firm, an large old firm, and so on? When you have defined your goals, time plan etc you're ready to start preparing.
 
 ## Where to find a job?
 In order to apply to potentially great jobs one needs to find them. Here are some ways:

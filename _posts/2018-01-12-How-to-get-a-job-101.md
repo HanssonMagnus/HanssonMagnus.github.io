@@ -7,6 +7,10 @@ title: How to get a job 101
 Lately I have had a couple of friends asking me about job applications, summer jobs, internships, graduate programs and so forth within
 mathematics, data science, etcetera. This is the reason for this post.
 
+My first advice is to make job applications one of your new hobbies. Spend time on Google, Reddit, Blogs and read much about it. Of course it helps to read one blog post or ask one friend, but you need to build yourself a coprehensive understanding of the matter.
+
+Start with the attitude that you can and will get a cool job that will be inspiring and interesting.
+
 ## Where to find a job?
 In order to apply to cool jobs one needs to find them. Here are some ways:
 
@@ -53,9 +57,6 @@ The simple answer is yes. When I applied for jobs I first made two different typ
 different industries: tech and finance. Depending on which industry you apply to you want to emphasize different skills etc. When I had
 these two base resumes it was easy to make small adjustments before applying to each individual application.
 
-
-
-
 ## How to write a great personal letter?
 When writing a personal letter I would say that you should answer a couple of questions:
 
@@ -69,6 +70,11 @@ Speak truth and do it with confidence.
 If you are applying to jobs where you are supposed to code I would definitely include my GitHub profile in the resume. If you do not
 have any repos it is time to create them. I regret that I didn't use GitHub more frequently during uni, that would have saved some work.
 Also some of the projects I did back then will never be repeated.
+
+## They ask for a lot of advanced skills!
+A lot of job ads within data science, ML etc are asking for a lot of advnaced qualifications. You will of course feel that if you have a totally different background than they ask for, it might not be worth the time to apply. But if you have one or a couple of the skills they are asking for, then you might very well get the job! Sometimes a company doesn't even know what they want or need. If you look past what they are writing in the qualifications and try to understand the problems they try to solve, then you can write a much better letter.
+
+Also, don't be afraid of admitting that you do not have all the skills that they are looking for, but state clearly that you would be more than happy to learn. I wrote in a lot of my letters that if they wanted me to learn some skill before I start that would be no problem.
 
 ## Overall attitude when applying for jobs
 

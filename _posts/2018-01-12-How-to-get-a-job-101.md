@@ -77,10 +77,11 @@ A lot of job ads within data science, ML etc are asking for a lot of advnaced qu
 
 Also, don't be afraid of admitting that you do not have all the skills that they are looking for, but state clearly that you would be more than happy to learn. I wrote in a lot of my letters that if they wanted me to learn some skill before I start that would be no problem.
 
-## Overall attitude when applying for jobs
+## Overall attitude and tips when applying for jobs
 
 - When going on an interview you are equally much interviewing them. You don't want to work wherever!
 - Go all in every time! If you get a job that you don't want in the end you don't have to take it.
+- Start applying early, this process takes time and your applications will improve over time.
 
 ### 
 

@@ -65,6 +65,7 @@ Ergonomy, assistance:
 
 Distributions:
 * [Arch](https://www.archlinux.org/)
+* [gentoo](https://www.gentoo.org/)
 
 ## Career:
 * [Data science -- you are a software engineer first](http://nadbordrozd.github.io/blog/2017/12/05/what-they-dont-tell-you-about-data-science-1/)

@@ -62,6 +62,7 @@ When writing a personal letter I would say that you should answer a couple of qu
 
 - How can you help them / why should they hire you?
 - How they will help you / how they will help you develop.
+- What makes you excited (in a work situation)?
 - Any direct questions they want to know from the ad.
 
 Speak truth and do it with confidence.

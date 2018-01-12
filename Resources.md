@@ -38,15 +38,29 @@ Courses:
 * [Deep learning](https://www.udacity.com/course/deep-learning--ud730)
 * [Intro to Parallel Programming](https://eu.udacity.com/course/intro-to-parallel-programming--cs344)
 
+YouTube:
+* [Deep learning with Keras -- playlist](https://www.youtube.com/playlist?list=PLVBorYCcu-xX3Ppjb_sqBd_Xf6GqagQyl)
+
+Other:
+* [Stackexchange -- vectorization](https://softwareengineering.stackexchange.com/questions/254475/how-do-i-move-away-from-the-for-loop-school-of-thought)
+
 ## Mathematics
 
 Overview:
 * [Evan Chen webpage](http://web.evanchen.cc/napkin.html)
 
+## C / C++
+
+* [Build your own Lisp](http://www.buildyourownlisp.com/)
+
+## R
+
+* [R-bloggers](https://www.r-bloggers.com/)
+
 ## Mechanical keyboards
 
 Keyboards:
-* [OLKB(]https://olkb.com/)
+* [OLKB](https://olkb.com/)
 * [X-Bows](http://www.x-bows.com/)
 * [Ergodox](https://ergodox-ez.com/)
 * [Ultimate Hacking Keyboard](https://ultimatehackingkeyboard.com/)
@@ -61,11 +75,23 @@ Ergonomy, assistance:
 * [Scroll for trackball 2](https://autohotkey.com/board/topic/4677-wheel-button-emulation-script/)
 * [Autohoykey](https://autohotkey.com/)
 
-## Linux:
+## Linux
 
 Distributions:
 * [Arch](https://www.archlinux.org/)
 * [gentoo](https://www.gentoo.org/)
 
-## Career:
+## Community
+
+* [kaggle](https://www.kaggle.com/)
+
+## Career
 * [Data science -- you are a software engineer first](http://nadbordrozd.github.io/blog/2017/12/05/what-they-dont-tell-you-about-data-science-1/)
+
+## Events
+* [Gbg tech week](https://www.gbgtechweek.com/)
+* [PyCon Sweden](http://www.pycon.se/)
+
+## Other
+* [Neil Lawrence webpage](http://inverseprobability.com/)
+* [Import AI Newsletter](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)

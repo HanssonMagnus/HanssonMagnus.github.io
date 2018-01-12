@@ -93,16 +93,16 @@ Also, don't be afraid of admitting that you do not have all the skills that they
 * [Quantnet is a good quant finance resource](https://www.quantnet.com/)
 
 ## Some amazing sub-reddits:
-* https://www.reddit.com/r/coding/
-* https://www.reddit.com/r/computerscience/
-* https://www.reddit.com/r/compsci/
-* https://www.reddit.com/r/datascience/
-* https://www.reddit.com/r/gradadmissions/
-* https://www.reddit.com/r/MachineLearning/
-* https://www.reddit.com/r/programming/
-* https://www.reddit.com/r/Python/
-* https://www.reddit.com/r/pystats/
-* https://www.reddit.com/r/rstats/
+* [r/coding](https://www.reddit.com/r/coding/)
+* [r/computerscience](https://www.reddit.com/r/computerscience/)
+* [r/compsci](https://www.reddit.com/r/compsci/)
+* [r/datascience](https://www.reddit.com/r/datascience/)
+* [r/gradadmissions](https://www.reddit.com/r/gradadmissions/)
+* [r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
+* [r/programming](https://www.reddit.com/r/programming/)
+* [r/Python](https://www.reddit.com/r/Python/)
+* [r/pystats](https://www.reddit.com/r/pystats/)
+* [r/rstats](https://www.reddit.com/r/rstats/)
 
 ## Some potentially good positions to apply to
 Once again, I've mostly used LinkedIn (which is great) and these links below here are just some I found when looking through my browser bookmarks!

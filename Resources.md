@@ -17,6 +17,7 @@ Pythonic coding and Styling:
 * [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 * [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 * [PEP 257 -- Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
+* [PEP 20 -- The Zen of Python](https://www.python.org/dev/peps/pep-0020/) (import this)
 * [Lecture: Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
 * [Blog post: Write better code](https://heartbeat.fritz.ai/how-great-data-scientists-can-stop-writing-bad-code-9b054eb62b75)
 

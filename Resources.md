@@ -101,7 +101,14 @@ Distributions:
 ## Markdown:
 * [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-## MIT OpenCourseWare:
+## Self-learning CS:
+* [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
+* [MIT challenge](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
+* [Open Source Society University](https://github.com/ossu/computer-science)
+* [LTH CS courses](https://kurser.lth.se/lot/?val=program&prog=D&lang=en)
+* [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
+
+MIT OpenCourseWare:
 * [MIT 6.001 Structure and Interpretation, 1986](https://www.youtube.com/playlist?list=PLE18841CABEA24090)
 * [MIT 6.00 Intro to Computer Science & Programming, Fall 2008](https://www.youtube.com/playlist?list=PL4C4720A6F225E074)
 * [MIT 6.00SC Introduction to Computer Science and Programming](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7)
@@ -118,3 +125,4 @@ Distributions:
 ## Other
 * [Neil Lawrence webpage](http://inverseprobability.com/)
 * [Import AI Newsletter](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
+* [Erik Bernhardsson's blog](https://erikbern.com/)

@@ -61,7 +61,7 @@ these two base resumes it was easy to make small adjustments before applying to 
 #### What to include?
 This is of course also personal preference. At the time I wrote my resume I had a fairly updated LinkedIn profile so I used that one to build my CV. I focused a lot on skills and what I had done, rather than blindly listing the standard things like education, previous jobs etc. What makes you unique?
 
-#### Good comment/quote from reddit user [https://www.reddit.com/user/womp_womprat](womp_womprat):
+#### Good comment/quote from reddit user [womp_womprat](https://www.reddit.com/user/womp_womprat):
 I’d say there are 2 thoughts to consider when tailoring a resume:
 
 * Industry = different industries might leverage different types of models more than others, so if you can call out past experience in the preferred model types, the better. For example, finance might lean more towards time series models, if it’s a retail-type position then maybe experience in recommendation systems is more relevant to place prominently in a CV, and so on. You’d have to research a little in advance to know which models are most relevant to the industry at hand, though.

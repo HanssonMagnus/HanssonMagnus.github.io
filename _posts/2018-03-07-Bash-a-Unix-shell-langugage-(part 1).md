@@ -4,7 +4,7 @@ title: Bash a Unix shell language (part 1)
 ---
 
 ## Introduction
-There are several good reasons why you should learn Bash. First of all, if you are using Linux it is mandatory to learn some Bash in order to become a super user and you don’t want to be anything else. If you don’t use Linux, you should start.
+There are several good reasons why you should learn Bash. First of all, if you are using Linux it is mandatory to learn some Bash in order to become a power user and you don’t want to be anything else. If you don’t use Linux, you should start :)
 
 ## Automate boring stuff: Bash versus Python?
 At the book [Automate the Boring Stuff's](https://automatetheboringstuff.com/) web page the introduction starts with:

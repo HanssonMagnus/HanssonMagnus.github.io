@@ -7,6 +7,12 @@ title: Bash a Unix shell language (part 1)
 There are several good reasons why you should learn Bash. First of all, if you are using Linux it is mandatory to learn some Bash in order to become a super user and you don’t want to be anything else. If you don’t use Linux, you should start.
 
 ## Automate boring stuff: Bash versus Python?
+At the book [Automate the Boring Stuff's](https://automatetheboringstuff.com/) web page the introduction starts with:
+
+> If you've ever spent hours renaming files or updating hundreds of spreadsheet cells, you know how tedious tasks like these can be. But what if you could have your computer do them for you?
+
+When it comes to automating the booring stuff you can do a lot with shell scripting and in certain situations it can be stonger than Python, and sometimes it is a lot weaker.
+
 Bash is good when it comes to piping, redirection, stdin, stdout, stderr, etc. Since Bash is design to talk to the OS there are several fantastic features that makes your life easier. I recently had to automate some scripting on a server. Data was pushed to the server and needed resampling before entering a database. I had a Python script that resampled the data, but I wanted it to happen not once but continuously as data streamed in. Bash provided me with Crontab which is a job scheduler that solved this issue.
 
 Bash is clearly good at automating things that has to do with the OS. But Python has modules such as glob and os that can handle much of the same issues. So when to use Bash and when to use e.g. Python? I guess it boils down to taste and the task at hand. Here are some points that I’ve understood through discussing this with people:
@@ -58,3 +64,11 @@ which | locate command
 help | reference page for shell builtin
 man | on-line command reference
 
+## A recent small example where I used bash
+I wanted to move all the standard wallpapers in Ubuntu to another folder. This is a simple task and I could easily have done it by opening two file windows and dragging the desired files into the desired dictionary. However, it was much easier openening the terminal and writng this simple line:
+
+```
+cp *.jpg /usr/share/backgrounds /home/magnus/Pictures
+```
+
+The command mean copy all files that end with .jpg from the directory /user/share/backgrounds to the directory /home/magnus/Pictures. Wonderfully easy :)

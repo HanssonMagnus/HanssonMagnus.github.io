@@ -78,7 +78,7 @@ The command mean copy all files that end with .jpg from the directory /user/shar
 ## Terminal emulators
 A [terminal emulator](https://en.wikipedia.org/wiki/Terminal_emulator) is a program that allows you to use the terminal with some more advanced features. On Windows I e.g. use [cmder](http://cmder.net/) which looks more appealing and has features such as multiple tabs. A Unix alternative would e.g. be the [GNOME Terminal](https://help.gnome.org/users/gnome-terminal/stable/).
 
-[This article](https://opensource.com/life/17/10/top-terminal-emulators) gives a good overview over terminal emulators.
+[This article](https://opensource.com/life/17/10/top-terminal-emulators) gives a good overview over terminal emulators. Also, [here's a list from Arch wiki](https://wiki.archlinux.org/index.php/List_of_applications#Terminal_emulators).
 
 ## Difference between shells
 Bash is the most common Unix shell language, it is as many other shells an extension of the Bourne shell. There are several other shells as well e.g. [the fish shell](https://github.com/fish-shell/fish-shell) (friendly interactive shell) which aims at providing a user friendly shell.

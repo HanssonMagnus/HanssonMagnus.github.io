@@ -46,6 +46,8 @@ Bash is clearly good at automating things that has to do with the OS. But Python
 ## New to Bash?
 If you are new to Bash I’d recommend [LinuxCommand.org]( http://linuxcommand.org/index.php).
 
+Also [FullBashGuide](http://mywiki.wooledge.org/FullBashGuide) is a good resource.
+
 ## Summary of useful common commands
 
 Command | Description
@@ -72,3 +74,21 @@ cp *.jpg /usr/share/backgrounds /home/magnus/Pictures
 ```
 
 The command mean copy all files that end with .jpg from the directory /user/share/backgrounds to the directory /home/magnus/Pictures. Wonderfully easy :)
+
+## Terminal emulators
+A [terminal emulator](https://en.wikipedia.org/wiki/Terminal_emulator) is a program that allows you to use the terminal with some more advanced features. On Windows I e.g. use [cmder](http://cmder.net/) which looks more appealing and has features such as multiple tabs. A Unix alternative would e.g. be the [GNOME Terminal](https://help.gnome.org/users/gnome-terminal/stable/).
+
+[This article](https://opensource.com/life/17/10/top-terminal-emulators) gives a good overview over terminal emulators.
+
+## Difference between shells
+Bash is the most common Unix shell language, it is as many other shells an extension of the Bourne shell. There are several other shells as well e.g. [the fish shell](https://github.com/fish-shell/fish-shell) (friendly interactive shell) which aims at providing a user friendly shell.
+
+[UNIX shell differences and how to change your shell (Monthly Posting)](http://www.faqs.org/faqs/unix-faq/shell/shell-differences/)
+
+[Hyperpolyglot -- Unix Shells: Bash, Fish, Ksh, Tcsh, Zsh](http://hyperpolyglot.org/unix-shells)
+
+[Various system shells](https://www.in-ulm.de/~mascheck/various/shells/)
+
+[Wikipedia -- Comparison of command shells](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
+
+[Csh Programming Considered Harmful](http://www.faqs.org/faqs/unix-faq/shell/csh-whynot/)

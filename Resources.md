@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resources
+title: Online Resources
 ---
 
 ## Python

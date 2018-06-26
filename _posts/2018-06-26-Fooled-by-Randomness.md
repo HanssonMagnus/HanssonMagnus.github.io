@@ -55,7 +55,7 @@ Recall that ideas do not truly sink in when emotions come into play; we do not u
 There is an asymmetry, as these executives have almost nothing to lose. Assume that two equally charismatic, empty-suit-style twin brothers manage to climb the corporate ladder to get two different jobs in two different corporations. Assume that they own good looking suits, that they have MBAs, and that they are tall (the only truly visible predictor of corporate success is to be taller than average). They flip coins in secret and randomly take completely opposite actions, leading to great failure for one and great success for the other. We end up with a mildly wealthy, but fired, executive and his extremely wealthy, and still operating, twin brother. The shareholder bore the risk; the executives got the reward.
 The problem is old as leadership. Our attribution of heroism to those who took crazy decisions but were lucky enough to win shows the aberration, we continue to worship those who won battles and despise those who lost, no matter the reason. I wonder how many historians use luck in their interpretations of success, or how many are conscious of the difference between process and result.
 
-#### 264
+#### page 264
 Some of these chapters were composed and discussed as part of the “Odean Circle”, as my friends and I met with a varying degree of regularity (on Wednesdays at 10 p.m. after my Courant class) at the bar of the restaurant Odean in Tribeca.
 
 #### page 271

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Book Review] Fooled by Randomness
+title: Fooled by Randomness
 ---
 
 ## Introduction

@@ -5,7 +5,10 @@ title: Books
 Here I list books, not necessarily academic, that either have had a significant impact or that I've found interesting and generally
 recommend reading.
 
-### Economics and finance
+### Financial economics
+* books
+
+### Economics
 * books
 
 ### Computer science
@@ -14,8 +17,3 @@ recommend reading.
 
 ### Mathematics
 * books
-
-### Philosophy and psychology
-*	[A history of western philosophy](https://www.goodreads.com/book/show/243685.A_History_of_Western_Philosophy)
-* [Man and his symbols](https://www.goodreads.com/book/show/123632.Man_and_His_Symbols)
-* [12 rules for life](https://www.goodreads.com/book/show/30257963-12-rules-for-life)

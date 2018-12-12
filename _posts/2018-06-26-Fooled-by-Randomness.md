@@ -4,9 +4,7 @@ title: Fooled by Randomness
 ---
 
 ## Introduction
-Fooled by Randomness is clearly famous with over 36k ratings on goodreads, with an average rating of 4.03. This rating is imo way too high. My general impression of Taleb when reading this book is that he is too arrogant compared to his skill level. Sometimes this is amusing to read, Taleb bashing everyone, but most of the time it's just silly. The core concepts of the book are taught in statistics 1 and the other concepts in statistics 2.  Although, the concepts discussed are important and they are concepts that the human brain sometimes is having a hard time to consult during everyday decision making. This is why it's good, from time to time, remind the brain to think logically.
-
-This review consists of quotes from the book so I don't have to re-read it and you don't have to read it in te first place.
+Fooled by Randomness is clearly famous, with over 36k ratings on Goodreads (with an average of 4.03 out of 5). It's not the best book I've read, but it's amusing. This post consists of quotes from the book so I don't have to re-read it, and you can get a feel for the book.
 
 #### page 103
 The best description of my lifelong business in the market is “skewed bets”, that is, I try to benefit from rare events, events that do not tend to repeat themselves frequently, but, accordingly present a large payoff when they occur. I try to make money infrequently, as infrequently as possible, simply because I believe that rare events are not fairly valued, and that the rarer the event, the more undervalued it will be in price. In addition to my own empiricism,  think that the counter-intuitive aspect of the trade (and the fact that our emotional wiring does not accommodate it) gives me some form of advantage.

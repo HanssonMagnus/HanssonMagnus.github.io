@@ -4,7 +4,7 @@ title: Fooled by Randomness
 ---
 
 ## Introduction
-Fooled by Randomness is clearly famous, with over 36k ratings on Goodreads (with an average of 4.03 out of 5). It's not the best book I've read, but it's amusing. This post consists of quotes from the book so I don't have to re-read it, and you can get a feel for the book.
+In Fooled by Randomness, Taleb discusses, in a non-technical manner, the fact that the distributions of financial returns typically have a negative skewness, i.e. they are not symmetric but the negative tails are heavier. This post consists of a few quotes from the book and then continues with a more technical discussion on the matter.
 
 #### page 103
 The best description of my lifelong business in the market is “skewed bets”, that is, I try to benefit from rare events, events that do not tend to repeat themselves frequently, but, accordingly present a large payoff when they occur. I try to make money infrequently, as infrequently as possible, simply because I believe that rare events are not fairly valued, and that the rarer the event, the more undervalued it will be in price. In addition to my own empiricism,  think that the counter-intuitive aspect of the trade (and the fact that our emotional wiring does not accommodate it) gives me some form of advantage.

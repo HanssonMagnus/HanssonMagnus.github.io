@@ -35,13 +35,14 @@ Sometimes I get asked what I recommend reading in a particular field. Here is a 
 
 ## Statistics and Econometrics
 ##### Textbooks:
-* books
+* [Cameron and Trivedi, Microeconometrics](https://www.goodreads.com/book/show/1043516.Microeconometrics?ac=1&from_search=true)
 
 ##### Non-textbooks:
 * books
 
-## Other subjects
-* books
+## Other
+* [Newport, Deep work](https://www.goodreads.com/book/show/25744928-deep-work?ac=1&from_search=true)
+* []
 
 ## Fiction
 * books

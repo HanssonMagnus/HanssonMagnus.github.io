@@ -115,18 +115,5 @@ Also, don't be afraid of admitting that you do not have all the skills that they
 * [r/pystats](https://www.reddit.com/r/pystats/)
 * [r/rstats](https://www.reddit.com/r/rstats/)
 
-## Some potentially good positions to apply to
-Once again, I've mostly used LinkedIn (which is great) and these links below here are just some I found when looking through my browser bookmarks!
-#### Tech:
-* [Google AI Residency Program](https://research.google.com/teams/brain/residency/)
-
-#### Quant finance / finance:
-* [Brummer summer intership](https://www.brummer.se/sv/Om-oss/Om-Brummer--Partners/jobb/)
-* [Vacant positions at SEB](https://seb.se/om-seb/lediga-tjanster)
-* [Lynx Quant Hedge](http://www.lynxhedge.se/arbeta-hos-oss)
-* [Oliver Wyman](http://www.oliverwyman.com/careers/apply.html#Consultants)
-* [European Central Bank](https://www.bankingsupervision.europa.eu/careers/vacancies/html/index.en.html)
-* [Vacant positions at Nordea](https://www.nordea.com/sv/karriar/lediga-jobb/?cty=19423&geo=0&area=19483&jobid=&p=3)
-* [A quant finance webpage I found in my bookmarks never used it!](http://www.quantfinancejobs.com/)
 
 ### Finally, good luck!

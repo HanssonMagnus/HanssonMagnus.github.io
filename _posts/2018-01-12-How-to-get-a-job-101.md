@@ -103,7 +103,7 @@ Also, don't be afraid of admitting that you do not have all the skills that they
 ## Other resources
 * [Quantnet is a good quant finance resource](https://www.quantnet.com/)
 
-## Some amazing sub-reddits:
+## Some great sub-reddits:
 * [r/coding](https://www.reddit.com/r/coding/)
 * [r/computerscience](https://www.reddit.com/r/computerscience/)
 * [r/compsci](https://www.reddit.com/r/compsci/)

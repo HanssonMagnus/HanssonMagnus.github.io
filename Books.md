@@ -2,7 +2,7 @@
 layout: page
 title: Books
 ---
-Sometimes I get asked what I recommend reading in a particular field. Here is a list of books that I've found interesting, helpful or just a good read.
+Sometimes I get asked what I recommend reading in a particular field. Here I've begun a list of selected books that I've found interesting, helpful or just a good read. Some of the books have been course books during my university studies and others I've had recommended by friends or found when investigating a subject.
 
 ## Finance
 ##### Textbooks:

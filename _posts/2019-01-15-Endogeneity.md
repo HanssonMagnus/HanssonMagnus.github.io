@@ -25,7 +25,7 @@ Consider the OLS estimator,
 	\hat{\beta} = \beta + (X'X)^{-1}X'u
 \end{equation}
 
-Thus in order for the estimator to be unbiased $$\mathbb{E}((X'X)^{-1}X'u)=0$$ is needed. The standard OLS assumption $$\mathbb{E}(u|X)=0$$ yields unbiasedness,
+Thus, in order for the estimator to be unbiased $$\mathbb{E}((X'X)^{-1}X'u)=0$$ needs to hold. The standard OLS assumption $$\mathbb{E}(u|X)=0$$ yields unbiasedness,
 
 \begin{equation}
 	\mathbb{E}(\hat{\beta}) = \beta + \mathbb{E}((X'X)^{-1}X'u) \iff
@@ -43,7 +43,7 @@ Thus in order for the estimator to be unbiased $$\mathbb{E}((X'X)^{-1}X'u)=0$$ i
 	\mathbb{E}(\hat{\beta}) = \beta
 \end{equation}
 
-by using the law of iterated expectations. (For consistency this needs to hold asymptotically.) This means that if endogeneity is present, i.e. X is correlated with u, then the estimator is biased and inconsistent.
+by using the law of iterated expectations. (For consistency this needs to hold asymptotically.) This means that if endogeneity is present, i.e. $$X$$ is correlated with $$u$$, the estimator is biased and inconsistent.
 
 ## The IV estimator
 \begin{equation}
@@ -60,9 +60,9 @@ by using the law of iterated expectations. (For consistency this needs to hold a
 	x = z + v
 \end{equation}
 
-where z is distributed $$\mathcal{N}(2,1)$$ and (u,v) are distributed by a multivariate normal distribution with means 0, variances 1 and correlation 0.8. This means that x is correlated with u, hence the regression of y on x is inconsistent and biased.
+where $$z$$ is distributed $$\mathcal{N}(2,1)$$ and $$(u,v)$$ are distributed by a multivariate normal distribution with means $$0$$, variances $$1$$ and correlation $$0.8$$. This means that $$x$$ is correlated with $$u$$, hence the regression of $$y$$ on $$x$$ is inconsistent and biased.
 
-The z variables is an instrument since it is correlated with x but uncorrelated with u.
+The $$z$$ variables is an instrument since it is correlated with $$x$$ but uncorrelated with $$u$$.
 
 We start by defining a linear regression function,
 

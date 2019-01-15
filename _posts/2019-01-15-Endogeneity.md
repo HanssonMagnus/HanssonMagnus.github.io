@@ -197,4 +197,4 @@ Note that you need to evalute the intercept at $$(0,0)$$.
 Although, the red line with higher bias has a poorer fit it might be an okay approximation depending on the task at hand.
 
 ## Conclusion
-Endogeneity is a propblem in academic econometrics, it distorts the interpretation of the coefficients and the explanatory power of the model. However, the biased estimator still seems to capture the overall correlation direction and from a modelling point of view it might be used caution. To end with a cliché, "all models are wrong but.."
+Endogeneity is a problem in academic econometrics, it distorts the interpretation of the coefficients and the explanatory power of the model. However, the biased estimator still seems to capture the overall correlation direction and from a modelling point of view it might be used caution. To end with a cliche, 'all models are wrong but..'

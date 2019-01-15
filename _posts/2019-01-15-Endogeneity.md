@@ -9,21 +9,39 @@ This post considers the econometric concept of endogeneity in which the explanat
 ## Short theory
 Consider the OLS estimator,
 
-\begin{align}
-    \hat{\beta} = (X'X)^{-1}X'y \iff \\
-	\hat{\beta} = (X'X)^{-1}X'(X \beta +u) \iff \\
-	\hat{\beta} = (X'X)^{-1}(X'X) \beta + (X'X)^{-1}X'u \iff \\
+\begin{equation}
+    \hat{\beta} = (X'X)^{-1}X'y \iff
+\end{equation}
+
+\begin{equation}
+	\hat{\beta} = (X'X)^{-1}X'(X \beta +u) \iff
+\end{equation}
+	
+\begin{equation}
+	\hat{\beta} = (X'X)^{-1}(X'X) \beta + (X'X)^{-1}X'u \iff
+\end{equation}
+
+\begin{equation}
 	\hat{\beta} = \beta + (X'X)^{-1}X'u
-\end{align}
+\end{equation}
 
 Thus in order for the estimator to be unbiased $$\mathbb{E}((X'X)^{-1}X'u)=0$$ is needed. The standard OLS assumption $$\mathbb{E}(u|X)=0$$ yields unbiasedness,
 
-\begin{align}
-	\mathbb{E}(\hat{\beta}) = \beta + \mathbb{E}((X'X)^{-1}X'u) \iff \\
-	\mathbb{E}(\hat{\beta}) = \beta + \mathbb{E}(\mathbb{E}((X'X)^{-1}X'u|X)) \iff \\
-	\mathbb{E}(\hat{\beta}) = \beta + \mathbb{E}((X'X)^{-1}X' \mathbb{E}(u|X)) \iff \\
+\begin{equation}
+	\mathbb{E}(\hat{\beta}) = \beta + \mathbb{E}((X'X)^{-1}X'u) \iff
+\end{equation}
+
+\begin{equation}
+	\mathbb{E}(\hat{\beta}) = \beta + \mathbb{E}(\mathbb{E}((X'X)^{-1}X'u|X)) \iff
+\end{equation}
+
+\begin{equation}
+	\mathbb{E}(\hat{\beta}) = \beta + \mathbb{E}((X'X)^{-1}X' \mathbb{E}(u|X)) \iff
+\end{equation}
+
+\begin{equation}
 	\mathbb{E}(\hat{\beta}) = \beta
-\end{align}
+\end{equation}
 
 by using the law of iterated expectations. (For consistency this needs to hold asymptotically.) This means that if endogeneity is present, i.e. X is correlated with u, then the estimator is biased and inconsistent.
 
@@ -75,3 +93,21 @@ lin_reg <- function(x, y, z = 0, intercept = TRUE, instrument = FALSE){
 }
 ```
 
+Simulation of data,
+
+```R
+library(MASS)
+
+set.seed(42)
+
+z <- rnorm(10000, 2, 1)
+
+sigma <- matrix(data = c(1,0.8,0.8,1), nrow = 2, ncol = 2)
+uv <- mvrnorm(n = 10000, mu = c(0,0), Sigma = sigma)
+
+u <- uv[,1]
+v <- uv[,2]
+
+x <- z + v
+y <- 0.5*x + u
+```

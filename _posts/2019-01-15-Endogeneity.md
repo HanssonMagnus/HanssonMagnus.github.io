@@ -45,7 +45,7 @@ Thus, in order for the estimator to be unbiased $$\mathbb{E}((X'X)^{-1}X'u)=0$$ 
 
 by using the law of iterated expectations. (For consistency this needs to hold asymptotically). This means that if endogeneity is present, i.e. $$X$$ is correlated with $$u$$, the estimator is biased and inconsistent.
 
-One might note that $$(X'X)^{-1}X'u)$$ is simply another regression. However, what is observed is not $$u$$ but $$\hat{u}$$ and $$\mathbb{E}(X \hat{u})$$ is by construction of the estimator (FOC of MSE) equal to $$0$$, thus the bias cannot be measured. This can be seen by,
+One might note that $$(X'X)^{-1}X'u)$$ is simply another regression. However, what is observed is not $$u$$ but $$\hat{u}$$ and $$\mathbb{E}(X \hat{u})$$ is by construction of the estimator (FOC of OLS / when you minimize the squared errors) equal to $$0$$, thus the bias cannot be measured. This can be seen by,
 
 \begin{equation}
 	(X'X)\hat{\beta} = X'y \iff

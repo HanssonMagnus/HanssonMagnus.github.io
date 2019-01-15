@@ -25,7 +25,7 @@ Consider the OLS estimator,
 	\hat{\beta} = \beta + (X'X)^{-1}X'u
 \end{equation}
 
-Thus, in order for the estimator to be unbiased $$\mathbb{E}((X'X)^{-1}X'u)=0$$ needs to hold. The standard OLS assumption $$\mathbb{E}(u|X)=0$$ yields unbiasedness,
+Thus, in order for the estimator to be unbiased $$\mathbb{E}((X'X)^{-1}X'u)=0$$ needs to hold. The standard OLS assumption $$\mathbb{E}(u \bar X)=0$$ yields unbiasedness,
 
 \begin{equation}
 	\mathbb{E}(\hat{\beta}) = \beta + \mathbb{E}((X'X)^{-1}X'u) \iff

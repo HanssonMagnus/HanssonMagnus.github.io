@@ -25,7 +25,7 @@ Consider the OLS estimator,
 	\hat{\beta} = \beta + (X'X)^{-1}X'u
 \end{equation}
 
-Thus, in order for the estimator to be unbiased $$\mathbb{E}((X'X)^{-1}X'u)=0$$ needs to hold. The standard OLS assumption $$\mathbb{E}(u \bar X)=0$$ yields unbiasedness,
+Thus, in order for the estimator to be unbiased $$\mathbb{E}((X'X)^{-1}X'u)=0$$ needs to hold. The standard OLS assumption $$\mathbb{E}(u \mid X)=0$$ yields unbiasedness,
 
 \begin{equation}
 	\mathbb{E}(\hat{\beta}) = \beta + \mathbb{E}((X'X)^{-1}X'u) \iff
@@ -44,6 +44,26 @@ Thus, in order for the estimator to be unbiased $$\mathbb{E}((X'X)^{-1}X'u)=0$$ 
 \end{equation}
 
 by using the law of iterated expectations. (For consistency this needs to hold asymptotically.) This means that if endogeneity is present, i.e. $$X$$ is correlated with $$u$$, the estimator is biased and inconsistent.
+
+One might note that $$((X'X)^{-1}X'u)$$ is simply another regression. However, what is observed is not $$u$$ but $$\hat{u}$$ and $$\mathbb{E}(X \hat{u})$$ is by construction of the estimator (FOC of MSE) equal to $$0$$, thus the bias cannot be measured. This can be seen by,
+
+\begin{equation}
+	(X'X)\hat{\beta} = X'y \iff
+\end{equation}
+
+\begin{equation}
+	(X'X)\hat{\beta} = X'(X \hat{\beta} + \hat{u})
+\end{equation}
+
+\begin{equation}
+	(X'X)\hat{\beta} = (X'X)\hat{\beta} + X'\hat{u}
+\end{equation}
+
+\begin{equation}
+X'\hat{u} = 0
+\end{equation}
+
+This means that the observed correlation between $$X$$ and $$\hat{u}$$ is $$0$$. It also means that the sum of $$\hat{u}$$ is equal to $$0$$ if we have an intercept in the model, since that represents a column of $$1$$'s.
 
 ## The IV estimator
 \begin{equation}
@@ -111,3 +131,70 @@ v <- uv[,2]
 x <- z + v
 y <- 0.5*x + u
 ```
+
+Running the regressions,
+
+```R
+reg_xy <- lin_reg(x, y, intercept = TRUE)
+```
+
+```R
+> reg_xy[['coeffs']]
+           [,1]
+[1,] -0.8003143
+[2,]  0.8978703
+```
+
+```R
+reg_xzy <- lin_reg(x, y, z, intercept = TRUE, instrument = TRUE)
+```
+
+```R
+> reg_xzy[['coeffs']]
+          [,1]
+[1,] 0.0139782
+[2,] 0.4887241
+```
+
+By observing the results the IV estimator is accurate in estimating the true dgp whereas the biased/inconsistent estimator is quite off.
+
+## How does the bias depend on the correlation?
+One question that comes to mind is how does the biased/inconsistent estimator perform under different correlations? In the previous example a quite large correlation between $$u$$ and $$v$$ was imposed.
+
+The following piece of code simulates data from $$0$$ correlation between $$u$$ and $$v$$ to correlation $$1$$. Then I plot the coefficients and we can observe how the change when the correlation increases.
+
+```R
+set.seed(42)
+z <- rnorm(10000, 2, 1)
+
+coeffs_a<- list()
+coeffs_b <- list()
+
+for (i in seq(0, 1, by=0.01)){
+  sigma <- matrix(data = c(1, i, i, 1), nrow = 2, ncol = 2)
+  uv <- mvrnorm(n = 10000, mu = c(0,0), Sigma = sigma)
+  u <- uv[,1]
+  v <- uv[,2]
+  
+  x <- z + v
+  y <- 0.5*x + u
+  
+  reg_xy <- lin_reg(x, y, intercept = TRUE)
+  
+  coeffs_a[[toString(i)]] <- reg_xy[['coeffs']][1,]
+  coeffs_b[[toString(i)]] <- reg_xy[['coeffs']][2,]
+}
+```
+
+![Fig 1](/images/beta_alpha.png)
+
+The beta coefficient starts at the true value when the correlation is $$0$$ (as do the intercept) and then linearly deviates. This seems bad, however what happens if we plot the $$x$$ and $$y$$ data together with different regression lines corresponding to different correlations? How off are they? To give "less" advantage to the biased/inconsistent regression, I plot simulated data where $$u$$ and $$v$$ has zero correlation.
+
+![Fig 2](/images/diff_corr.png)
+
+Note that you need to evalute the intercept at $$(0,0)$$.
+
+Although, the red line with higher bias has a poorer fit it might be an okay approximation depending on the task at hand.
+
+## Conclusion
+Endogeneity is a propblem in academic econometrics, it distorts the interpretation of the coefficients and the explanatory power of the model. However, the biased estimator still seems to capture the overall correlation direction and from a modelling point of view it might be used caution. To end with a cliché, "all models are wrong but.."

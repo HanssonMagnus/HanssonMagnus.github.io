@@ -65,6 +65,8 @@ X'\hat{u} = 0
 
 This means that the observed correlation between $$X$$ and $$\hat{u}$$ is $$0$$. It also means that the sum of $$\hat{u}$$ is equal to $$0$$ if we have an intercept in the model, since that represents a column of $$1$$'s in the $$X$$ matrix.
 
+Furthermore, when $$x$$ is endogenous  
+
 ## The IV estimator
 \begin{equation}
 	\hat{\beta} = \frac{(z'z)^{-1}z'y}{(z'z)^{-1}z'x} = (z'x)^{-1}z'y
@@ -193,13 +195,61 @@ for (i in seq(0, 1, by=0.01)){
 
 ![Fig 1](/images/beta_alpha.png)
 
-The beta coefficient starts at the true value when the correlation is $$0$$ (as does the intercept) and then linearly deviates. This seems bad, however what happens if we plot the $$x$$ and $$y$$ data together with different regression lines corresponding to different correlations? How off are they? To give "less" advantage to the biased/inconsistent regression, I plot simulated data where $$u$$ and $$v$$ has zero correlation.
+The beta coefficient starts at the true value when the correlation is $$0$$ (as does the intercept) and then linearly deviates. If also negative correlation the following results arise,
 
-![Fig 2](/images/diff_corr.png)
+![Fig 2](/images/beta_alpha2.png)
+
+The linear relationship continues. This seems bad, however what happens if we plot the $$x$$ and $$y$$ data together with different regression lines corresponding to different correlations? How off are they? To give "less" advantage to the biased/inconsistent regression, I plot simulated data where $$u$$ and $$v$$ has zero correlation.
+
+![Fig 3](/images/diff_corr.png)
 
 Note that you need to evalute the intercept at $$(0,0)$$.
 
 Although, the red line with higher bias has a poorer fit it might be an okay approximation depending on the task at hand.
 
+Further it would of course be interesting to look at the data from the original numerical example and comapre the inconsistent OLS estimator with the consistent IV estimator. The magnitude of the distortion looked severe when comapring the coefficients, but how does it look visually?
+
+![Fig 3](/images/ols_vs_iv.png)
+
+This is actually an extremely interesting figure. Note that it looks like the blue line, i.e. the OLS estimator, represents the data better than the IV estimator. Thus, from a prediction point of view, does the IV estimator add any value?
+
+## When is the distortion too much?
+When reading econometrics litterature one can come by statements saying that the endogeneity problem can be so severe such that the sign of the slope coefficient is wrong. By looking at,
+
+\begin{equation}
+	\hat{\beta} = \beta + (X'X)^{-1}X'u
+\end{equation}
+
+one can see that if $$\beta > 0$$ but $$(X'X)^{-1}X'u << 0$$ such that $$\hat{\beta} <0$$ then the interpretation of estimated coefficient can be completely misleading.
+
+By simulating the same data as before, with the only change that $$\beta = 0.1$$ instead of $$0.5$$ leads to the following estimations,
+
+```R
+> reg_xy <- lin_reg(x, y, intercept = TRUE)
+> reg_xy[['coeffs']]
+           [,1]
+[1,]  0.7928535
+[2,] -0.3007175
+> 
+> reg_xzy <- lin_reg(x, y, z, intercept = TRUE, instrument = TRUE)
+> reg_xzy[['coeffs']]
+            [,1]
+[1,] -0.01634006
+[2,]  0.10654534
+```
+
+Here one can see that the OLS estimator is giving a negative slope coefficient while the IV estimator gives an accurate approximation. Plotting this,
+
+![Fig 3](/images/ols_vs_iv2.png)
+
+Clearly this is a siatuation one should be careful not to end up in.
+
+
 ## Conclusion
-Endogeneity is a problem in academic econometrics, it distorts the interpretation of the coefficients and the explanatory power of the model. However, the biased estimator still seems to capture the overall correlation direction and from a modelling point of view it might be used with caution. To end with a cliche, 'all models are wrong...'.
+Endogeneity is a problem in academic econometrics, it distorts the interpretation of the coefficients and the explanatory power of the model. However, the biased estimator still seems to capture the overall correlation direction in the normal case and from a modelling point of view it might be used with caution.
+
+Althoug, as one of my fellow PhD student pointed out, the IV estimatior is typically used in order to get the right interpretation of the causial relationship rather than a better prediction.
+
+In conclusion one should be careful about a situation in which the relationship one is trying to investigate is weak and there might be a large correlation between the regressor, $$x$$ and the error term $$u$$.
+
+To end with a cliche, 'all models are wrong...'.

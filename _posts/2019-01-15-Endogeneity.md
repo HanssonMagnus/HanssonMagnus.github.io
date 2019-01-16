@@ -242,6 +242,9 @@ Here one can see that the OLS estimator is giving a negative slope coefficient w
 
 Clearly this is a situation one should be careful not to end up in.
 
+## A simple fictional example
+Say that we have a company that would like to estimate the credit worthiness of our customers, to calculate our risk. We have an online business which means that we have limited information. Let's say that the attribute "rockstar" has in itself a negative impact on credit worthiness, however the attribute is correlated with high wages which has a positive impact on credit worthiness, so the overall effect is positive. In our company we don't care about the causal impacts, we just care about the probability that we will get paid. However, from a researchers point of view it is interesting what causal effects are driving the credit worthiness and the underlying relationship. Hence, from the comapny's point of view an OLS model would be useful to predict the credit risk and from the researchers point of view an IV model would be considered appropriate to capture the correct causal relationship.
+
 
 ## Conclusion
 Endogeneity is a problem in academic econometrics, it distorts the interpretation of the coefficients and the explanatory power of the model. However, in practice the biased estimator still seems to capture the overall correlation direction in the normal case and from a modelling point of view it might be used for prediction (but not causal inference) with caution. But one needs to be careful about the extreme cases.

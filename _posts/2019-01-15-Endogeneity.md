@@ -220,7 +220,7 @@ When reading econometrics litterature one can come by statements saying that the
 
 one can see that if $$\beta > 0$$ but $$(X'X)^{-1}X'u << 0$$ such that $$\hat{\beta} <0$$ then the interpretation of estimated coefficient can be completely misleading.
 
-By simulating the same data as before, with the only change that $$\beta = 0.1$$ instead of $$0.5$$ leads to the following estimations,
+By simulating the same data as before, with the only changes that $$\beta = 0.1$$ instead of $$0.5$$ and correlation between $$u$$ and $$v$$ is $$-0.8$$ instead of $$0.8$$, lead to the following estimations,
 
 ```R
 > reg_xy <- lin_reg(x, y, intercept = TRUE)

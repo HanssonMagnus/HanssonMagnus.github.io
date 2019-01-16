@@ -240,13 +240,13 @@ Here one can see that the OLS estimator is giving a negative slope coefficient w
 
 ![Fig 3](/images/ols_vs_iv2.png)
 
-Clearly this is a siatuation one should be careful not to end up in.
+Clearly this is a situation one should be careful not to end up in.
 
 
 ## Conclusion
-Endogeneity is a problem in academic econometrics, it distorts the interpretation of the coefficients and the explanatory power of the model. However, in practice the biased estimator still seems to capture the overall correlation direction in the normal case and from a modelling point of view it might be used with caution. But one needs to be careful about the extreme cases.
+Endogeneity is a problem in academic econometrics, it distorts the interpretation of the coefficients and the explanatory power of the model. However, in practice the biased estimator still seems to capture the overall correlation direction in the normal case and from a modelling point of view it might be used for prediction (but not causal inference) with caution. But one needs to be careful about the extreme cases.
 
-Althoug, as one of my fellow PhD student pointed out, the IV estimatior is typically used in order to get the right interpretation of the causial relationship rather than a better prediction, this is very important to point out.
+Althoug, as one of my fellow PhD student pointed out, the IV estimatior is typically used in order to get the right interpretation of the causial relationship rather than a better prediction, this is very important to emphasize. This means that the OLS estimator might still be better if one only wants to predict $$y$$, but the prediction cannot directly be interpreted as causation. This can be seen from the plots "OLS vs IV" in this post, where the OLS estimate seems more in line with the data than the IV estimate.
 
 In conclusion one should be careful about a situation in which the relationship one is trying to investigate is weak and there might be a large correlation between the regressor, $$x$$ and the error term $$u$$.
 

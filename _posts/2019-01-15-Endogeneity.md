@@ -45,7 +45,7 @@ Thus, in order for the estimator to be unbiased $$\mathbb{E}((X'X)^{-1}X'u)=0$$ 
 
 by using the law of iterated expectations. (For consistency this needs to hold asymptotically). This means that if endogeneity is present, i.e. $$X$$ is correlated with $$u$$, the estimator is biased and inconsistent.
 
-One might note that $$(X'X)^{-1}X'u)$$ is simply another regression. However, what is observed is not $$u$$ but $$\hat{u}$$ and $$\mathbb{E}(X \hat{u})$$ is by construction of the estimator (FOC of OLS / when you minimize the squared errors) equal to $$0$$, thus the bias cannot be measured. This can be seen by,
+One might note that $$(X'X)^{-1}X'u$$ is simply another regression. However, what is observed is not $$u$$ but $$\hat{u}$$ and $$\mathbb{E}(X \hat{u})$$ is by construction of the estimator (FOC of OLS / when you minimize the squared errors) equal to $$0$$, thus the bias cannot be measured. This can be seen by,
 
 \begin{equation}
 	(X'X)\hat{\beta} = X'y \iff
@@ -65,14 +65,12 @@ X'\hat{u} = 0
 
 This means that the observed correlation between $$X$$ and $$\hat{u}$$ is $$0$$. It also means that the sum of $$\hat{u}$$ is equal to $$0$$ if we have an intercept in the model, since that represents a column of $$1$$'s in the $$X$$ matrix.
 
-Furthermore, when $$x$$ is endogenous  
-
 ## The IV estimator
 \begin{equation}
 	\hat{\beta} = \frac{(z'z)^{-1}z'y}{(z'z)^{-1}z'x} = (z'x)^{-1}z'y
 \end{equation}
 
-For more information see e.g. [wiki](https://en.wikipedia.org/wiki/Instrumental_variables_estimation)
+For more information see e.g. [wiki](https://en.wikipedia.org/wiki/Instrumental_variables_estimation).
 
 ## Numerical example
 \begin{equation}
@@ -195,7 +193,7 @@ for (i in seq(0, 1, by=0.01)){
 
 ![Fig 1](/images/beta_alpha.png)
 
-The beta coefficient starts at the true value when the correlation is $$0$$ (as does the intercept) and then linearly deviates. If also negative correlation the following results arise,
+The beta coefficient starts at the true value when the correlation is $$0$$ (so does the intercept) and then linearly deviates. If also negative correlation is considered the following results arise,
 
 ![Fig 2](/images/beta_alpha2.png)
 
@@ -207,7 +205,7 @@ Note that you need to evalute the intercept at $$(0,0)$$.
 
 Although, the red line with higher bias has a poorer fit it might be an okay approximation depending on the task at hand.
 
-Further it would of course be interesting to look at the data from the original numerical example and comapre the inconsistent OLS estimator with the consistent IV estimator. The magnitude of the distortion looked severe when comapring the coefficients, but how does it look visually?
+Further, it would of course be interesting to look at the data from the original numerical example (with correlation 0.8) and comapre the inconsistent OLS estimator with the consistent IV estimator. The magnitude of the distortion looked severe when comapring the coefficients, but how does it look visually?
 
 ![Fig 3](/images/ols_vs_iv.png)
 
@@ -246,9 +244,9 @@ Clearly this is a siatuation one should be careful not to end up in.
 
 
 ## Conclusion
-Endogeneity is a problem in academic econometrics, it distorts the interpretation of the coefficients and the explanatory power of the model. However, the biased estimator still seems to capture the overall correlation direction in the normal case and from a modelling point of view it might be used with caution.
+Endogeneity is a problem in academic econometrics, it distorts the interpretation of the coefficients and the explanatory power of the model. However, in practice the biased estimator still seems to capture the overall correlation direction in the normal case and from a modelling point of view it might be used with caution. But one needs to be careful about the extreme cases.
 
-Althoug, as one of my fellow PhD student pointed out, the IV estimatior is typically used in order to get the right interpretation of the causial relationship rather than a better prediction.
+Althoug, as one of my fellow PhD student pointed out, the IV estimatior is typically used in order to get the right interpretation of the causial relationship rather than a better prediction, this is very important to point out.
 
 In conclusion one should be careful about a situation in which the relationship one is trying to investigate is weak and there might be a large correlation between the regressor, $$x$$ and the error term $$u$$.
 

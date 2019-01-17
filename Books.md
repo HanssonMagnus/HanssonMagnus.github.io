@@ -2,7 +2,7 @@
 layout: page
 title: Books
 ---
-Sometimes I get asked what I recommend reading in a particular field. Here I've begun a list of selected books that I've found interesting, helpful or just a good read. Some of the books have been course books during my university studies and others I've had recommended by friends or found when investigating a subject.
+Sometimes I get asked what books I recommend in a particular field. Here, I've begun a list of selected literature, with titles that I've found interesting, helpful or just compelling. Some of the books have been course books during my university studies and others I've had recommended by friends or found when doing research.
 
 ## Finance
 ##### Textbooks:
@@ -28,7 +28,9 @@ Sometimes I get asked what I recommend reading in a particular field. Here I've 
 
 ## Mathematics
 ##### Textbooks:
-* books
+* [Trefethen, Numerical Linear Algebra](https://www.goodreads.com/book/show/1372376.Numerical_Linear_Algebra?ac=1&from_search=true)
+* [Trefethen, Approximation Theory and Approximation Practice](https://www.goodreads.com/book/show/16670471-approximation-theory-and-approximation-practice?ac=1&from_search=true)
+* [Bishop, Neural Networks for Pattern Recognition](https://www.goodreads.com/book/show/92536.Neural_Networks_for_Pattern_Recognition?ac=1&from_search=true)
 
 ##### Non-textbooks:
 * books
@@ -42,7 +44,7 @@ Sometimes I get asked what I recommend reading in a particular field. Here I've 
 
 ## Other
 * [Newport, Deep work](https://www.goodreads.com/book/show/25744928-deep-work?ac=1&from_search=true)
-* []
+* [Thiel, Zero to one](https://www.goodreads.com/book/show/18050143-zero-to-one?ac=1&from_search=true)
 
 ## Fiction
 * books

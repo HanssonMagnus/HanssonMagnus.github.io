@@ -11,3 +11,6 @@ kramdown:
   math_engine: mathjax
 theme: minima
 future: true
+
+# Google Analytics
+google_analytics: UA-132782909-1

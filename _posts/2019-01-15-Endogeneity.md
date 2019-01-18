@@ -7,7 +7,7 @@ title: Endogeneity
 This post considers the econometric concept of endogeneity in which the explanatory variable in a regression in correlated with the error term. A short explanation is given, followed by a numerical example in R using instrumental variable (IV) estimation.
 
 ## Short theory
-Consider the OLS estimator,
+Consider the [OLS estimator](https://en.wikipedia.org/wiki/Ordinary_least_squares#Estimation),
 
 \begin{equation}
     \hat{\beta} = (X'X)^{-1}X'y \iff

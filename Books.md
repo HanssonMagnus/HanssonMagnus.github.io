@@ -2,7 +2,7 @@
 layout: page
 title: Books
 ---
-Sometimes I get asked what books I recommend in a particular field. Here, I've begun a list of selected literature, with titles that I've found interesting, helpful or just compelling. Some of the books have been course books during my university studies and others I've had recommended by friends or found when doing research.
+Sometimes I get asked what I recommend reading in a particular field. Here I've begun a list of selected books that I've found interesting, helpful or just good reads. Some of the books have been course literature during my university studies and others I've had recommended by friends or found when doing research.
 
 ## Finance
 ##### Textbooks:
@@ -15,6 +15,8 @@ Sometimes I get asked what books I recommend in a particular field. Here, I've b
 ##### Textbooks:
 * [Varian, Microeconomic Analysis](https://www.goodreads.com/book/show/323071.Micro_Analysis?ac=1&from_search=true)
 * [Mas-Colell, Microeconomic Theory](https://www.goodreads.com/book/show/735963.Microeconomic_Theory?ac=1&from_search=true)
+* [Fudenberg and Tirole, Game Theory](https://www.goodreads.com/book/show/469868.Game_Theory)
+* [Tadelis, Game Theory An Introduction](https://www.goodreads.com/book/show/15930573-game-theory)
 
 ##### Non-textbooks:
 * books

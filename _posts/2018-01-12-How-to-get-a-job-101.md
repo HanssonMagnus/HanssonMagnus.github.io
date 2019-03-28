@@ -24,7 +24,7 @@ indirectly linked to the keyword. The search engine is probably using some ML al
 
 There is also a LinkedIn job mobile app which makes it easy to check for positions every day. Furthermore, one can subscribe to job
 categories, keywords and so on. Sometimes jobs posted on LinkedIn have an easy apply function, in which one can apply directly with
-one's LinkedIn profile. This allows for a fast and parallel application process. In fact, with this functionality one could write a script automatically applying to jobs ;)
+one's LinkedIn profile. This allows for a fast and parallel application process.
 
 Quite frankly I definitely had most success using LinkedIn and after a while I didn't use any other job engines.
 
@@ -116,4 +116,4 @@ Also, don't be afraid of admitting that you do not have all the skills that they
 * [r/rstats](https://www.reddit.com/r/rstats/)
 
 
-### Finally, good luck!
+### Good luck!

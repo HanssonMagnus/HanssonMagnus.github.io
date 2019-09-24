@@ -4,6 +4,18 @@ title: Books
 ---
 Sometimes I get asked what I recommend reading in a particular field. Here I've begun a list of selected books that I've found interesting, helpful or just good reads. Some of the books have been course literature during my university studies and others I've had recommended by friends or found when doing research.
 
+<div class="row">
+    <div class="col-md-6">
+        **some code block here**
+        **another code block here**
+    </div>
+    <div class="col-md-6">
+        **some text here**
+        ##some header here
+        ###something else here
+    </div>
+</div>
+
 #### Finance
 ##### Textbooks:
 * books

@@ -3,7 +3,7 @@ layout: page
 title: Books
 ---
 
-Sometimes I get asked what I recommend reading in a particular field. Here I've begun a list of selected readings that I've found interesting, helpful or just good reads.
+Here I've begun a list of selected readings.
 
 ### Finance
 #### Reference books:

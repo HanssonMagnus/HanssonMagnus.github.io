@@ -150,8 +150,9 @@ blockquote {
 pre,
 code {
   @include relative-font-size(0.9375);
-  background-color: #49483e;
+  border: 1px solid $grey-color-light;
   border-radius: 3px;
+  background-color: #000000;
 }
 
 code {
@@ -159,7 +160,6 @@ code {
 }
 
 pre {
-  border: 1px solid $grey-color;
   padding: 8px 12px;
   overflow-x: auto;
 
@@ -239,18 +239,18 @@ table {
   border: 1px solid $grey-color-light;
   tr {
     &:nth-child(even) {
-      background-color: lighten($grey-color-dark, 6%);
+      background-color: lighten($grey-color-light, 6%);
     }
   }
   th, td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
   th {
-    background-color: lighten($grey-color-dark, 3%);
-    border: 1px solid darken($grey-color, 4%);
-    border-bottom-color: darken($grey-color, 12%);
+    background-color: lighten($grey-color-light, 3%);
+    border: 1px solid darken($grey-color-light, 4%);
+    border-bottom-color: darken($grey-color-light, 12%);
   }
   td {
-    border: 1px solid $grey-color;
+    border: 1px solid $grey-color-light;
   }
 }

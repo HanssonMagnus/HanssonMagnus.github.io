@@ -2,17 +2,16 @@
 layout: page
 title: Books
 ---
-<style>
- .grid {
-  display: flex;
- }
-.col-1-2 {
-  flex: 1;
-}
-.cole-1-2:last-child {
-  margin-left: 20px;
-}
-</style>
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
 
 Sometimes I get asked what I recommend reading in a particular field. Here I've begun a list of selected books that I've found interesting, helpful or just good reads. Some of the books have been course literature during my university studies and others I've had recommended by friends or found when doing research.
 

@@ -11,7 +11,7 @@ kramdown:
   math_engine: mathjax
   # parse markdown inside block-level HTML tag
   parse_block_html: true
-theme: modernist
+theme: jekyll-theme-modernist
 future: true
 
 # Google Analytics

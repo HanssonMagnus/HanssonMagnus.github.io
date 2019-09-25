@@ -23,7 +23,7 @@ Here I've begun a list of selected readings.
 * [Gilder, Life After Google](https://www.goodreads.com/book/show/32073021-life-after-google)
 * Taleb, especially Skin in the Game
 
-#### (Science)Fiction:
+#### (Science-)Fiction:
 * William Gibson
 * Ted Chiang
 * Neal Stephenson
@@ -34,6 +34,7 @@ Here I've begun a list of selected readings.
 * [Hayashi, Econometrics](https://sites.google.com/site/fumiohayashi/hayashi-econometrics)
 * [White, Asymptotic Theory for Econometricians](https://www.goodreads.com/book/show/3863433-asymptotic-theory-for-econometricians)
 * [Cameron and Trivedi, Microeconometrics](https://www.goodreads.com/book/show/1043516.Microeconometrics?ac=1&from_search=true)
+* [Nelsen, An Introduction to Copulas](https://www.amazon.com/Introduction-Copulas-Springer-Statistics/dp/0387286594#customerReviews)
 
 #### Numerical Analysis:
 * [Trefethen, Numerical Linear Algebra](https://www.goodreads.com/book/show/1372376.Numerical_Linear_Algebra?ac=1&from_search=true)

@@ -58,5 +58,5 @@ Here I've begun a list of selected readings.
 
 #### Computer Science:
 * [Structure and interpretation of computer programs (the Wizard book)](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs)
-*[Compilers (the Dragon book)](https://www.goodreads.com/book/show/703102.Compilers)
+* [Compilers (the Dragon book)](https://www.goodreads.com/book/show/703102.Compilers)
 

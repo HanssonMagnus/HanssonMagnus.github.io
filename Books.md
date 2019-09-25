@@ -22,7 +22,7 @@ Here I've begun a list of selected readings.
 * [Knuth, Surreal Numbers](https://www-cs-faculty.stanford.edu/~knuth/sn.html)
 * Taleb, especially Skin in the Game
 
-#### (Science)Fiction
+#### (Science)Fiction:
 * William Gibson
 * Ted Chiang
 * Neal Stephenson

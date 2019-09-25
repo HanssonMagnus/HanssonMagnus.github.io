@@ -6,7 +6,7 @@ title: Books
 Here I've begun a list of selected readings.
 
 # Enjoyably readable
-
+--------------------------------
 #### Finance:
 * [Pollock, Finance and Philosophy](https://www.goodreads.com/book/show/39070445-finance-and-philosophy)
 
@@ -28,7 +28,7 @@ Here I've begun a list of selected readings.
 * Neal Stephenson
 
 # Reference books
-
+--------------------------------
 #### Statistics and Econometrics:
 * [Hayashi, Econometrics](https://sites.google.com/site/fumiohayashi/hayashi-econometrics)
 * [Cameron and Trivedi, Microeconometrics](https://www.goodreads.com/book/show/1043516.Microeconometrics?ac=1&from_search=true)

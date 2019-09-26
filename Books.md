@@ -25,6 +25,10 @@ Here I've begun a list of selected readings.
 * [Gilder, Life After Google](https://www.goodreads.com/book/show/32073021-life-after-google)
 * Taleb, especially Skin in the Game
 
+#### History:
+
+#### Philosophy:
+
 #### (Science-)Fiction:
 * William Gibson
 * Ted Chiang
@@ -44,7 +48,7 @@ Here I've begun a list of selected readings.
 * [Bishop, Neural Networks for Pattern Recognition](https://www.goodreads.com/book/show/92536.Neural_Networks_for_Pattern_Recognition?ac=1&from_search=true)
 * [Powell, Approximation Theory and Methods](https://www.goodreads.com/book/show/342392.Approximation_Theory_and_Methods?ac=1&from_search=true)
 
-#### Financial economics:
+#### Financial Economics:
 * [Campbell, Financial Decisions and Markets](https://press.princeton.edu/titles/11177.html)
 * [Cochrane, Asset Pricing](https://faculty.chicagobooth.edu/john.cochrane/teaching/asset_pricing.htm)
 * [Campbell, Lo, and MacKinlay, The Econometrics of Financial Markets](https://press.princeton.edu/titles/5904.html)
@@ -54,10 +58,13 @@ Here I've begun a list of selected readings.
 * [Mas-Colell, Microeconomic Theory](https://www.goodreads.com/book/show/735963.Microeconomic_Theory?ac=1&from_search=true)
 
 #### Macroeconomics:
+* [Acemoglu, An Introduction to Modern Economic Growth](https://press.princeton.edu/titles/8764.html)
+* [Romer, Advanced Macroeconomics](https://www.goodreads.com/book/show/464412.Advanced_Macroeconomics?ac=1&from_search=true)
 
 #### Game Theory:
 * [Fudenberg and Tirole, Game Theory](https://www.goodreads.com/book/show/469868.Game_Theory)
 * [Tadelis, Game Theory An Introduction](https://www.goodreads.com/book/show/15930573-game-theory)
+* [Weibull, Evolutionary Game Theory](https://www.goodreads.com/en/book/show/770950)
 
 #### Computer Science:
 * [Structure and interpretation of computer programs (the Wizard book)](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs)

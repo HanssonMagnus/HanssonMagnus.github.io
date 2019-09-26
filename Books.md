@@ -60,6 +60,7 @@ Here I've begun a list of selected readings.
 #### Macroeconomics:
 * [Acemoglu, An Introduction to Modern Economic Growth](https://press.princeton.edu/titles/8764.html)
 * [Romer, Advanced Macroeconomics](https://www.goodreads.com/book/show/464412.Advanced_Macroeconomics?ac=1&from_search=true)
+* [Handbook of Macroeconomics](https://www.sciencedirect.com/handbook/handbook-of-macroeconomics/vol/2/suppl/C)
 
 #### Game Theory:
 * [Fudenberg and Tirole, Game Theory](https://www.goodreads.com/book/show/469868.Game_Theory)

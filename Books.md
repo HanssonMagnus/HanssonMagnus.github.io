@@ -15,6 +15,8 @@ Here I've begun a list of selected readings.
 #### Computer science:
 * [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
 * [The Linux  Command Line](http://linuxcommand.org/tlcl.php)
+* [Torvalds, The Story of an Accidental Revolutionary](https://www.goodreads.com/book/show/160171.Just_for_Fun)
+* [Raymond, The Cathedral and the Bazaar](https://www.goodreads.com/book/show/134825.The_Cathedral_the_Bazaar)
 
 #### Non-fiction:
 * [Newport, Deep work](https://www.goodreads.com/book/show/25744928-deep-work?ac=1&from_search=true)
@@ -60,4 +62,6 @@ Here I've begun a list of selected readings.
 #### Computer Science:
 * [Structure and interpretation of computer programs (the Wizard book)](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs)
 * [Compilers (the Dragon book)](https://www.goodreads.com/book/show/703102.Compilers)
+* [Kernighan and Ritchie, The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language)
+* [McConnell, Code Complete](https://www.goodreads.com/book/show/4845.Code_Complete)
 

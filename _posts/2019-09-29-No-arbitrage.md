@@ -24,7 +24,7 @@ Imagine an arbitrary asset $$i$$ that pays $$X_{i,s}$$ in state $$s$$. The price
     P_i = \sum_s q_s X_{i,s} \tag{1}
 \end{equation}
 
-## No arbitrage
+## The lemma in finance
 In a [complete market](https://en.wikipedia.org/wiki/Complete_market) with no arbitrage, Stiemke's lemma implies that the equation $$\textbf{Xq} = \textbf{P}$$ has a solution $$\textbf{q} > 0$$. We rewrite this as equation (1), $$P_i = \sum_s q_s X_{i,s}$$.
 
 This equation states that the price of asset $$i$$, is equal to the sum of the assets state payoffs times the state prices. No arbitrage (Farkas'/Stieke's lemma) implies (in both directions) a positive state-price vector, this is sometimes called the fundamental theorem of asset pricing.
@@ -105,7 +105,7 @@ This, says that the price of any asset is equal to its dicounted future payoff p
 \end{equation}
 
 \begin{equation}
-    \mathrm{E}[R] = R_{rf} - R_{rf} Cov(M, R) \iff \tag{14}
+    \mathrm{E}[R] = R_{rf} - R_{rf} Cov(M, R) \tag{14}
 \end{equation}
 
 Equation (14) is a fundamental result and says that the return of any asset depends on the risk-free rate and the covaraince with the SDF.

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Fooled by Randomness
+title: Fooled by randomness
 ---
 
 ## Introduction
-Quotes to discuss from Taleb's Fooled by Randomness:
+Quotes to discuss from Taleb's book:
 
 #### page 103
 The best description of my lifelong business in the market is “skewed bets”, that is, I try to benefit from rare events, events that do not tend to repeat themselves frequently, but, accordingly present a large payoff when they occur. I try to make money infrequently, as infrequently as possible, simply because I believe that rare events are not fairly valued, and that the rarer the event, the more undervalued it will be in price. In addition to my own empiricism,  think that the counter-intuitive aspect of the trade (and the fact that our emotional wiring does not accommodate it) gives me some form of advantage.

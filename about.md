@@ -9,6 +9,6 @@ I'm Magnus, an econ PhD student with focus on quantitative finance at the Univer
 
 I'm passionate about research and innovation. Much of my time is spent with finance/economics, mathematics, coding, "machine learning", philosophy and other interesting subjects.
 
-Feel free to email me (at <a href="mailto:{{ site.email }}">{{ site.email }}</a>).
+Feel free to email me at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
 
 For further information see my [LinkedIn](https://www.linkedin.com/in/magnus-hansson-1426a734)

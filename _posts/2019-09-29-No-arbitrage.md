@@ -9,7 +9,7 @@ title: No arbitrage
 let $$\textbf{A} \in \mathrm{R}^{m \times n}$$ and $$\textbf{b} \in \mathrm{R}^{m}$$. Then exactly one of the following two statements is true:
 
 1. There exists an $$\textbf{x} \in \mathrm{R}^{n}$$ such that $$\textbf{Ax} = \textbf{b}$$ and $$\textbf{x} \geq 0$$.
-2. There exists a $$\textbf{y} \in \mathrm{R}^{m}$$ such that $$\textbf{A^T y} \geq 0$$ and $$\textbf{b^T y} < 0$$.
+2. There exists a $$\textbf{y} \in \mathrm{R}^{m}$$ such that $$\textbf{A}^T \textbf{y} \geq 0$$ and $$\textbf{b}^T \textbf{y} < 0$$.
 
 Where, $$\textbf{x} \geq 0$$ means $$x_i \geq 0$$ $$\forall i$$. (There's a version of Farkas' lemma called Stiemke's lemma in which the relationship hold with strict inequality.)
 

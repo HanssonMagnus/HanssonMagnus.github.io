@@ -6,14 +6,14 @@ title: No arbitrage
 ## Farkas' lemma
 [Farkas' lemma](https://en.wikipedia.org/wiki/Farkas%27_lemma) states,
 
-let $$\bold{A} \in \mathrm{R}^{m x n}$$ and $$\bold{b} \in \mathrm{R}^{m}$$. Then exactly one of the following two statements is true:
+let $$\textbf{A} \in \mathrm{R}^{m x n}$$ and $$\textbf{b} \in \mathrm{R}^{m}$$. Then exactly one of the following two statements is true:
 
-1. There exists an $$\bold{x} \in \mathrm{R}^{n}$$ such that $$\bold{Ax} = \bold{b}$$ and $$\bold{x} \geq 0$$.
-2. There exists a $$\bold{y} \in \mathrm{R}^{m}$$ such that $$\bold{A^{T}y} \geq 0$$ and $$\bold{b^{T}y} < 0$$.
+1. There exists an $$\textbf{x} \in \mathrm{R}^{n}$$ such that $$\textbf{Ax} = \textbf{b}$$ and $$\textbf{x} \geq 0$$.
+2. There exists a $$\textbf{y} \in \mathrm{R}^{m}$$ such that $$\textbf{A^{T}y} \geq 0$$ and $$\textbf{b^{T}y} < 0$$.
 
-Where, $$\bold{x} \geq 0$$ means $$x_i \geq 0 \forall i$$. (There's a version of Farkas' lemma called Stiemke's lemma in which the relationship hold with strict inequality.)
+Where, $$\textbf{x} \geq 0$$ means $$x_i \geq 0 \forall i$$. (There's a version of Farkas' lemma called Stiemke's lemma in which the relationship hold with strict inequality.)
 
-If we imagine $$\bold{A}$$ to be a payoff matrix, $$\bold{b}$$ a price vector and $$\bold{y}$$ portfolio weights, we can think about the theorem in the following way. (1.) implies no arbitrage and (2.) implies arbitrage, and only one can be true.
+If we imagine $$\textbf{A}$$ to be a payoff matrix, $$\textbf{b}$$ a price vector and $$\textbf{y}$$ portfolio weights, we can think about the theorem in the following way. (1.) implies no arbitrage and (2.) implies arbitrage, and only one can be true.
 
 ## Arrow-Debreu security
 Suppose that the world exists of two time periods, today and tomorrow, in which tomorrow is stochastic. Tomorrow the world might be in $$S$$ different states of nature. An asset that pays $$1$$ tomorrow if state $$s \in S$$ occurs is called an A-D security, and the price of this security is called state price $$q_s$$.
@@ -25,7 +25,7 @@ Imagine an arbitrary asset $$i$$ that pays $$X_{i,s}$$ in state $$s$$. The price
 \end{equation}
 
 ## No arbitrage
-In a [complete market](https://en.wikipedia.org/wiki/Complete_market) with no arbitrage, Stiemke's lemma implies that the equation $$\bold{Xq} = \bold{P}$$ has a solution $$\bold{q} > 0$$. We rewrite this as equation (1), $$P_i = \sum_s q_s X_{i,s}$$.
+In a [complete market](https://en.wikipedia.org/wiki/Complete_market) with no arbitrage, Stiemke's lemma implies that the equation $$\textbf{Xq} = \textbf{P}$$ has a solution $$\textbf{q} > 0$$. We rewrite this as equation (1), $$P_i = \sum_s q_s X_{i,s}$$.
 
 This equation states that the price of asset $$i$$, is equal to the sum of the assets state payoffs times the state prices. It can be shown that no arbitrage (Farkas'/Stieke's lemma) implies (in both directions) a positive state-price vector, this is sometimes called the fundamental theorem of asset pricing.
 

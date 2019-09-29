@@ -11,4 +11,4 @@ I'm passionate about research and innovation. Much of my time is spent with fina
 
 Feel free to email me at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
 
-For further information see my [LinkedIn](https://www.linkedin.com/in/magnus-hansson-1426a734)
+For further information see my [LinkedIn](https://www.linkedin.com/in/magnus-hansson-1426a734).

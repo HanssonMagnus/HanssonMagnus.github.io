@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nonlinearity in finance (part 1)
+title: Nonlinearity in finance
 ---
 Foundation for discussion:
 
@@ -10,7 +10,7 @@ This is however not generally true in the financial markets, the mere fact that 
 
 In finance very nonlinear methods can be problematic since one does not want to over-fit yesterday's data when trying to predict today.
 
-The reason why this is important to understand is because this fact by itself limits the use of nonlinear methods, which many are referring to as machine learning (e.g. ANN), in economics and finance. Furthermore, it gives one an insight in which areas machine learning could excel in economics and finance, and one of those areas is in my opinion preprocessing of data.
+The reason why this is important to understand is because this fact by itself limits the use of "high degrees of freedom methods", e.g. artificial neural networks, in economics and finance. Furthermore, it gives one an insight in which areas machine learning could excel in economics and finance, and one of those areas is preprocessing of data.
 
 One example is text analysis or what is in computer science called natural language processing (NLP). The reason is of course that the regular statistical methods are not able to process text data, and first in order to analyze text data one has to transform the text into numerical values that are meaningful.
 

@@ -4,7 +4,7 @@ title: Stock prediction with LSTM networks
 ---
 
 ## Introduction
-In this blogpost I've taken inspiration from some parts of my master thesis. The results presented here are taken from my thesis. The experiment is designed to be able to run on a laptop cpu.
+In this blogpost I've taken inspiration from some parts of my master thesis.
 
 Stock market data is often analyzed in terms of returns, i.e. $$(price_t - price_{t-1}) / price_{t-1}$$. Financial returns has
 certain noticable characteristics, some of them are:

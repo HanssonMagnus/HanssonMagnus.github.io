@@ -5,6 +5,10 @@ email: hansson.carl.magnus@gmail.com
 description: A page about finance/economics, mathematics, coding, machine learning and other interesting subjects.
 github_username: HanssonMagnus
 
+# Adding for RSS file
+name: Magnus Hansson's Blog
+url: http://www.magnushansson.xyz/
+
 # Build settings
 markdown: kramdown
 kramdown:

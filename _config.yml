@@ -6,8 +6,8 @@ description: A page about finance/economics, mathematics, coding, machine learni
 github_username: HanssonMagnus
 
 # Adding for RSS file
-name: Magnus Hansson's Blog
-url: http://www.magnushansson.xyz/
+plugins:
+ - jekyll-feed
 
 # Build settings
 markdown: kramdown

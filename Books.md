@@ -11,7 +11,7 @@ Here I've begun a list of selected readings.
 * [Pollock, Finance and Philosophy](https://www.goodreads.com/book/show/39070445-finance-and-philosophy)
 
 #### Economics:
-[Helpman, The Mystery of Economic Growth](https://www.goodreads.com/book/show/764896.The_Mystery_of_Economic_Growth?ac=1&from_search=true)
+* [Helpman, The Mystery of Economic Growth](https://www.goodreads.com/book/show/764896.The_Mystery_of_Economic_Growth?ac=1&from_search=true)
 
 #### Computer science:
 * [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)

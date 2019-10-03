@@ -8,6 +8,8 @@ github_username: HanssonMagnus
 # Adding for RSS file
 plugins:
  - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-sitemap
 
 # Build settings
 markdown: kramdown

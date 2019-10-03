@@ -11,6 +11,7 @@ Here I've begun a list of selected readings.
 * [Pollock, Finance and Philosophy](https://www.goodreads.com/book/show/39070445-finance-and-philosophy)
 
 #### Economics:
+[Helpman, The Mystery of Economic Growth](https://www.goodreads.com/book/show/764896.The_Mystery_of_Economic_Growth?ac=1&from_search=true)
 
 #### Computer science:
 * [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
@@ -23,16 +24,16 @@ Here I've begun a list of selected readings.
 * [Thiel, Zero to one](https://www.goodreads.com/book/show/18050143-zero-to-one?ac=1&from_search=true)
 * [Knuth, Surreal Numbers](https://www-cs-faculty.stanford.edu/~knuth/sn.html)
 * [Gilder, Life After Google](https://www.goodreads.com/book/show/32073021-life-after-google)
-* Taleb, especially Skin in the Game
+* [Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
 
 #### History:
 
 #### Philosophy:
 
 #### (Science-)Fiction:
-* William Gibson
-* Ted Chiang
-* Neal Stephenson
+* [William Gibson](https://en.wikipedia.org/wiki/William_Gibson)
+* [Ted Chiang](https://en.wikipedia.org/wiki/Ted_Chiang)
+* [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)
 
 # Reference books
 --------------------------------
@@ -70,6 +71,7 @@ Here I've begun a list of selected readings.
 #### Computer Science:
 * [Structure and interpretation of computer programs (the Wizard book)](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs)
 * [Compilers (the Dragon book)](https://www.goodreads.com/book/show/703102.Compilers)
+* [Introduction to Automata Theory, Languages, and Computation](https://en.wikipedia.org/wiki/Introduction_to_Automata_Theory,_Languages,_and_Computation)
 * [Kernighan and Ritchie, The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language)
 * [McConnell, Code Complete](https://www.goodreads.com/book/show/4845.Code_Complete)
 

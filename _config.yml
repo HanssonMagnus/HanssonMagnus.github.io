@@ -7,7 +7,7 @@ github_username: HanssonMagnus
 
 # Adding for RSS file
 plugins:
- - jekyll-feed
+ #- jekyll-feed
 
 # Build settings
 markdown: kramdown

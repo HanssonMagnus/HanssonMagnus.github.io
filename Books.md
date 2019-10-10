@@ -8,27 +8,30 @@ Here I've begun a list of selected readings.
 # Enjoyably readable
 --------------------------------
 #### Finance:
+* [Pfaff, Financial Risk Modelling and Portfolio Optimisation with R](https://www.pfaffikus.de/books/wiley/)
 * [Pollock, Finance and Philosophy](https://www.goodreads.com/book/show/39070445-finance-and-philosophy)
 
 #### Economics:
 * [Helpman, The Mystery of Economic Growth](https://www.goodreads.com/book/show/764896.The_Mystery_of_Economic_Growth?ac=1&from_search=true)
+* [Angner, A Course in Behavioral Economics](https://www.goodreads.com/book/show/13168124-a-course-in-behavioral-economics)
 
-#### Computer science:
+#### Computer Science:
 * [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
 * [The Linux  Command Line](http://linuxcommand.org/tlcl.php)
 * [Torvalds, The Story of an Accidental Revolutionary](https://www.goodreads.com/book/show/160171.Just_for_Fun)
 * [Raymond, The Cathedral and the Bazaar](https://www.goodreads.com/book/show/134825.The_Cathedral_the_Bazaar)
 
 #### Non-fiction:
-* [Newport, Deep work](https://www.goodreads.com/book/show/25744928-deep-work?ac=1&from_search=true)
-* [Thiel, Zero to one](https://www.goodreads.com/book/show/18050143-zero-to-one?ac=1&from_search=true)
+* [Newport, Deep Work](https://www.goodreads.com/book/show/25744928-deep-work?ac=1&from_search=true)
+* [Thiel, Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one?ac=1&from_search=true)
 * [Knuth, Surreal Numbers](https://www-cs-faculty.stanford.edu/~knuth/sn.html)
 * [Gilder, Life After Google](https://www.goodreads.com/book/show/32073021-life-after-google)
 * [Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
 
 #### History:
 
-#### Philosophy:
+#### Philosophy and Psychology:
+* [Frankl, Man's Search for Meaning](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning)
 
 #### (Science-)Fiction:
 * [William Gibson](https://en.wikipedia.org/wiki/William_Gibson)

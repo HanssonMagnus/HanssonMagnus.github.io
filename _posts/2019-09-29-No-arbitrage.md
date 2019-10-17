@@ -117,13 +117,13 @@ Equation (14) is a fundamental result and says that the return of any asset depe
 Furthermore, multiplying and dividing by $$Var(M)$$ and substituting back $$R_{rf} = \frac{1}{\mathrm{E}[M]}$$,
 
 \begin{equation}
-    \mathrm{E}[R] - R_{rf} = \frac{Cov(M, R)}{Var(M)} \cdot - \frac{Var(M)}{\mathrm{E}[M]}\tag{16}
+    \mathrm{E}[R] - R_{rf} = \frac{Cov(M, R)}{Var(M)} \cdot - \frac{Var(M)}{\mathrm{E}[M]} \tag{16}
 \end{equation}
 
 Equation (16) is called a beta pricing model and sometimes written as,
 
 \begin{equation}
-    \mathrm{E}[R] - R_{rf} = \beta_{M,R} \cdot \lambda_{M}
+    \mathrm{E}[R] - R_{rf} = \beta_{M,R} \cdot \lambda_{M} \tag{17}
 \end{equation}
 
 $$\beta_{M,R}$$ is the quantity of risk in the asset. Note that $$\lambda_{M}$$ does not directly depend on the individual return but on the first and second moments of the SDF.

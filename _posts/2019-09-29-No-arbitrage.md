@@ -108,7 +108,25 @@ This, says that the price of any asset is equal to its dicounted future payoff p
     \mathrm{E}[R] = R_{rf} - R_{rf} Cov(M, R) \tag{14}
 \end{equation}
 
-Equation (14) is a fundamental result and says that the return of any asset depends on the risk-free rate and the covaraince with the SDF.
+Equation (14) is a fundamental result and says that the return of any asset depends on the risk-free rate and the covaraince with the SDF. Rearranging this into excess return,
+
+\begin{equation}
+    \mathrm{E}[R] - R_{rf} = - R_{rf} Cov(M, R) \tag{15}
+\end{equation}
+
+Furthermore, multiplying and dividing by $$Var(M)$$ and substituting back $$R_{rf} = \frac{1}{\mathrm{E}[M]}$$,
+
+\begin{equation}
+    \mathrm{E}[R] - R_{rf} = \frac{Cov(M, R)}{Var(M)} \cdot - \frac{Var(M)}{\mathrm{E}[M]}\tag{16}
+\end{equation}
+
+Equation (16) is called a beta pricing model and sometimes written as,
+
+\begin{equation}
+    \mathrm{E}[R] - R_{rf} = \beta_{M,R} \cdot \lambda_{M}
+\end{equation}
+
+$$\beta_{M,R}$$ is the quantity of risk in the asset. Note that $$\lambda_{M}$$ does not directly depend on the individual return but on the first and second moments of the SDF.
 
 A large literature in theoretical asset pricing is about finding the SDF and its properties. The theory of SDF relates several independent asset pricing models, some commonly known examples are:
 

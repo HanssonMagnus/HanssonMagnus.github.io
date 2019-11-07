@@ -130,7 +130,7 @@ $$\beta_{M,R}$$ is the quantity of risk in the asset. Note that $$\lambda_{M}$$ 
 
 A large literature in theoretical asset pricing is about finding the SDF and its properties. The theory of SDF relates several independent asset pricing models, some commonly known examples are:
 
-* In CAPM the SDF is the market portfolio.
+* In the CAPM the SDF is a linear combination of the market portfolio.
 * In consumption (micro-founded) models the SDF is marginal rate of substitution of utility today and in the future.
 * In Arrow-Debreu pricing the SDF is a function of aggregate demand.
 

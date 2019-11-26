@@ -8,11 +8,11 @@ Here I've begun a list of selected readings.
 # Enjoyably readable
 --------------------------------
 #### Finance:
-* [Shiller, Narrative Economics](http://www.econ.yale.edu/~shiller/books.htm)
 * [Pfaff, Financial Risk Modelling and Portfolio Optimisation with R](https://www.pfaffikus.de/books/wiley/)
 * [Pollock, Finance and Philosophy](https://www.goodreads.com/book/show/39070445-finance-and-philosophy)
 
 #### Economics:
+* [Shiller, Narrative Economics](http://www.econ.yale.edu/~shiller/books.htm)
 * [Helpman, The Mystery of Economic Growth](https://www.goodreads.com/book/show/764896.The_Mystery_of_Economic_Growth?ac=1&from_search=true)
 * [Angner, A Course in Behavioral Economics](https://www.goodreads.com/book/show/13168124-a-course-in-behavioral-economics)
 

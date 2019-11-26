@@ -8,6 +8,7 @@ Here I've begun a list of selected readings.
 # Enjoyably readable
 --------------------------------
 #### Finance:
+* [Shiller, Narrative Economics](http://www.econ.yale.edu/~shiller/books.htm)
 * [Pfaff, Financial Risk Modelling and Portfolio Optimisation with R](https://www.pfaffikus.de/books/wiley/)
 * [Pollock, Finance and Philosophy](https://www.goodreads.com/book/show/39070445-finance-and-philosophy)
 
@@ -30,13 +31,16 @@ Here I've begun a list of selected readings.
 
 #### History:
 
-#### Philosophy and Psychology:
+#### Philosophy:
 * [Frankl, Man's Search for Meaning](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning)
+
+#### Psychology:
 
 #### (Science-)Fiction:
 * [William Gibson](https://en.wikipedia.org/wiki/William_Gibson)
 * [Ted Chiang](https://en.wikipedia.org/wiki/Ted_Chiang)
 * [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)
+* [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams)
 
 # Reference books
 --------------------------------
@@ -56,6 +60,8 @@ Here I've begun a list of selected readings.
 * [Campbell, Financial Decisions and Markets](https://press.princeton.edu/titles/11177.html)
 * [Cochrane, Asset Pricing](https://faculty.chicagobooth.edu/john.cochrane/teaching/asset_pricing.htm)
 * [Campbell, Lo, and MacKinlay, The Econometrics of Financial Markets](https://press.princeton.edu/titles/5904.html)
+* [Back, Asset Pricing and Portfolio Choice Theory](https://www.goodreads.com/book/show/9522136-asset-pricing-and-portfolio-choice-theory?ac=1&from_search=true&qid=B6lLLsu5he&rank=1)
+* [Duffie, Dynamic Asset Pricing Theory ](https://www.goodreads.com/book/show/404064.Dynamic_Asset_Pricing_Theory?ac=1&from_search=true&qid=po0mU3rUrq&rank=4)
 
 #### Microeconomics:
 * [Varian, Microeconomic Analysis](https://www.goodreads.com/book/show/323071.Micro_Analysis?ac=1&from_search=true)

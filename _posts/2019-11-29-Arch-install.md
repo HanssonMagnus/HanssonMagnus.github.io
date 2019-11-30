@@ -7,11 +7,11 @@ title: Arch install
 Arch is a pleasant distribution since it let's you take control of the installation process. You can install what you want to install, and do not need to run a system with bloatware. This means that you need to do some configuration yourself.
 
 #### Resources
-When installing Arch always use the official documentation, the process changes.
-https://wiki.archlinux.org/
-https://wiki.archlinux.org/index.php/Installation_guide
-https://wiki.archlinux.org/index.php/Network_configuration
-https://wiki.archlinux.org/index.php/Users_and_groups
+When installing Arch always use the official documentation, the process chan*ges.
+* [Arch wiki](https://wiki.archlinux.org/)
+* [Installation guide](https://wiki.archlinux.org/index.php/Installation_guide)
+* [Network configuration](https://wiki.archlinux.org/index.php/Network_configuration)
+* [Users and groups](https://wiki.archlinux.org/index.php/Users_and_groups)
 
 #### Set up your layout
 Keyboard,

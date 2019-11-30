@@ -63,6 +63,14 @@ cfdisk
 ```
 Select dos,then primary partition and bootable for the Linux partition and primary for the swap. Change the swap partition to be of type "Linux swap". Check with "lsblk".
 
+If you do not get a menu in "cfdisk" to select label of the disk you may want to change the label to dos (given that you want to use dos and not gpt for UEFI system),
+
+```
+parted /dev/sda
+mklabel msdos
+quit
+```
+
 #### Format partitions
 
 ```
@@ -114,15 +122,16 @@ hwclock --systohc
 #### Localization
 Generate the locales and edit the config,
 ```
-local-gen
+locale-gen
 
 vim /etc/locale.conf
 ```
-Write LANG=en_US.UTF-8. Make the keyboard layout permanent,
+Write "LANG=en_US.UTF-8". Make the keyboard layout permanent,
 
 ```
-KEYMAP=sv-latin1
+vim /etc/vconsole.conf
 ```
+write "KEYMAP=sv-latin1".
 
 #### Network config
 ```
@@ -152,6 +161,13 @@ One thing that is not in the Arch installation guide is configuring the network 
 
 ```
 systemctl enable dhcpcd
+```
+
+or
+
+```
+pacman -S networkmanager
+systemctl enable NetworkManager
 ```
 
 #### Add user

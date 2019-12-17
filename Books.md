@@ -8,21 +8,70 @@ Here I've begun a list of selected readings.
 # Enjoyably readable
 --------------------------------
 #### Finance:
+* Ilmanen, Expected Returns: An Investor's Guide to Harvesting Market Rewards
 * [Pfaff, Financial Risk Modelling and Portfolio Optimisation with R](https://www.pfaffikus.de/books/wiley/)
 * [Pollock, Finance and Philosophy](https://www.goodreads.com/book/show/39070445-finance-and-philosophy)
+* Lewis, Liar's Poker
+* King, The End of Alchemy
+* Volcker, Keeping at it
+* Bagehot, Lombard Street
+* Mehrling, The New Lombard Street: How the Fed Became the Dealer of Last Resort
+* Ammous, The Bitcoin Standard: The Decentralized Alternative to Central Banking
+* Black, Business Cycles and Equilibrium
+* Black, Exploring General Equilibrium
+* Marks, The Most Important Thing
+* Klarman, Margin of Safety
+* Bernstein, Capital Ideas: The Improbable Origins of Modern Wall Street
+* Mandelbrot, The (Mis)Behavior of Markets
+* Admati and Hellwig, The Bankers' New Clothes: Whats Wrong with Banking and What to Do about It
+* Reinhart and Rogoff, This Time is Different
+* Lowenstein, When Genius Failed: The Rise and Fall of Long-Term Capital Management
 
 #### Economics:
+* Schumpeter, Capitalism, Socialism and Democracy
+* Schumpeter, The Nature and Essence of Economic Theory
 * [Shiller, Narrative Economics](http://www.econ.yale.edu/~shiller/books.htm)
 * [Helpman, The Mystery of Economic Growth](https://www.goodreads.com/book/show/764896.The_Mystery_of_Economic_Growth?ac=1&from_search=true)
 * [Angner, A Course in Behavioral Economics](https://www.goodreads.com/book/show/13168124-a-course-in-behavioral-economics)
+* [Caplan, The Myth of the Rational Voter](https://www.goodreads.com/book/show/698866.The_Myth_of_the_Rational_Voter?ac=1&from_search=true&qid=wRp9bS7zSa&rank=1)
+* Caplan, The Case Against Education
+* Akerlof and Shiller, Animal Spirits
+* Heilbroner, The Worldly Philosophers
+* Tetlock, Superforecasting: The Art and Science of Prediction
+* Mises, The Theory of Money and Credit
+* Kuran, Private Truths, Public Lies: The Social Consequences of Preference Falsification
+* Thaler, Nudge
+* Thaler, Misbehaving: The Making of Behavioral Economics
 
 #### Computer Science:
 * [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
 * [The Linux  Command Line](http://linuxcommand.org/tlcl.php)
 * [Torvalds, The Story of an Accidental Revolutionary](https://www.goodreads.com/book/show/160171.Just_for_Fun)
 * [Raymond, The Cathedral and the Bazaar](https://www.goodreads.com/book/show/134825.The_Cathedral_the_Bazaar)
+* Petzold, Code
+* Petzold, The Annotated Turing
+* Stallman, Free as in Freedom
+* Weinberg, The Psychology of Computer Programming
+
+#### Maths/Science:
+* [Singh, Fermat's Last Theorem ](https://www.goodreads.com/book/show/131305.Fermat_s_Last_Theorem?ac=1&from_search=true&qid=cUhW5CSoie&rank=1)
+* Rota, Indiscrete Thoughts
+* Finetti, Philosophical Lectures on Probability
+* Richard Feynman
+* Gleick, Chaos: Making a New Science
+* William Dunham, Euler
+* Rudin, The Way I Remember It
+* Bell, Men of Mathematics
+* Mandelbrot, The Fractal Geometry of Nature
+* Blom, Problems and Snapshots from the World of Probability
 
 #### Non-fiction:
+* Kling, The Three Landuages of Politics
+* Snowden, Permanent Record
+* Assange, Cypherpunks
+* McGilchrist, The Master and His Emissary
+* Haidt, The Righteous Mind
+* Epstein, Range: Why Generalists Triumph in a Specialized World
 * [Newport, Deep Work](https://www.goodreads.com/book/show/25744928-deep-work?ac=1&from_search=true)
 * [Thiel, Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one?ac=1&from_search=true)
 * [Knuth, Surreal Numbers](https://www-cs-faculty.stanford.edu/~knuth/sn.html)
@@ -30,17 +79,72 @@ Here I've begun a list of selected readings.
 * [Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
 
 #### History:
+* Green, The Greco-Persian Wars
+* Furguson, The Ascent of Money
+* Furguson, High Financier
+* Bullock, Hitler and Stalin: Parallel Lives
+* Gaius Julius Caesar, The War for Gaul
+* Gaius Julius Caesar, The Civil War
+* Cicero, Selected Political Speeches
+* Cicero, On Moral Ends
+* Sturluson, History of the Kings of Norway
+* Clausewitz, On War
+* Castillo, The True History of The Conquest of New Spain
+* Trotsky, History of the Russian Revolution
+
+#### Biography:
+* Isaacson, Benjamin Franklin
+* Isaacson, Leonardo da Vinci
+* Grant, Bernard Baruch
+* Gandhi, An Autobiography
 
 #### Philosophy:
 * [Frankl, Man's Search for Meaning](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning)
+* Seneca, Letters from a Stoic
+* Aurelius, Meditations
+* Zeno, The Republic
+* Bahm, Philosophy of the Buddha
+* Herrigel, Zen in the Art of Archery
+* Henri Bergson
+* Feyerabend, Against Method
+* Fodor, The Modularity of Mind
+* Kant, Critique of Pure Reason
+* Locke, An Essay Concerning Human Understanding
+
+#### Political Philosophy:
+* Frédéric Bastiat
+* Pierre-Joseph Proudhon
+* William Godwin
+* Peter Kropotkin
+* Rothbard
+* Nonick, Anarchy, State, and Utopia
+* Hoppe, Democracy: The God That Failed
+* Peron, The Liberal Tide From Tyranny To Liberty
+* Burke, Reflections on the Revolution in France
+* Arendt, On Revolution
+* Robertson, The Dispossessed Majority
+* Spencer, The Man Versus the State
 
 #### Psychology:
+* Gigerenzer, Rationality for Mortals: How People Cope with Uncertainty
+* Jaynes, The Origin of Conciousness in the Breakdown of the Bicameral Mind
+* Penfield, Mystery of the Mind: A Critical Study of Consciousness and the Human Brain
+* Jung, Civilization in Transition
+* Freud, Totem and Taboo
+* Levine, Resisting Illegitimate Authority
+* Kahneman and Tversky, Judgment Under Uncertainty: Heuristics and Biases
+* Kahneman, Thinking Fast and Slow
+* Hoffer, The True Believer: Thoughts on the Nature of Mass Movements 
 
 #### (Science-)Fiction:
 * [William Gibson](https://en.wikipedia.org/wiki/William_Gibson)
 * [Ted Chiang](https://en.wikipedia.org/wiki/Ted_Chiang)
 * [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)
 * [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams)
+* Asimov, Foundation Trilogy
+* Scalzi, Old Man's War
+* Heinlein, The Moon is a Harsh Mistress
+* Herbert, Dune
 
 # Reference books
 --------------------------------

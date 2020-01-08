@@ -28,6 +28,7 @@ Here I've begun a list of selected readings.
 * Lowenstein, When Genius Failed: The Rise and Fall of Long-Term Capital Management
 
 #### Economics:
+* [Mokyr, A Culture of Growth: The Origins of the Modern Economy](https://www.goodreads.com/book/show/29452523-a-culture-of-growth)
 * Schumpeter, Capitalism, Socialism and Democracy
 * Schumpeter, The Nature and Essence of Economic Theory
 * [Shiller, Narrative Economics](http://www.econ.yale.edu/~shiller/books.htm)
@@ -42,6 +43,8 @@ Here I've begun a list of selected readings.
 * Kuran, Private Truths, Public Lies: The Social Consequences of Preference Falsification
 * Thaler, Nudge
 * Thaler, Misbehaving: The Making of Behavioral Economics
+* Piketty, Capital in the Twenty-First Century
+* Jackson, Prosperity Without Growth: Economics for a Finite Planet
 
 #### Computer Science:
 * [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
@@ -72,6 +75,7 @@ Here I've begun a list of selected readings.
 * McGilchrist, The Master and His Emissary
 * Haidt, The Righteous Mind
 * Epstein, Range: Why Generalists Triumph in a Specialized World
+* Bostrom, Superintelligence: Paths, Dangers, Strategies
 * [Newport, Deep Work](https://www.goodreads.com/book/show/25744928-deep-work?ac=1&from_search=true)
 * [Thiel, Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one?ac=1&from_search=true)
 * [Knuth, Surreal Numbers](https://www-cs-faculty.stanford.edu/~knuth/sn.html)
@@ -100,9 +104,10 @@ Here I've begun a list of selected readings.
 
 #### Philosophy:
 * [Frankl, Man's Search for Meaning](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning)
+* [Sadhguru, Inner Engineering: A Yogi's Guide to Joy](https://www.goodreads.com/book/show/29513878-inner-engineering?ac=1&from_search=true&qid=JJWMivfZ7U&rank=1)
 * Seneca, Letters from a Stoic
 * Aurelius, Meditations
-* Zeno, The Republic
+* (Zeno, The Republic)
 * Bahm, Philosophy of the Buddha
 * Herrigel, Zen in the Art of Archery
 * Henri Bergson
@@ -117,7 +122,7 @@ Here I've begun a list of selected readings.
 * William Godwin
 * Peter Kropotkin
 * Rothbard
-* Nonick, Anarchy, State, and Utopia
+* Nozick, Anarchy, State, and Utopia
 * Hoppe, Democracy: The God That Failed
 * Peron, The Liberal Tide From Tyranny To Liberty
 * Burke, Reflections on the Revolution in France
@@ -136,15 +141,22 @@ Here I've begun a list of selected readings.
 * Kahneman, Thinking Fast and Slow
 * Hoffer, The True Believer: Thoughts on the Nature of Mass Movements 
 
-#### (Science-)Fiction:
+#### Science Fiction:
 * [William Gibson](https://en.wikipedia.org/wiki/William_Gibson)
 * [Ted Chiang](https://en.wikipedia.org/wiki/Ted_Chiang)
 * [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)
 * [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams)
+* [David Brin](https://en.wikipedia.org/wiki/David_Brin)
 * Asimov, Foundation Trilogy
 * Scalzi, Old Man's War
 * Heinlein, The Moon is a Harsh Mistress
 * Herbert, Dune
+* Huxley, Brave New World
+* Orwell, 1984
+
+#### Fiction:
+* [Fyodor Dostoevsky](https://en.wikipedia.org/wiki/Fyodor_Dostoevsky#Major_works)
+* [Leo Tolstoy](https://en.wikipedia.org/wiki/Leo_Tolstoy_bibliography)
 
 # Reference books
 --------------------------------

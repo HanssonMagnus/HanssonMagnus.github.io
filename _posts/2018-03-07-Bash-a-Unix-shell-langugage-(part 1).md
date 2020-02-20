@@ -11,11 +11,11 @@ At the book [Automate the Boring Stuff's](https://automatetheboringstuff.com/) w
 
 > If you've ever spent hours renaming files or updating hundreds of spreadsheet cells, you know how tedious tasks like these can be. But what if you could have your computer do them for you?
 
-When it comes to automating the booring stuff you can do a lot with shell scripting and in certain situations it can be stonger than Python, and sometimes it is a lot weaker.
+When it comes to automating the booring stuff you can do a lot with shell scripting and in certain situations it can be stonger than e.g. Python (and sometimes much weaker).
 
 Bash is good when it comes to piping, redirection, stdin, stdout, stderr, etc. Since Bash is design to talk to the OS there are several fantastic features that makes your life easier. I recently had to automate some scripting on a server. Data was pushed to the server and needed resampling before entering a database. I had a Python script that resampled the data, but I wanted it to happen not once but continuously as data streamed in. Bash provided me with Crontab which is a job scheduler that solved this issue.
 
-Bash is clearly good at automating things that has to do with the OS. But Python has modules such as glob and os that can handle much of the same issues. So when to use Bash and when to use e.g. Python? I guess it boils down to taste and the task at hand. Here are some points that I’ve understood through discussing this with people:
+Bash is clearly good at automating things that has to do with the OS. But Python has modules such as glob and os that can handle much of the same issues. So when to use Bash and when to use e.g. Python? I guess it boils down to taste and the task at hand.
 
 * Handling data in Bash is not optimal.
 
@@ -73,7 +73,7 @@ I wanted to move all the standard wallpapers in Ubuntu to another folder. This i
 cp *.jpg /usr/share/backgrounds /home/magnus/Pictures
 ```
 
-The command mean copy all files that end with .jpg from the directory /user/share/backgrounds to the directory /home/magnus/Pictures. Wonderfully easy :)
+The command mean copy all files that end with .jpg from the directory /user/share/backgrounds to the directory /home/magnus/Pictures.
 
 ## Terminal emulators
 A [terminal emulator](https://en.wikipedia.org/wiki/Terminal_emulator) is a program that allows you to use the terminal with some more advanced features. On Windows I e.g. use [cmder](http://cmder.net/) which looks more appealing and has features such as multiple tabs. A Unix alternative would e.g. be the [GNOME Terminal](https://help.gnome.org/users/gnome-terminal/stable/).

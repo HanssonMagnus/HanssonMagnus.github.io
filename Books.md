@@ -139,7 +139,11 @@ Here I've begun a list of selected readings.
 * Levine, Resisting Illegitimate Authority
 * Kahneman and Tversky, Judgment Under Uncertainty: Heuristics and Biases
 * Kahneman, Thinking Fast and Slow
-* Hoffer, The True Believer: Thoughts on the Nature of Mass Movements 
+* Hoffer, The True Believer: Thoughts on the Nature of Mass Movements
+
+#### Fiction:
+* [Fyodor Dostoevsky](https://en.wikipedia.org/wiki/Fyodor_Dostoevsky#Major_works)
+* [Leo Tolstoy](https://en.wikipedia.org/wiki/Leo_Tolstoy_bibliography)
 
 #### Science Fiction:
 * [William Gibson](https://en.wikipedia.org/wiki/William_Gibson)
@@ -153,10 +157,10 @@ Here I've begun a list of selected readings.
 * Herbert, Dune
 * Huxley, Brave New World
 * Orwell, 1984
+* Huxley, Brave New World (1932)
 
-#### Fiction:
-* [Fyodor Dostoevsky](https://en.wikipedia.org/wiki/Fyodor_Dostoevsky#Major_works)
-* [Leo Tolstoy](https://en.wikipedia.org/wiki/Leo_Tolstoy_bibliography)
+#### Fantasy:
+* [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien_bibliography)
 
 # Reference books
 --------------------------------
@@ -171,6 +175,10 @@ Here I've begun a list of selected readings.
 * [Trefethen, Approximation Theory and Approximation Practice](https://www.goodreads.com/book/show/16670471-approximation-theory-and-approximation-practice?ac=1&from_search=true)
 * [Bishop, Neural Networks for Pattern Recognition](https://www.goodreads.com/book/show/92536.Neural_Networks_for_Pattern_Recognition?ac=1&from_search=true)
 * [Powell, Approximation Theory and Methods](https://www.goodreads.com/book/show/342392.Approximation_Theory_and_Methods?ac=1&from_search=true)
+
+#### Machine Learning:
+* [Bishop, Pattern Recognition and Machine Learning (2011)](https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning?ac=1&from_search=true&qid=EXwkFmFDBP&rank=4)
+* [Murphy, Machine Learning: A Probabilistic Perspective  (2012)](https://www.goodreads.com/book/show/15857489-machine-learning)
 
 #### Financial Economics:
 * [Campbell, Financial Decisions and Markets](https://press.princeton.edu/titles/11177.html)
@@ -199,4 +207,11 @@ Here I've begun a list of selected readings.
 * [Introduction to Automata Theory, Languages, and Computation](https://en.wikipedia.org/wiki/Introduction_to_Automata_Theory,_Languages,_and_Computation)
 * [Kernighan and Ritchie, The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language)
 * [McConnell, Code Complete](https://www.goodreads.com/book/show/4845.Code_Complete)
+
+#### Natural Language Processing:
+* [Bird et al., Natural Language Processing with Python (2009)](https://www.goodreads.com/book/show/6392569-natural-language-processing-with-python?ac=1&from_search=true&qid=WaUEVYscUT&rank=1)
+* [Jurafsky and Martin, Speech and Language Processing (2000)](https://www.goodreads.com/book/show/908047.Speech_and_Language_Processing?ac=1&from_search=true&qid=YEMArycdgP&rank=1)
+* [Manning et al., Introduction to Information Retrieval (2008)](https://www.goodreads.com/book/show/3278309-introduction-to-information-retrieval?ac=1&from_search=true&qid=SbqPz5BuMn&rank=1)
+* [Manning and Schütze, Foundations of Statistical Natural Language Processing (1999)](https://www.goodreads.com/book/show/776349.Foundations_of_Statistical_Natural_Language_Processing?ac=1&from_search=true&qid=B96MfjUcEW&rank=1)
+* [Mitkov, The Oxford Handbook of Computational Linguistics (2005)](https://www.goodreads.com/book/show/655469.The_Oxford_Handbook_of_Computational_Linguistics?ac=1&from_search=true&qid=eIFsAK7f8R&rank=1)
 

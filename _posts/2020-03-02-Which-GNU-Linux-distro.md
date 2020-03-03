@@ -15,6 +15,7 @@ However, there are a couple of things to consider when choosing a distro for lon
 are switching to GNU/Linux from another OS.
 
 * Distros are sticky. When you start using a distro you tend to stick to it.
+* Stability.
 * Privacy and ethics. Is there any proprietary software in the distro and any privacy/security concerns?
 * To what degree you want to customize the OS. Do you e.g. want to switch kernel, minimize bloat, etc?
 
@@ -41,6 +42,9 @@ for your system.
 
 Arch based systems use a package management tool called pacman. If you run Arch or any Arch based system such
 as Manjaro or Parabola, this is what you will use. Gantoo uses Portage Package Manager.
+
+#### Stability
+Some distros are considered more stable than others. It usually has to do with the package manager (what it allows you to install from it) and how often the distro is updated. E.g. Debian is considered a stable distribution with older software, whereas e.g. Arch is considered a more unstable distribution but with newer software. Thus, depending on what you'll use the machine for stability might be a priority or not.
 
 #### Free software
 One should always opt for using free software and control as much as possible of the system. Note that there

@@ -4,7 +4,7 @@ title: Arch install
 ---
 
 #### Introduction
-Arch is a pleasant distribution since it let's you take control of the installation process. You can install what you want to install, and do not need to run a system with bloatware. This means that you need to do some configuration yourself.
+Arch is pleasant in that it let's you take control of the installation process. You can install what you want to install, and skip what in your opinion is bloat.
 
 #### Resources
 When installing Arch always use the official documentation, the process chan*ges.

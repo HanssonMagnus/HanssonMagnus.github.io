@@ -3,6 +3,11 @@ layout: page
 title: Online Resources
 ---
 
+## Finance
+
+##### Data:
+* [Kenneth R. French - Data Library](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
+
 ## Python
 
 ##### Different/fun packages:
@@ -32,12 +37,12 @@ title: Online Resources
 * [Binaries for Python Extensions](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
 
 ##### Tutorials:
-* [Sentdex Python for beginners](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
 * [Python for beginners](http://www.pythonforbeginners.com/)
 
 ##### YouTube:
 * [Deep learning with Keras -- playlist](https://www.youtube.com/playlist?list=PLVBorYCcu-xX3Ppjb_sqBd_Xf6GqagQyl)
+* [Sentdex Python for beginners](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
 
 ##### Other:
 * [Stackexchange -- vectorization](https://softwareengineering.stackexchange.com/questions/254475/how-do-i-move-away-from-the-for-loop-school-of-thought)

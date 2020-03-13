@@ -188,7 +188,7 @@ Here I've begun a list of selected readings.
 * [Campbell, Lo, and MacKinlay, The Econometrics of Financial Markets (1997)](https://press.princeton.edu/titles/5904.html)
 * [Cochrane, Asset Pricing (2005)](https://faculty.chicagobooth.edu/john.cochrane/teaching/asset_pricing.htm)
 * [Duffie, Dynamic Asset Pricing Theory (2001)](https://www.goodreads.com/book/show/404064.Dynamic_Asset_Pricing_Theory?ac=1&from_search=true&qid=po0mU3rUrq&rank=4)
-* [Tsay, Ruey, Analysis of Financial Time Series (2010)](https://faculty.chicagobooth.edu/ruey.tsay/teaching/)
+* [Tsay, Analysis of Financial Time Series (2010)](https://faculty.chicagobooth.edu/ruey.tsay/teaching/)
 
 #### Microeconomics:
 * [Mas-Colell, Microeconomic Theory (1995)](https://www.goodreads.com/book/show/735963.Microeconomic_Theory?ac=1&from_search=true)

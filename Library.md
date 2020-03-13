@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Books
+title: Library
 ---
+
+Many books in the public domain can be accessed at [Gutenberg.org](http://www.gutenberg.org/).
 
 Here I've begun a list of selected readings.
 
@@ -48,7 +50,6 @@ Here I've begun a list of selected readings.
 
 #### Computer Science:
 * [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
-* [The Linux  Command Line](http://linuxcommand.org/tlcl.php)
 * [Torvalds, The Story of an Accidental Revolutionary](https://www.goodreads.com/book/show/160171.Just_for_Fun)
 * [Raymond, The Cathedral and the Bazaar](https://www.goodreads.com/book/show/134825.The_Cathedral_the_Bazaar)
 * Petzold, Code
@@ -165,48 +166,50 @@ Here I've begun a list of selected readings.
 # Reference books
 --------------------------------
 #### Statistics and Econometrics:
-* [Hayashi, Econometrics](https://sites.google.com/site/fumiohayashi/hayashi-econometrics)
-* [White, Asymptotic Theory for Econometricians](https://www.goodreads.com/book/show/3863433-asymptotic-theory-for-econometricians)
-* [Cameron and Trivedi, Microeconometrics](https://www.goodreads.com/book/show/1043516.Microeconometrics?ac=1&from_search=true)
-* [Nelsen, An Introduction to Copulas](https://www.amazon.com/Introduction-Copulas-Springer-Statistics/dp/0387286594#customerReviews)
+* [Cameron and Trivedi, Microeconometrics (2005)](https://www.goodreads.com/book/show/1043516.Microeconometrics?ac=1&from_search=true)
+* [Hayashi, Econometrics (2000)](https://sites.google.com/site/fumiohayashi/hayashi-econometrics)
+* [Nelsen, An Introduction to Copulas (2006)](https://b-ok.cc/book/490181/6290ab)
+* [White, Asymptotic Theory for Econometricians (2000)](https://www.goodreads.com/book/show/3863433-asymptotic-theory-for-econometricians)
 
 #### Numerical Analysis:
-* [Trefethen, Numerical Linear Algebra](https://www.goodreads.com/book/show/1372376.Numerical_Linear_Algebra?ac=1&from_search=true)
-* [Trefethen, Approximation Theory and Approximation Practice](https://www.goodreads.com/book/show/16670471-approximation-theory-and-approximation-practice?ac=1&from_search=true)
-* [Bishop, Neural Networks for Pattern Recognition](https://www.goodreads.com/book/show/92536.Neural_Networks_for_Pattern_Recognition?ac=1&from_search=true)
-* [Powell, Approximation Theory and Methods](https://www.goodreads.com/book/show/342392.Approximation_Theory_and_Methods?ac=1&from_search=true)
+* [Bishop, Neural Networks for Pattern Recognition (1995)](https://www.goodreads.com/book/show/92536.Neural_Networks_for_Pattern_Recognition?ac=1&from_search=true)
+* [Powell, Approximation Theory and Methods (1981)](https://www.goodreads.com/book/show/342392.Approximation_Theory_and_Methods?ac=1&from_search=true)
+* [Süli and Mayers, An Introduction to Numerical Analysis (2003)](http://people.maths.ox.ac.uk/suli/book.html)
+* [Trefethen, Approximation Theory and Approximation Practice (2013)](https://www.goodreads.com/book/show/16670471-approximation-theory-and-approximation-practice?ac=1&from_search=true)
+* [Trefethen, Numerical Linear Algebra (1997)](https://www.goodreads.com/book/show/1372376.Numerical_Linear_Algebra?ac=1&from_search=true)
 
 #### Machine Learning:
 * [Bishop, Pattern Recognition and Machine Learning (2011)](https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning?ac=1&from_search=true&qid=EXwkFmFDBP&rank=4)
 * [Murphy, Machine Learning: A Probabilistic Perspective  (2012)](https://www.goodreads.com/book/show/15857489-machine-learning)
 
 #### Financial Economics:
-* [Campbell, Financial Decisions and Markets](https://press.princeton.edu/titles/11177.html)
-* [Cochrane, Asset Pricing](https://faculty.chicagobooth.edu/john.cochrane/teaching/asset_pricing.htm)
-* [Campbell, Lo, and MacKinlay, The Econometrics of Financial Markets](https://press.princeton.edu/titles/5904.html)
-* [Back, Asset Pricing and Portfolio Choice Theory](https://www.goodreads.com/book/show/9522136-asset-pricing-and-portfolio-choice-theory?ac=1&from_search=true&qid=B6lLLsu5he&rank=1)
-* [Duffie, Dynamic Asset Pricing Theory ](https://www.goodreads.com/book/show/404064.Dynamic_Asset_Pricing_Theory?ac=1&from_search=true&qid=po0mU3rUrq&rank=4)
+* [Back, Asset Pricing and Portfolio Choice Theory (2010)](https://www.goodreads.com/book/show/9522136-asset-pricing-and-portfolio-choice-theory?ac=1&from_search=true&qid=B6lLLsu5he&rank=1)
+* [Campbell, Financial Decisions and Markets (2018)](https://press.princeton.edu/titles/11177.html)
+* [Campbell, Lo, and MacKinlay, The Econometrics of Financial Markets (1997)](https://press.princeton.edu/titles/5904.html)
+* [Cochrane, Asset Pricing (2005)](https://faculty.chicagobooth.edu/john.cochrane/teaching/asset_pricing.htm)
+* [Duffie, Dynamic Asset Pricing Theory (2001)](https://www.goodreads.com/book/show/404064.Dynamic_Asset_Pricing_Theory?ac=1&from_search=true&qid=po0mU3rUrq&rank=4)
+* [Tsay, Ruey, Analysis of Financial Time Series (2010)](https://faculty.chicagobooth.edu/ruey.tsay/teaching/)
 
 #### Microeconomics:
-* [Varian, Microeconomic Analysis](https://www.goodreads.com/book/show/323071.Micro_Analysis?ac=1&from_search=true)
-* [Mas-Colell, Microeconomic Theory](https://www.goodreads.com/book/show/735963.Microeconomic_Theory?ac=1&from_search=true)
+* [Mas-Colell, Microeconomic Theory (1995)](https://www.goodreads.com/book/show/735963.Microeconomic_Theory?ac=1&from_search=true)
+* [Varian, Microeconomic Analysis (1992)](https://www.goodreads.com/book/show/323071.Micro_Analysis?ac=1&from_search=true)
 
 #### Macroeconomics:
-* [Acemoglu, An Introduction to Modern Economic Growth](https://press.princeton.edu/titles/8764.html)
-* [Romer, Advanced Macroeconomics](https://www.goodreads.com/book/show/464412.Advanced_Macroeconomics?ac=1&from_search=true)
-* [Handbook of Macroeconomics](https://www.sciencedirect.com/handbook/handbook-of-macroeconomics/vol/2/suppl/C)
+* [Acemoglu, An Introduction to Modern Economic Growth (2009)](https://press.princeton.edu/titles/8764.html)
+* [Romer, Advanced Macroeconomics (2005)](https://www.goodreads.com/book/show/464412.Advanced_Macroeconomics?ac=1&from_search=true)
+* [Taylor and Uhlig, Handbook of Macroeconomics (2016)](https://www.sciencedirect.com/handbook/handbook-of-macroeconomics/vol/2/suppl/C)
 
 #### Game Theory:
-* [Fudenberg and Tirole, Game Theory](https://www.goodreads.com/book/show/469868.Game_Theory)
-* [Tadelis, Game Theory An Introduction](https://www.goodreads.com/book/show/15930573-game-theory)
-* [Weibull, Evolutionary Game Theory](https://www.goodreads.com/en/book/show/770950)
+* [Fudenberg and Tirole, Game Theory (1991)](https://www.goodreads.com/book/show/469868.Game_Theory)
+* [Tadelis, Game Theory An Introduction (2013)](https://www.goodreads.com/book/show/15930573-game-theory)
+* [Weibull, Evolutionary Game Theory (1997)](https://www.goodreads.com/en/book/show/770950)
 
 #### Computer Science:
-* [Structure and interpretation of computer programs (the Wizard book)](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs)
-* [Compilers (the Dragon book)](https://www.goodreads.com/book/show/703102.Compilers)
-* [Introduction to Automata Theory, Languages, and Computation](https://en.wikipedia.org/wiki/Introduction_to_Automata_Theory,_Languages,_and_Computation)
-* [Kernighan and Ritchie, The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language)
-* [McConnell, Code Complete](https://www.goodreads.com/book/show/4845.Code_Complete)
+* [Abelson, Sussman, and Sussman, Structure and interpretation of computer programs (1996)](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs)
+* [Aho, Sethi, and Ullman, Compilers: Principles, Techniques and Tools (1986)](https://www.goodreads.com/book/show/703102.Compilers)
+* [Hopcroft and Ullman, Introduction to Automata Theory, Languages, and Computation (1979)](https://en.wikipedia.org/wiki/Introduction_to_Automata_Theory,_Languages,_and_Computation)
+* [Kernighan and Ritchie, The C Programming Language (1978)](https://en.wikipedia.org/wiki/The_C_Programming_Language)
+* [McConnell, Code Complete (2004)](https://www.goodreads.com/book/show/4845.Code_Complete)
 
 #### Natural Language Processing:
 * [Bird et al., Natural Language Processing with Python (2009)](https://www.goodreads.com/book/show/6392569-natural-language-processing-with-python?ac=1&from_search=true&qid=WaUEVYscUT&rank=1)
@@ -215,3 +218,6 @@ Here I've begun a list of selected readings.
 * [Manning and Schütze, Foundations of Statistical Natural Language Processing (1999)](https://www.goodreads.com/book/show/776349.Foundations_of_Statistical_Natural_Language_Processing?ac=1&from_search=true&qid=B96MfjUcEW&rank=1)
 * [Mitkov, The Oxford Handbook of Computational Linguistics (2005)](https://www.goodreads.com/book/show/655469.The_Oxford_Handbook_of_Computational_Linguistics?ac=1&from_search=true&qid=eIFsAK7f8R&rank=1)
 
+#### GNU/Linux:
+* [Hertzog and Mas, The Debian Administrator's Handbook (2015)](https://debian-handbook.info/)
+* [Shotts, The Linux  Command Line (2012)](http://linuxcommand.org/tlcl.php)

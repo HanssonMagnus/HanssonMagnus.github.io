@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Bash a Unix shell language (part 1)
+title: Bash a Unix shell language
 ---
 
 ## Introduction
-There are several good reasons why you should learn Bash. First of all, if you are using Linux it is mandatory to learn some Bash in order to become a power user and you don’t want to be anything else. If you don’t use Linux, you should start :)
+There are several good reasons why you should learn Bash (or another shell e.g., Zsh). The greatest advantages comes in terms of efficiency and flexibility.
 
 ## Automate boring stuff: Bash versus Python?
 At the book [Automate the Boring Stuff's](https://automatetheboringstuff.com/) web page the introduction starts with:
@@ -13,7 +13,7 @@ At the book [Automate the Boring Stuff's](https://automatetheboringstuff.com/) w
 
 When it comes to automating the booring stuff you can do a lot with shell scripting and in certain situations it can be stonger than e.g. Python (and sometimes much weaker).
 
-Bash is good when it comes to piping, redirection, stdin, stdout, stderr, etc. Since Bash is design to talk to the OS there are several fantastic features that makes your life easier. I recently had to automate some scripting on a server. Data was pushed to the server and needed resampling before entering a database. I had a Python script that resampled the data, but I wanted it to happen not once but continuously as data streamed in. Bash provided me with Crontab which is a job scheduler that solved this issue.
+The shell is good when it comes to piping, redirection, stdin, stdout, stderr, etc. Since Bash is design to talk to the OS there are several fantastic features that makes your life easier. I recently had to automate some scripting on a server. Data was pushed to the server and needed resampling before entering a database. I had a Python script that resampled the data, but I wanted it to happen not once but continuously as data streamed in. Bash provided me with Crontab which is a job scheduler that solved this issue.
 
 Bash is clearly good at automating things that has to do with the OS. But Python has modules such as glob and os that can handle much of the same issues. So when to use Bash and when to use e.g. Python? I guess it boils down to taste and the task at hand.
 
@@ -21,7 +21,7 @@ Bash is clearly good at automating things that has to do with the OS. But Python
 
 * Bash is excellent at small scripts that chain existing shell command together.
 
-* Python is a lot easier to maintain than Bash, especially large Bash scripts can get really nasty.
+* Python is a lot easier to maintain than Bash, especially large Bash scripts can get really messy.
 
 ## Here are some quotes:
 
@@ -44,44 +44,27 @@ Bash is clearly good at automating things that has to do with the OS. But Python
 * “Bash’s single advantage is longevity. There are Bash scripts that are older than Python itself that are still running just fine.”
 
 ## New to Bash?
-If you are new to Bash I’d recommend [LinuxCommand.org]( http://linuxcommand.org/index.php).
+If you are new to Bash I’d recommend the book [the Linux Command Line]( http://linuxcommand.org/index.php).
 
 Also [FullBashGuide](http://mywiki.wooledge.org/FullBashGuide) is a good resource.
 
-## Summary of useful common commands
+## How to learn Bash?
+There are several programs that can be used in the CLI to learn more about the shell. Speficically useful programs are,
 
 Command | Description
 --- | ---
-pwd | print working directory
-cd | change directory
-ls | list files in directory
-less | view a text file
-file | determine what type of file
-cp | copy file and directory
-mv | move or rename file and directory
-rm | remove file or directory
-mkdir | create directory
-type | info about command type
-which | locate command
-help | reference page for shell builtin
-man | on-line command reference
+help | Reference page for shell builtin
+man | Display Commands manual page
+tldr | Simplified man pages
 
-## A recent small example where I used bash
-I wanted to move all the standard wallpapers in Ubuntu to another folder. This is a simple task and I could easily have done it by opening two file windows and dragging the desired files into the desired dictionary. However, it was much easier openening the terminal and writng this simple line:
-
-```
-cp *.jpg /usr/share/backgrounds /home/magnus/Pictures
-```
-
-The command mean copy all files that end with .jpg from the directory /user/share/backgrounds to the directory /home/magnus/Pictures.
 
 ## Terminal emulators
-A [terminal emulator](https://en.wikipedia.org/wiki/Terminal_emulator) is a program that allows you to use the terminal with some more advanced features. On Windows I e.g. use [cmder](http://cmder.net/) which looks more appealing and has features such as multiple tabs. A Unix alternative would e.g. be the [GNOME Terminal](https://help.gnome.org/users/gnome-terminal/stable/).
+A [terminal emulator](https://en.wikipedia.org/wiki/Terminal_emulator) is a program that allows you to use the terminal with some more advanced features. On Windows I e.g., use [cmder](http://cmder.net/) which looks more appealing and has features such as multiple tabs. A Unix alternative would e.g., be the [GNOME Terminal](https://help.gnome.org/users/gnome-terminal/stable/) or [rxvt](https://en.wikipedia.org/wiki/Rxvt).
 
 [This article](https://opensource.com/life/17/10/top-terminal-emulators) gives a good overview over terminal emulators. Also, [here's a list from Arch wiki](https://wiki.archlinux.org/index.php/List_of_applications#Terminal_emulators).
 
 ## Difference between shells
-Bash is the most common Unix shell language, it is as many other shells an extension of the Bourne shell. There are several other shells as well e.g. [the fish shell](https://github.com/fish-shell/fish-shell) (friendly interactive shell) which aims at providing a user friendly shell.
+Bash is the most common Unix shell language, it is as many other shells an extension of the Bourne shell. There are several other shells as well e.g., [the fish shell](https://github.com/fish-shell/fish-shell) (friendly interactive shell) which aims at providing a user friendly shell.
 
 [UNIX shell differences and how to change your shell (Monthly Posting)](http://www.faqs.org/faqs/unix-faq/shell/shell-differences/)
 

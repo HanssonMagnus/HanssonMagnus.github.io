@@ -36,14 +36,14 @@ Consider equations (1) again and multiply with the probability that state $$s$$ 
     P_i = \sum_s \pi_s \frac{q_s}{\pi_s} X_{i,s} \tag{2}
 \end{equation}
 
-$$\frac{q_s}{\pi_s} \equiv M_s$$ which is a random variable. $$M_s$$ is in financial theory called the stochastic discount factor (SDF). Further,
+$$\frac{q_s}{\pi_s} \equiv M$$ which is a random variable. $$M$$ is in financial theory called the stochastic discount factor (SDF). Further,
 
 \begin{equation}
-    P_i = \sum_s \pi_s M_s X_{i,s} \iff \tag{3}
+    P_i = \sum_s \pi_s M X_{i,s} \iff \tag{3}
 \end{equation}
 
 \begin{equation}
-    P_i = \mathrm{E}[ M_s X_{i,s} ] \tag{4}
+    P_i = \mathrm{E}[ M X_{i,s} ] \tag{4}
 \end{equation}
 
 This tells us that the price of any asset $$i$$ is equal to the expected value of the payoff times the SDF. Henceforth, we drop the s in the notation for convenience. Dividing both sides by the price $$P_i$$ yields what is called the fundamental equation of asset pricing,

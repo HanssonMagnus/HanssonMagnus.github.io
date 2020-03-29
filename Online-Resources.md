@@ -3,84 +3,41 @@ layout: page
 title: Online Resources
 ---
 
+## GNU/Linux
+
+##### Documentation:
+* [ArchWiki](https://wiki.archlinux.org/)
+* [DebianWiki](https://wiki.debian.org/)
+
+##### Shell scripting
+* [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
+
+##### Software
+* [Suckless](https://suckless.org/)
+
+## Python
+* [Python Documentation](https://docs.python.org/3/)
+* [Python Developer's Guide](https://www.python.org/dev)
+* [Unofficial Binaries for Windows](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
+* [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
+
 ## Finance
 
 ##### Data:
 * [Kenneth R. French - Data Library](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
-
-## Python
-
-##### Different/fun packages:
-* [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/)
-* [EarthPy](http://earthpy.org/)
-* [AtstroPy](http://www.astropy.org/)
-* [PyGame](https://www.pygame.org/)
-* [cryptography](https://cryptography.io/en/latest/)
-
-##### Pythonic coding and Styling:
-* [Raymond Hettinger - Beyond PEP 8](https://www.youtube.com/watch?v=wf-BqAjZb8M)
-* [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-* [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
-* [PEP 257 -- Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
-* [PEP 20 -- The Zen of Python](https://www.python.org/dev/peps/pep-0020/) (import this)
-* [Lecture: Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
-* [Blog post: Write better code](https://heartbeat.fritz.ai/how-great-data-scientists-can-stop-writing-bad-code-9b054eb62b75)
-
-##### OpenGL:
-* [VisPy](https://vispy.readthedocs.io/en/latest/index.html) is an OpenGL visualization library.
-* [OpenGL bindings for Python](http://pyopengl.sourceforge.net/)
-* [Intro to OpenGL with Python](http://pyopengl.sourceforge.net/context/tutorials/index.html)
-* [Good OpenGL intro by sentdex](https://pythonprogramming.net/opengl-rotating-cube-example-pyopengl-tutorial/)
-
-
-##### Unofficial Windows Binaries for Python Extension Packages:
-* [Binaries for Python Extensions](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
-
-##### Tutorials:
-* [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
-* [Python for beginners](http://www.pythonforbeginners.com/)
-
-##### YouTube:
-* [Deep learning with Keras -- playlist](https://www.youtube.com/playlist?list=PLVBorYCcu-xX3Ppjb_sqBd_Xf6GqagQyl)
-* [Sentdex Python for beginners](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
-
-##### Other:
-* [Stackexchange -- vectorization](https://softwareengineering.stackexchange.com/questions/254475/how-do-i-move-away-from-the-for-loop-school-of-thought)
-* [The Most Diabolical Python Antipattern](https://realpython.com/blog/python/the-most-diabolical-python-antipattern/)
+* [Financial Modeling Prep API](https://financialmodelingprep.com/developer/docs/)
 
 ## Mathematics
-
-##### Overview:
 * [Evan Chen webpage](http://web.evanchen.cc/napkin.html)
 
 ## C / C++
-
 * [Build your own Lisp](http://www.buildyourownlisp.com/)
 
 ## R
-
 * [R-bloggers](https://www.r-bloggers.com/)
 
-## Linux
-
-##### Distributions:
-* [Arch](https://www.archlinux.org/)
-* [gentoo](https://www.gentoo.org/)
-
-## Community
-
-* [kaggle](https://www.kaggle.com/)
-* [PyCon Sweden](http://www.pycon.se/)
-
-## Career
 * [Data science -- you are a software engineer first](http://nadbordrozd.github.io/blog/2017/12/05/what-they-dont-tell-you-about-data-science-1/)
 
-
-## Regular expressions:
-* [Test your regex](https://regex101.com/)
-
-## Markdown:
-* [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Self-learning CS:
 * [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)

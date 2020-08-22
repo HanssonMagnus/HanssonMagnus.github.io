@@ -19,7 +19,7 @@ title: Online Resources
 * [Python Documentation](https://docs.python.org/3/)
 * [Python Developer's Guide](https://www.python.org/dev)
 * [Unofficial Binaries for Windows](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
-* [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
+* [The Hitchhiker's Guide to Python](http://docs.python-guide.org/)
 
 ## Finance
 
@@ -38,6 +38,9 @@ title: Online Resources
 
 * [Data science -- you are a software engineer first](http://nadbordrozd.github.io/blog/2017/12/05/what-they-dont-tell-you-about-data-science-1/)
 
+## Language
+* [Project Gutenberg](http://www.gutenberg.org/)
+* [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/)
 
 ## Self-learning CS:
 * [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)

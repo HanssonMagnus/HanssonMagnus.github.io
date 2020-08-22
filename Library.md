@@ -142,6 +142,28 @@ Here I've begun a list of selected readings.
 * Kahneman, Thinking Fast and Slow
 * Hoffer, The True Believer: Thoughts on the Nature of Mass Movements
 
+#### Theology:
+* Aquinas, Summa Theologica (1265-1274)
+* Augustine, Confessions (397-400)
+* Augustine, Thirteen Letters (354-430)
+* Benedict XVI, Introduction to Christianity (1968)
+* Benedict XVI, Principles of Christian Morality (1986)
+* Benedict XVI, Holy Women (2011)
+* Chesterton, The Everlasting man (1925)
+* Chesterton, Saint Thomas Aquinas (1933)
+* Kowalska, The Diary of Saint Maria Faustina Kowalska (1925-1938)
+* Lisieux, Story of a Soul (1898)
+* Montfort, The Secret of the Rosary (1710)
+* Starr, St. Teresa of Avila (2007)
+* Scheeben, The Glories of Divine Grace (1863)
+* Topelius, Blad ur Min Tänkebok (1898)
+* Woods, The Church and the Market: A Catholic Defense of the Free Economy (2005)
+* Woods, How the Catholic Church Built Western Civilization (2005)
+
+#### Linguistics:
+* Bodmer, The Loom of Language (1943)
+* Ørberg, Lingua Latīna Per Sē Illūstrāta (1955)
+
 #### Fiction:
 * [Fyodor Dostoevsky](https://en.wikipedia.org/wiki/Fyodor_Dostoevsky#Major_works)
 * [Leo Tolstoy](https://en.wikipedia.org/wiki/Leo_Tolstoy_bibliography)

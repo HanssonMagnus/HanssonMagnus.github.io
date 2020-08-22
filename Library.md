@@ -151,6 +151,7 @@ Here I've begun a list of selected readings.
 * Benedict XVI, Holy Women (2011)
 * Chesterton, The Everlasting man (1925)
 * Chesterton, Saint Thomas Aquinas (1933)
+* John Paul II, Love and Responsibility (1993)
 * Kowalska, The Diary of Saint Maria Faustina Kowalska (1925-1938)
 * Lisieux, Story of a Soul (1898)
 * Montfort, The Secret of the Rosary (1710)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Endogeneity
+title: Endogeneity [econ]
 ---
 
 ## Introduction
@@ -16,7 +16,7 @@ Consider the [OLS estimator](https://en.wikipedia.org/wiki/Ordinary_least_square
 \begin{equation}
 	\hat{\beta} = (X'X)^{-1}X'(X \beta +u) \iff
 \end{equation}
-	
+
 \begin{equation}
 	\hat{\beta} = (X'X)^{-1}(X'X) \beta + (X'X)^{-1}X'u \iff
 \end{equation}
@@ -89,27 +89,27 @@ We start by defining a linear regression function,
 
 ```R
 lin_reg <- function(x, y, z = 0, intercept = TRUE, instrument = FALSE){
-  
+
   x = as.matrix(x)
   y = as.matrix(y)
-  
+
   output = list()
-  
+
   if (intercept){
     x = cbind(1,x)
     z = cbind(1,z)
   }
-  
+
   if (instrument){
     output[['coeffs']] = solve(t(z) %*% x) %*% t(z) %*% y
   } else {
     output[['coeffs']] = solve(t(x) %*% x) %*% t(x) %*% y
   }
-  
+
   output[['preds']] = x %*% output[['coeffs']]
   output[['resids']] = output[['preds']] - y
   output[['mse']] = mean(output[['resids']]^2)
-  
+
   return(output)
 }
 ```
@@ -180,12 +180,12 @@ for (i in seq(0, 1, by=0.01)){
   uv <- mvrnorm(n = 10000, mu = c(0,0), Sigma = sigma)
   u <- uv[,1]
   v <- uv[,2]
-  
+
   x <- z + v
   y <- 0.5*x + u
-  
+
   reg_xy <- lin_reg(x, y, intercept = TRUE)
-  
+
   coeffs_a[[toString(i)]] <- reg_xy[['coeffs']][1,]
   coeffs_b[[toString(i)]] <- reg_xy[['coeffs']][2,]
 }
@@ -228,7 +228,7 @@ By simulating the same data as before, with the only changes that $$\beta = 0.1$
            [,1]
 [1,]  0.7928535
 [2,] -0.3007175
-> 
+>
 > reg_xzy <- lin_reg(x, y, z, intercept = TRUE, instrument = TRUE)
 > reg_xzy[['coeffs']]
             [,1]

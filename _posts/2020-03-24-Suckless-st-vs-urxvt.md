@@ -8,7 +8,7 @@ Urxvt is a common terminal emulator that works fine until you want to use unicod
 handle unicode, the rendering is a known problem. St on the other hand handles unicode perfectly.
 
 ## Suckless philosophy
-The (Suckless philosophy)[https://suckless.org/philosophy/] is admirable. It aims at developing light software that the
+The [Suckless philosophy](https://suckless.org/philosophy/) is admirable. It aims at developing light software that the
 user themselves customize to their needs. The code is minimalistic and the configs are embedded in the
 installation.
 

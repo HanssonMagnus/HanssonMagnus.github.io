@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Which GNU/Linux distro?
+title: Which GNU/Linux distro? [unix]
 ---
 
 ## Which GNU/Linux distro should you use?
@@ -33,7 +33,7 @@ Debian based systems also have GDebi which is an APT/dpkg tool that installs .de
 files (with dpkg) but can also access repositories to get dependencies (which GDebi will install with APT).
 
 Another package manager is called RPM (Red Hat Package Manager) and instead of having .deb extensions it uses .rpm. RPM-based distros are
-e.g. RedHat, CentOS, and Fedora. In these systems the low level tool is called rpm and the high level tool is 
+e.g. RedHat, CentOS, and Fedora. In these systems the low level tool is called rpm and the high level tool is
 called yum.
 
 There are ways to install, say a .rpm file, on a Debian based system, one way is with a tool called alien.

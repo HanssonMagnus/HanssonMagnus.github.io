@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The requests module and scraping websites
+title: The requests module and scraping websites [python]
 ---
 
 ## Introduction

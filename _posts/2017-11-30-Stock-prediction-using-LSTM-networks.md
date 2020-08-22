@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stock prediction with LSTM networks
+title: Stock prediction with LSTM networks [ml]
 ---
 
 ## Introduction

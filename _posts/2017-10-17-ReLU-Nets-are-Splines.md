@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ReLU nets are splines
+title: ReLU nets are splines [maths]
 ---
 
 ## Introduction

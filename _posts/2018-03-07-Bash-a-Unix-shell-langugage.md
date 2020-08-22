@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bash a Unix shell language
+title: Bash a Unix shell language [unix]
 ---
 
 ## Introduction

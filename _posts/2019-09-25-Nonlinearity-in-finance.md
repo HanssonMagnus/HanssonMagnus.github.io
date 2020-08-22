@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nonlinearity in finance
+title: Nonlinearity in finance [finance]
 ---
 Foundation for discussion:
 

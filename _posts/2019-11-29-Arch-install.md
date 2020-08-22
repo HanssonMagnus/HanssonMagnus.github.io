@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Arch install
+title: Arch install [unix]
 ---
 
 #### Introduction

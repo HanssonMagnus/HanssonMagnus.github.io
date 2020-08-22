@@ -161,6 +161,7 @@ Here I've begun a list of selected readings.
 * John Paul II, Love and Responsibility (1993)
 * John Paul II, Theology of the Body (1997)
 * Kowalska, The Diary of Saint Maria Faustina Kowalska (1925-1938)
+* Le Fort, The Eternal Woman (1934)
 * Lewis, Mere Christianity (1952)
 * Lisieux, Story of a Soul (1898)
 * MacIntyre, After Virtue (1981)

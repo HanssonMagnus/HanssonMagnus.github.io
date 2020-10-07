@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-Hi there!
-
 <img src="/images/me.jpg" width="300" ALIGN="right">
+
+Hi there!
 
 I'm Magnus, an econ PhD student with focus on quantitative finance at the University of Gothenburg. This is my personal page where I upload posts to share with friends and initiate discussions.
 

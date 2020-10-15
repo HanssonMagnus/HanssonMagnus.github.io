@@ -12,8 +12,11 @@ solution, would be to use KDE (kernel density estimation).
 KDE can be used to estimate the PDF (probability density function). Consider,
 
 \begin{equation}
-    \hat{f}_h(x) = \frac{1}{n} \sum_{i=1}^n K_h(x-x_i) = \frac{1}{nh} \sum_{i=1}^n K \left(
-    \frac{x-x_i}{h} \right)
+    \hat{f}_h(x) = \frac{1}{n} \sum_{i=1}^n K_h(x-x_i)
+\end{equation}
+
+\begin{equation}
+    = \frac{1}{nh} \sum_{i=1}^n K \left( \frac{x-x_i}{h} \right)
 \end{equation}
 
 where $$x_i$$, $$i = 1, 2, ..., n$$, is a univariate i.i.d. variable from an unknown distribution
@@ -107,9 +110,9 @@ plt.ylabel('Probability')
 plt.show()
 ```
 
-<img src="/images/kde_50.png" width="500">
-<img src="/images/kde_175.png" width="500">
-<img src="/images/kde_500.png" width="500">
+![Fig 1](/images/kde_50.png)
+![Fig 2](/images/kde_175.png)
+![Fig 3](/images/kde_500.png)
 
 Looking at the figures with different bandwidth, it is clear that a too low $$h$$ creates noise, whereas
 a too high $$h$$ creates too much smoothness. In this application Silverman's rule seems to perform well.

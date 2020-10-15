@@ -13,7 +13,7 @@ KDE can be used to estimate the PDF (probability density function). Consider,
 
 \begin{equation}
     \hat{f}_h(x) = \frac{1}{n} \sum_{i=1}^n K_h(x-x_i) = \frac{1}{nh} \sum_{i=1}^n K \left(
-    \frac{x-x_i}{h} \right),
+    \frac{x-x_i}{h} \right)
 \end{equation}
 
 where $$x_i$$, $$i = 1, 2, ..., n$$, is a univariate i.i.d. variable from an unknown distribution
@@ -107,9 +107,9 @@ plt.ylabel('Probability')
 plt.show()
 ```
 
-<img src="/images/kde_50.jpg" width="500">
-<img src="/images/kde_175.jpg" width="500">
-<img src="/images/kde_500.jpg" width="500">
+<img src="/images/kde_50.png" width="500">
+<img src="/images/kde_175.png" width="500">
+<img src="/images/kde_500.png" width="500">
 
 Looking at the figures with different bandwidth, it is clear that a too low $$h$$ creates noise, whereas
 a too high $$h$$ creates too much smoothness. In this application Silverman's rule seems to perform well.

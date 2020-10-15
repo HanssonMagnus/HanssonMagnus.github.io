@@ -11,9 +11,9 @@ solution, would be to use KDE (kernel density estimation).
 # KDE
 KDE can be used to estimate the PDF (probability density function). Consider,
 
-\begin{equation}
+$$
     \hat{f}_h (x) = \frac{1}{n} \sum_{i=1}^n K_h \left( x - x_i \right)
-\end{equation}
+$$
 
 \begin{equation}
     = \frac{1}{nh} \sum_{i=1}^n K \left( \frac{x-x_i}{h} \right)

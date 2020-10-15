@@ -110,12 +110,15 @@ plt.ylabel('Probability')
 plt.show()
 ```
 
-![Fig 1](/images/kde_50.png)
+![Fig 1](/images/kde_50.png =500x400)
+<img src="/images/kde_50.png" width="500" height="350">
 ![Fig 2](/images/kde_175.png)
 ![Fig 3](/images/kde_500.png)
 
 Looking at the figures with different bandwidth, it is clear that a too low $$h$$ creates noise, whereas
-a too high $$h$$ creates too much smoothness. In this application Silverman's rule seems to perform well.
+a too high $$h$$ creates too much smoothness. The larger $$h$$ the more mass is around $$0$$, this
+is not desirable since in reality not many observations are close to $$0$$.
+In this application Silverman's rule seems to perform well.
 
 The distribution looks like a Poisson distribution. This makes sense since the number of words in a
 document is not symmetric around zero. Depending on the type of documents it is natural, as in my

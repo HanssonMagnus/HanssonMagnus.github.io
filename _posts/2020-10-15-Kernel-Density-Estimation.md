@@ -12,7 +12,7 @@ solution, would be to use KDE (kernel density estimation).
 KDE can be used to estimate the PDF (probability density function). Consider,
 
 \begin{equation}
-    \hat{f}_h (x) = \frac{1}{n} \sum_{i=1}^n K_h (x - x_i)
+    \hat{f}_h (x) = \frac{1}{n} \sum_{i=1}^n K_h \left( x - x_i \right)
 \end{equation}
 
 \begin{equation}
@@ -110,9 +110,9 @@ plt.ylabel('Probability')
 plt.show()
 ```
 
-<img src="/images/kde_50.png" width="600" height="600">
-<img src="/images/kde_175.png" width="600" height="600">
-<img src="/images/kde_500.png" width="600" height="600">
+<img src="/images/kde_50.png" width="300" height="350">
+<img src="/images/kde_175.png" width="300" height="350">
+<img src="/images/kde_500.png" width="300" height="350">
 
 Looking at the figures with different bandwidth, it is clear that a too low $$h$$ creates noise, whereas
 a too high $$h$$ creates too much smoothness. The larger $$h$$ the more mass is around $$0$$, this

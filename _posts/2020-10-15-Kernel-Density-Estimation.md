@@ -110,9 +110,9 @@ plt.ylabel('Probability')
 plt.show()
 ```
 
-<img src="/images/kde_25.png" width="300" height="350">
-<img src="/images/kde_175.png" width="300" height="350">
-<img src="/images/kde_500.png" width="300" height="350">
+<img src="/images/kde_25.png" width="350">
+<img src="/images/kde_175.png" width="350">
+<img src="/images/kde_500.png" width="350">
 
 Looking at the figures with different bandwidth, it is clear that a too low $$h$$ creates noise, whereas
 a too high $$h$$ creates too much smoothness. The larger $$h$$ the more mass is around $$0$$, this

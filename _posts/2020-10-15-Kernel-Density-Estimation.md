@@ -110,7 +110,7 @@ plt.ylabel('Probability')
 plt.show()
 ```
 
-<img src="/images/kde_50.png" width="300" height="350">
+<img src="/images/kde_25.png" width="300" height="350">
 <img src="/images/kde_175.png" width="300" height="350">
 <img src="/images/kde_500.png" width="300" height="350">
 

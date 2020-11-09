@@ -142,10 +142,9 @@ Here I've begun a list of selected readings.
 * Kahneman, Thinking Fast and Slow
 * Hoffer, The True Believer: Thoughts on the Nature of Mass Movements
 
-#### Theology:
+#### Philosophical Theology:
 * Aquinas, Summa Theologica (1265-1274)
 * Augustine, Confessions (397-400)
-* Benedict XVI, Principles of Christian Morality (1986)
 * Birgitta of Vadstena, Revelaciones Celestes (1492)
 * Chesterton, Orthodoxy (1908)
 * Chesterton, The Everlasting Man (1925)
@@ -154,7 +153,7 @@ Here I've begun a list of selected readings.
 * Kowalska, The Diary of Saint Maria Faustina Kowalska (1925-1938)
 * Le Fort, The Eternal Woman (1934)
 * Lewis, Mere Christianity (1952)
-* MacIntyre, After Virtue (1981)
+* MacIntyre, After Virtue: A Study in Moral Theory (1981)
 * Scheeben, The Glories of Divine Grace (1863)
 * Therese of Lisieux, Story of a Soul (1898)
 * Topelius, Blad ur Min Tänkebok (1898)

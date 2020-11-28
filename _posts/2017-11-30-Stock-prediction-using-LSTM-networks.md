@@ -4,7 +4,8 @@ title: Stock prediction with LSTM networks [ml]
 ---
 
 ## Introduction
-In this blogpost I've taken inspiration from some parts of my master thesis.
+In this blogpost I've taken inspiration from some parts of my [master
+thesis](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=8911069&fileOId=8911070).
 
 Stock market data is often analyzed in terms of returns, i.e. $$(price_t - price_{t-1}) / price_{t-1}$$. Financial returns has
 certain noticable characteristics, some of them are:

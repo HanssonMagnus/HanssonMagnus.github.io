@@ -16,7 +16,7 @@ Keycaps: ePBT Blanks
 ## Parts
 
 * PCB by /u/wootpatoot. (I bought mine at
-  [https://mechboards.co.uk/shop/kits/lets-split-kit/#pcb](mechboards.co.uk) )
+  [mechboards.co.uk](https://mechboards.co.uk/shop/kits/lets-split-kit/#pcb) )
 * 48 diods.
 * 2 TRRS jacks.
 * 48 switches.

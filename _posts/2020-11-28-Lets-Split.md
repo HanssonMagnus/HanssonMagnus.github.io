@@ -123,7 +123,7 @@ Validating...
 
 ## Additional information
 After I assembled the keyboard I recognized that I if I wanted to have the TRRS jacks next to each
-other and not on the outside of the boards, I had to use the Pro Micro as my master. Since, I
+other and not on the outside of the boards, I had to use the Pro Micro as my master. Since I
 in any case wanted to change a detail in my keymap I decided to change so that the Elite-C worked
 as the master. This was done by changing "#define MASTER_LEFT" to "#define MASTER_RIGHT" in the
 config.h file, in the same directory as my keymap.c file.

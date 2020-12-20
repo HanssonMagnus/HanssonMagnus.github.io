@@ -45,29 +45,34 @@ Here I've begun a list of selected readings.
 * Jackson, Prosperity Without Growth: Economics for a Finite Planet
 
 #### Fiction:
+* [Achebe, Things Fall Apart (1958)](https://en.wikipedia.org/wiki/Things_Fall_Apart)
+* [Fowles, The Magus (1965)](https://en.wikipedia.org/wiki/The_Magus_(novel))
 * [Tolstoy, Anna Karenina (1878)](https://en.wikipedia.org/wiki/Anna_Karenina)
 * [Tolstoy, War and Peace (1869)](https://en.wikipedia.org/wiki/War_and_Peace)
 
 Fantasy:
 * [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien_bibliography)
 
-Finance/Economics:
-* [Harris, The Fear Index (2011)](https://www.goodreads.com/book/show/11429709-the-fear-index)
-* [Lefèvre, Reminiscences of a Stock Operator (1923)](https://en.wikipedia.org/wiki/Reminiscences_of_a_Stock_Operator)
-
 Science Fiction:
-* [William Gibson](https://en.wikipedia.org/wiki/William_Gibson)
-* [Ted Chiang](https://en.wikipedia.org/wiki/Ted_Chiang)
-* [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)
-* [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams)
-* [David Brin](https://en.wikipedia.org/wiki/David_Brin)
-* Asimov, Foundation Trilogy
-* Scalzi, Old Man's War
-* Heinlein, The Moon is a Harsh Mistress
-* Herbert, Dune
-* Huxley, Brave New World
-* Orwell, 1984
-* Huxley, Brave New World (1932)
+* [Adams, The Hitchhiker's Guide to the Galaxy (1979)](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy)
+* [Asimov, Foundation Trilogy (1951-1953)](https://en.wikipedia.org/wiki/Foundation_series)
+* [Brin, The Uplift Stories (1980-1998)](https://en.wikipedia.org/wiki/Uplift_Universe)
+* [Card, Ender's Game (1985)](https://en.wikipedia.org/wiki/Ender%27s_Game)
+* [Chiang, Stories of Your Life and Others (1990-2001)](https://en.wikipedia.org/wiki/Stories_of_Your_Life_and_Others)
+* [Crichton, Jurassic Park (1990)](https://en.wikipedia.org/wiki/Jurassic_Park_(novel))
+* [Dick, Do Androids Dream of Electric Sheep? (1968)](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)
+* [Gibson, Burning Chrome (1986)](https://en.wikipedia.org/wiki/Burning_Chrome_(short_story_collection))
+* [Gibson, Sprawl Trilogy (1984-1988)](https://en.wikipedia.org/wiki/Sprawl_trilogy)
+* [Heinlein, The Moon is a Harsh Mistress (1966)](https://en.wikipedia.org/wiki/The_Moon_Is_a_Harsh_Mistress)
+* [Herbert, Dune (1965)](https://en.wikipedia.org/wiki/Dune_(novel))
+* [Huxley, Brave New World (1932)](https://en.wikipedia.org/wiki/Brave_New_World)
+* [Lovecraft, At the Mountains of Madness (1936)](https://en.wikipedia.org/wiki/At_the_Mountains_of_Madness)
+* [Orwell, Nineteen Eighty-Four (1949)](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)
+* [Scalzi, Old Man's War Series (2005-2015)](https://en.wikipedia.org/wiki/Old_Man%27s_War_series)
+* [Stephenson, Cryptonomicon (1999)](https://en.wikipedia.org/wiki/Cryptonomicon)
+* [Stephenson, Snow Crash (1992)](https://en.wikipedia.org/wiki/Snow_Crash)
+* [Wells, The Island of Doctor Moreau (1896)](https://en.wikipedia.org/wiki/The_Island_of_Doctor_Moreau)
+* [Wells, The Time Machine (1895)](https://en.wikipedia.org/wiki/The_Time_Machine)
 
 Philosophical fiction:
 * [Dostoevsky, Crime and Punishment (1866)](https://en.wikipedia.org/wiki/Crime_and_Punishment)
@@ -79,7 +84,6 @@ Philosophical fiction:
 * [Pollock, Finance and Philosophy](https://www.goodreads.com/book/show/39070445-finance-and-philosophy)
 * Lewis, Liar's Poker
 * Mehrling, The New Lombard Street: How the Fed Became the Dealer of Last Resort
-* Ammous, The Bitcoin Standard: The Decentralized Alternative to Central Banking
 * Black, Business Cycles and Equilibrium
 * Black, Exploring General Equilibrium
 * Marks, The Most Important Thing
@@ -89,6 +93,13 @@ Philosophical fiction:
 * Admati and Hellwig, The Bankers' New Clothes: Whats Wrong with Banking and What to Do about It
 * Reinhart and Rogoff, This Time is Different
 * Lowenstein, When Genius Failed: The Rise and Fall of Long-Term Capital Management
+
+Behavioral finance:
+* [Tuckett, Minding the Markets: An Emotional Finance View of Financial Instability (2011)](https://www.goodreads.com/book/show/12194529-minding-the-markets)
+
+Fiction:
+* [Harris, The Fear Index (2011)](https://www.goodreads.com/book/show/11429709-the-fear-index)
+* [Lefèvre, Reminiscences of a Stock Operator (1923)](https://en.wikipedia.org/wiki/Reminiscences_of_a_Stock_Operator)
 
 Monetary finance:
 * [Ammous, The Bitcoin Standard (2018)](https://www.goodreads.com/book/show/36448501-the-bitcoin-standard)
@@ -216,22 +227,17 @@ Philosophical Theology:
 
 # Reference books
 --------------------------------
-#### Statistics and Econometrics:
-* [Cameron and Trivedi, Microeconometrics (2005)](https://www.goodreads.com/book/show/1043516.Microeconometrics?ac=1&from_search=true)
-* [Hayashi, Econometrics (2000)](https://sites.google.com/site/fumiohayashi/hayashi-econometrics)
-* [Nelsen, An Introduction to Copulas (2006)](https://b-ok.cc/book/490181/6290ab)
-* [White, Asymptotic Theory for Econometricians (2000)](https://www.goodreads.com/book/show/3863433-asymptotic-theory-for-econometricians)
+#### Computer Science:
+* [Abelson, Sussman, and Sussman, Structure and interpretation of computer programs (1996)](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs)
+* [Aho, Sethi, and Ullman, Compilers: Principles, Techniques and Tools (1986)](https://www.goodreads.com/book/show/703102.Compilers)
+* [Hopcroft and Ullman, Introduction to Automata Theory, Languages, and Computation (1979)](https://en.wikipedia.org/wiki/Introduction_to_Automata_Theory,_Languages,_and_Computation)
+* [Kernighan and Ritchie, The C Programming Language (1978)](https://en.wikipedia.org/wiki/The_C_Programming_Language)
+* [McConnell, Code Complete (2004)](https://www.goodreads.com/book/show/4845.Code_Complete)
 
-#### Numerical Analysis:
-* [Bishop, Neural Networks for Pattern Recognition (1995)](https://www.goodreads.com/book/show/92536.Neural_Networks_for_Pattern_Recognition?ac=1&from_search=true)
-* [Powell, Approximation Theory and Methods (1981)](https://www.goodreads.com/book/show/342392.Approximation_Theory_and_Methods?ac=1&from_search=true)
-* [Süli and Mayers, An Introduction to Numerical Analysis (2003)](http://people.maths.ox.ac.uk/suli/book.html)
-* [Trefethen, Approximation Theory and Approximation Practice (2013)](https://www.goodreads.com/book/show/16670471-approximation-theory-and-approximation-practice?ac=1&from_search=true)
-* [Trefethen, Numerical Linear Algebra (1997)](https://www.goodreads.com/book/show/1372376.Numerical_Linear_Algebra?ac=1&from_search=true)
-
-#### Machine Learning:
-* [Bishop, Pattern Recognition and Machine Learning (2011)](https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning?ac=1&from_search=true&qid=EXwkFmFDBP&rank=4)
-* [Murphy, Machine Learning: A Probabilistic Perspective  (2012)](https://www.goodreads.com/book/show/15857489-machine-learning)
+#### Electronics:
+* [Floyd, Electronic Devices (1984)](https://www.goodreads.com/book/show/263438.Electronic_Devices)
+* [Horowitz, The Art of Electronics (1980)](https://en.wikipedia.org/wiki/The_Art_of_Electronics)
+* [Platt, Make: Electronics (2009)](https://www.goodreads.com/book/show/6945716-make)
 
 #### Financial Economics:
 * [Back, Asset Pricing and Portfolio Choice Theory (2010)](https://www.goodreads.com/book/show/9522136-asset-pricing-and-portfolio-choice-theory?ac=1&from_search=true&qid=B6lLLsu5he&rank=1)
@@ -241,26 +247,27 @@ Philosophical Theology:
 * [Duffie, Dynamic Asset Pricing Theory (2001)](https://www.goodreads.com/book/show/404064.Dynamic_Asset_Pricing_Theory?ac=1&from_search=true&qid=po0mU3rUrq&rank=4)
 * [Tsay, Analysis of Financial Time Series (2010)](https://faculty.chicagobooth.edu/ruey.tsay/teaching/)
 
-#### Microeconomics:
-* [Mas-Colell, Microeconomic Theory (1995)](https://www.goodreads.com/book/show/735963.Microeconomic_Theory?ac=1&from_search=true)
-* [Varian, Microeconomic Analysis (1992)](https://www.goodreads.com/book/show/323071.Micro_Analysis?ac=1&from_search=true)
+#### Game Theory:
+* [Fudenberg and Tirole, Game Theory (1991)](https://www.goodreads.com/book/show/469868.Game_Theory)
+* [Tadelis, Game Theory An Introduction (2013)](https://www.goodreads.com/book/show/15930573-game-theory)
+* [Weibull, Evolutionary Game Theory (1997)](https://www.goodreads.com/en/book/show/770950)
+
+#### GNU/Linux:
+* [Hertzog and Mas, The Debian Administrator's Handbook (2015)](https://debian-handbook.info/)
+* [Shotts, The Linux  Command Line (2012)](http://linuxcommand.org/tlcl.php)
 
 #### Macroeconomics:
 * [Acemoglu, An Introduction to Modern Economic Growth (2009)](https://press.princeton.edu/titles/8764.html)
 * [Romer, Advanced Macroeconomics (2005)](https://www.goodreads.com/book/show/464412.Advanced_Macroeconomics?ac=1&from_search=true)
 * [Taylor and Uhlig, Handbook of Macroeconomics (2016)](https://www.sciencedirect.com/handbook/handbook-of-macroeconomics/vol/2/suppl/C)
 
-#### Game Theory:
-* [Fudenberg and Tirole, Game Theory (1991)](https://www.goodreads.com/book/show/469868.Game_Theory)
-* [Tadelis, Game Theory An Introduction (2013)](https://www.goodreads.com/book/show/15930573-game-theory)
-* [Weibull, Evolutionary Game Theory (1997)](https://www.goodreads.com/en/book/show/770950)
+#### Machine Learning:
+* [Bishop, Pattern Recognition and Machine Learning (2011)](https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning?ac=1&from_search=true&qid=EXwkFmFDBP&rank=4)
+* [Murphy, Machine Learning: A Probabilistic Perspective  (2012)](https://www.goodreads.com/book/show/15857489-machine-learning)
 
-#### Computer Science:
-* [Abelson, Sussman, and Sussman, Structure and interpretation of computer programs (1996)](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs)
-* [Aho, Sethi, and Ullman, Compilers: Principles, Techniques and Tools (1986)](https://www.goodreads.com/book/show/703102.Compilers)
-* [Hopcroft and Ullman, Introduction to Automata Theory, Languages, and Computation (1979)](https://en.wikipedia.org/wiki/Introduction_to_Automata_Theory,_Languages,_and_Computation)
-* [Kernighan and Ritchie, The C Programming Language (1978)](https://en.wikipedia.org/wiki/The_C_Programming_Language)
-* [McConnell, Code Complete (2004)](https://www.goodreads.com/book/show/4845.Code_Complete)
+#### Microeconomics:
+* [Mas-Colell, Microeconomic Theory (1995)](https://www.goodreads.com/book/show/735963.Microeconomic_Theory?ac=1&from_search=true)
+* [Varian, Microeconomic Analysis (1992)](https://www.goodreads.com/book/show/323071.Micro_Analysis?ac=1&from_search=true)
 
 #### Natural Language Processing:
 * [Bird et al., Natural Language Processing with Python (2009)](https://www.goodreads.com/book/show/6392569-natural-language-processing-with-python?ac=1&from_search=true&qid=WaUEVYscUT&rank=1)
@@ -270,6 +277,15 @@ Philosophical Theology:
 * [Manning and Schütze, Foundations of Statistical Natural Language Processing (1999)](https://www.goodreads.com/book/show/776349.Foundations_of_Statistical_Natural_Language_Processing?ac=1&from_search=true&qid=B96MfjUcEW&rank=1)
 * [Mitkov, The Oxford Handbook of Computational Linguistics (2005)](https://www.goodreads.com/book/show/655469.The_Oxford_Handbook_of_Computational_Linguistics?ac=1&from_search=true&qid=eIFsAK7f8R&rank=1)
 
-#### GNU/Linux:
-* [Hertzog and Mas, The Debian Administrator's Handbook (2015)](https://debian-handbook.info/)
-* [Shotts, The Linux  Command Line (2012)](http://linuxcommand.org/tlcl.php)
+#### Numerical Analysis:
+* [Bishop, Neural Networks for Pattern Recognition (1995)](https://www.goodreads.com/book/show/92536.Neural_Networks_for_Pattern_Recognition?ac=1&from_search=true)
+* [Powell, Approximation Theory and Methods (1981)](https://www.goodreads.com/book/show/342392.Approximation_Theory_and_Methods?ac=1&from_search=true)
+* [Süli and Mayers, An Introduction to Numerical Analysis (2003)](http://people.maths.ox.ac.uk/suli/book.html)
+* [Trefethen, Approximation Theory and Approximation Practice (2013)](https://www.goodreads.com/book/show/16670471-approximation-theory-and-approximation-practice?ac=1&from_search=true)
+* [Trefethen, Numerical Linear Algebra (1997)](https://www.goodreads.com/book/show/1372376.Numerical_Linear_Algebra?ac=1&from_search=true)
+
+#### Statistics and Econometrics:
+* [Cameron and Trivedi, Microeconometrics (2005)](https://www.goodreads.com/book/show/1043516.Microeconometrics?ac=1&from_search=true)
+* [Hayashi, Econometrics (2000)](https://sites.google.com/site/fumiohayashi/hayashi-econometrics)
+* [Nelsen, An Introduction to Copulas (2006)](https://b-ok.cc/book/490181/6290ab)
+* [White, Asymptotic Theory for Econometricians (2000)](https://www.goodreads.com/book/show/3863433-asymptotic-theory-for-econometricians)

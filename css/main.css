@@ -3,9 +3,9 @@ body {
     width: 50%;
     background-color: #fad089;
 }
-code {
+pre code {
     background-color: #ff9c5b;
-    padding: 0 3px;
+    display: block;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -20,7 +20,6 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #999;
-    font-size: 1em;
 }
 a:hover {
     text-decoration: underline;
@@ -30,7 +29,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.25em;
+    font-size: 1em;
     line-height: 1.1em;
     color: #333;
 }

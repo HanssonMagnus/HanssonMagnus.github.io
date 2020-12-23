@@ -1,0 +1,70 @@
+---
+layout: default
+title: Corne Keyboard
+---
+<p>
+Keyboard: Corne
+Switches: Gateron Clear 50g (w/ Super Lube PTFE and films)
+Keycaps: ePBT Blanks
+</p>
+
+<h2>Images</h2>
+<img src="../../images/corne_1.jpg" alt="Corne Photo 1" style="width:384px;" align="middle">
+<img src="../../images/corne_2.jpg" alt="Corne Photo 2" style="width:384px;" align="middle">
+
+<h2>Parts</h2>
+ <ul>
+    <li>Corne Cherry PCB by <a href="https://github.com/foostan/crkbd"> Foostan </a>.</li>
+    <li>42 diods.</li>
+    <li>2 TRRS jacks.</li>
+    <li>2 reset buttons.</li>
+    <li>42 switches.</li>
+    <li>2 microcontrollers.</li>
+    <li>A case.</li>
+ </ul>
+
+<h2>Building the Corne</h2>
+<p>
+There are several guides on how to build the keyboard. However, there are some things to keep in
+mind, e.g., some of the Corne PCBs use SMD components that you need to be a bit more careful with,
+some recommend to solder at
+around 270 degrees Celsius, whereas with through hole components at 350. I accidentally destroyed a
+pad and had to fix a bodge wire to get the failed switch to work.
+</p>
+
+<h2>Flashing the micro controllers</h2>
+<p>
+The flashing process: cd to the qmk directory and create a new keymap for your user for the Corne
+keyboard; cd to where you have your json keymap file, created with [QMK
+configurator](https://config.qmk.fm/#/dekunukem/duckypad/LAYOUT); create the keymap.c and copy it
+to the keymap directory; stop the modem manager; flash the elite-c and then the pro micro.
+</p>
+
+<pre>
+<code>
+cd ~/qmk_firmware
+qmk new-keymap -kb crkbd
+cd ~/Keyboard/corne/keymap
+qmk json2c crkbd_rev1_legacy_dhm.json > keymap.c
+cp keymap.c ~/qmk_firmware/keyboards/crkbd/keymaps/HanssonMagnus/
+cd ~/qmk_firmware
+systemctl stop ModemManager.service
+sudo make crkbd/rev1:HanssonMagnus
+sudo make crkbd/rev1:HanssonMagnus:dfu
+sudo make crkbd/rev1:HanssonMagnus:avrdude
+</code>
+</pre>
+
+<p>
+Some changes you might want to do before you flash are: comment out the tapping parameter in
+the config.h, it is set to 100 and default is 200; change "no" to "yes" for "EXTRAKEY_ENABLE" in
+rules.mk if you want to use media keys.
+</p>
+
+<h2>Overall impression</h2>
+<p>
+The layout of the Corne keyboard is nice. Even though I use the same keymap on other
+keyboards, the slight column stagger and the thumb keys make it pleasant. The fact that the
+microcontrollers are mounted on the top side of the PCB enables shorter stand-offs for the sandwich
+case and thus it becomes a bit slimmer.
+</p>

@@ -1,2 +1,16 @@
 name: Magnus Hansson Homepage
+
+# Build settings
 markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  parse_block_html: true
+
+# Google Analytics
+google_analytics: UA-132782909-1
+
+# Adding for RSS file and indexing for search engines
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-sitemap

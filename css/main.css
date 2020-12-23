@@ -6,6 +6,10 @@ body {
 pre code {
     background-color: #ff9c5b;
     display: block;
+    font-size: 0.9em;
+    line-height: 1.5em;
+    border: 1px solid #3b8183;
+    padding: 10px;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';

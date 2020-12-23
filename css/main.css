@@ -1,8 +1,13 @@
+/* Color scheme retro: #fad089, #ff9c5b, #ed303c, #3b8183, #2b696b */
+/*              pale yellow, yellow, red, pale cyan, cyan */
+
 body {
     margin: 60px auto;
     width: 50%;
     background-color: #fad089;
 }
+
+/* Code blocks */
 pre code {
     background-color: #ff9c5b;
     display: block;

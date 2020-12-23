@@ -1,26 +1,2 @@
-# basic options
-title: Blog
-author: Magnus Hansson
-email: hansson.carl.magnus@gmail.com
-description: My page about research, finance/economics, mathematics, coding, machine learning and other projects.
-github_username: HanssonMagnus
-
-url: "http://www.magnushansson.xyz"
-
-# Adding for RSS file and indexing for search engines
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
- - jekyll-sitemap
-
-# Build settings
+name: Magnus Hansson Homepage
 markdown: kramdown
-kramdown:
-  math_engine: mathjax
-  # parse markdown inside block-level HTML tag
-  parse_block_html: true
-theme: minima
-future: true
-
-# Google Analytics
-google_analytics: UA-132782909-1

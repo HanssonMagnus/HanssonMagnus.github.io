@@ -192,15 +192,15 @@ for (i in seq(0, 1, by=0.01)){
 }
 ```
 
-<img src="/images/beta_alpha.png" width="600", align="middle">
+<img src="/images/beta_alpha.png", width="600", align="middle">
 
 The beta coefficient starts at the true value when the correlation is $$0$$ (so does the intercept) and then linearly deviates. If also negative correlation is considered the following results arise,
 
-<img src="/images/beta_alpha2.png" width="600", align="middle">
+<img src="/images/beta_alpha2.png", width="600", align="middle">
 
 The linear relationship continues. This seems bad, however what happens if we plot the $$x$$ and $$y$$ data together with different regression lines corresponding to different correlations? How off are they? To give "less" advantage to the biased/inconsistent regression, I plot simulated data where $$u$$ and $$v$$ has zero correlation.
 
-<img src="/images/diff_corr.png" width="600", align="middle">
+<img src="/images/diff_corr.png", width="600", align="middle">
 
 Note that you need to evalute the intercept at $$(0,0)$$.
 
@@ -208,7 +208,7 @@ Although, the red line with higher bias has a poorer fit it might be an okay app
 
 Further, it would of course be interesting to look at the data from the original numerical example (with correlation 0.8) and comapre the inconsistent OLS estimator with the consistent IV estimator. The magnitude of the distortion looked severe when comapring the coefficients, but how does it look visually?
 
-<img src="/images/ols_vs_iv.png" width="600", align="middle">
+<img src="/images/ols_vs_iv.png", width="600", align="middle">
 
 This is actually an extremely interesting figure. Note that it looks like the blue line, i.e. the OLS estimator, represents the data better than the IV estimator. Thus, from a prediction point of view, does the IV estimator add any value?
 
@@ -239,7 +239,7 @@ By simulating the same data as before, with the only changes that $$\beta = 0.1$
 
 Here one can see that the OLS estimator is giving a negative slope coefficient while the IV estimator gives an accurate approximation. Plotting this,
 
-<img src="/images/ols_vs_iv2.png" width="600", align="middle">
+<img src="/images/ols_vs_iv2.png", width="600", align="middle">
 
 Clearly this is a situation one should be careful not to end up in.
 

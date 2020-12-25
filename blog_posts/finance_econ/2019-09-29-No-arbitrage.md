@@ -1,6 +1,7 @@
 ---
 layout: post
 title: No arbitrage [finance]
+use_math: true
 ---
 
 ## Farkas' lemma

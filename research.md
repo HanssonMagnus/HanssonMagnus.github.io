@@ -3,13 +3,7 @@ layout: default
 title: Magnus Hansson - Research
 ---
 
-<h2> Thesis chapters: </h2>
-<p>
-Evolution of topics: What do central banks talk about?
-</p>
+## Thesis chapters:
 
-<p>
-<small>
+#### Evolution of topics: What do central banks talk about?
 The research uses techniques from computational linguistics to analyze central bank communication.
-</small>
-</p>

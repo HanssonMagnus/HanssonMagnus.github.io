@@ -5,8 +5,6 @@ title: Library
 
 Many books in the public domain can be accessed at [Gutenberg.org](http://www.gutenberg.org/).
 
-Here I've begun a list of selected readings.
-
 # Enjoyably readable
 --------------------------------
 #### Biographies:
@@ -101,6 +99,10 @@ Fiction:
 * [Harris, The Fear Index (2011)](https://www.goodreads.com/book/show/11429709-the-fear-index)
 * [Lefèvre, Reminiscences of a Stock Operator (1923)](https://en.wikipedia.org/wiki/Reminiscences_of_a_Stock_Operator)
 
+History:
+* [Furguson, High Financier: The Lives and Time of Siegmund Warburg (2010)](https://www.goodreads.com/book/show/7948059-high-financier)
+* [Furguson, The Ascent of Money (2008)](https://en.wikipedia.org/wiki/The_Ascent_of_Money)
+
 Monetary finance:
 * [Ammous, The Bitcoin Standard (2018)](https://www.goodreads.com/book/show/36448501-the-bitcoin-standard)
 * [Bagehot, Lombard Street (1873)](https://en.wikipedia.org/wiki/Lombard_Street:_A_Description_of_the_Money_Market)
@@ -133,10 +135,6 @@ Monetary finance:
 * Clausewitz, On War
 * Castillo, The True History of The Conquest of New Spain
 * Trotsky, History of the Russian Revolution
-
-Finance:
-* [Furguson, High Financier: The Lives and Time of Siegmund Warburg (2010)](https://www.goodreads.com/book/show/7948059-high-financier)
-* [Furguson, The Ascent of Money (2008)](https://en.wikipedia.org/wiki/The_Ascent_of_Money)
 
 #### Linguistics:
 * [Bodmer, The Loom of Language: An Approach to the Mastery of Many Languages (1943)](https://www.goodreads.com/book/show/586995.The_Loom_of_Language)

@@ -9,7 +9,7 @@ title: Magnus Hansson - Blog
 <ul>
     <li> <a href="./blog_posts/machine_learning/2017-10-17-ReLU-Nets-are-Splines"> 2017-10-17 ReLU nets are splines </a> </li>
 </ul>
-
+* [./blog_posts/machine_learning/2020-11-13-LDA](2017-10-17 LDA)
 <h2> Software: </h2>
 
 <h2> Hardware/DIY: </h2>

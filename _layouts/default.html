@@ -4,6 +4,12 @@
 		<title>{{ page.title }}</title>
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
+
+    <!-- For Google analytics -->
+  {% if jekyll.environment == 'production' and site.google_analytics %}
+    {% include google-analytics.html %}
+  {% endif %}
+
   <!-- Load KaTeX -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
   <script src="https://hanssonmagnus.github.io/js/tex2jax.js"></script>
@@ -12,10 +18,10 @@
 		<nav>
     		<ul>
         		<li><a href="/">Home</a></li>
-	        	<li><a href="/research.html">Research</a></li>
+	        	<li><a href="/research">Research</a></li>
         		<li><a href="./pdf_files/cv_magnus.pdf">CV</a></li>
         		<li><a href="/library">Library</a></li>
-        		<li><a href="/blog.html">Blog</a></li>
+        		<li><a href="/blog">Blog</a></li>
     		</ul>
 		</nav>
 		<div class="container">

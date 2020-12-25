@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Endogeneity [econ]
+use_math: true
 ---
 
 ## Introduction

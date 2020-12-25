@@ -16,11 +16,6 @@ pre code {
     border: 1px solid #3b8183;
     padding: 10px;
 }
-.MathJax {
-    font-size: 1em;
-    line-height: 1.1em;
-    !important;
-}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;

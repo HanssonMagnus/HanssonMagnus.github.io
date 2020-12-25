@@ -11,7 +11,9 @@
   {% endif %}
 
   <!-- Load KaTeX -->
-  <include src="./_includes/_mathjax_support.html"></include>
+  {% if page.use_math %}
+  {% include mathjax_support.html %}
+  {% endif %}
 
 	</head>
 	<body>

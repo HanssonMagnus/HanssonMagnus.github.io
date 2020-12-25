@@ -18,6 +18,8 @@ pre code {
 }
 .MathJax {
     font-size: 1em;
+    line-height: 1.1em;
+    !important;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';

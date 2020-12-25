@@ -21,7 +21,7 @@ title: Magnus Hansson - Blog
 * [2020-03-24 Web scraping](./blog_posts/software/2018-01-19-The-request-module)
 
 #### Hardware/DIY:
-* [2020-12-20 Corne Keyboard](./blog_posts/hardware/2020-12-20-Corne")
-* [2020-11-28 Let's Split Keyboard](./blog_posts/hardware/2020-11-28-Lets-Split")
-* [2020-09-16 Niu Keyboard](./blog_posts/hardware/2020-09-16-Niu-40")
-* [2020-11-28 Make USB cable](./blog_posts/hardware/2020-09-13-Usb-Cable")
+* [2020-12-20 Corne Keyboard](./blog_posts/hardware/2020-12-20-Corne)
+* [2020-11-28 Let's Split Keyboard](./blog_posts/hardware/2020-11-28-Lets-Split)
+* [2020-09-16 Niu Keyboard](./blog_posts/hardware/2020-09-16-Niu-40)
+* [2020-11-28 Make USB cable](./blog_posts/hardware/2020-09-13-Usb-Cable)

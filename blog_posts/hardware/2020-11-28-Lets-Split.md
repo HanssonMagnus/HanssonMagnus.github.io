@@ -10,8 +10,7 @@ Switches: Gazzew Bobba U4 68g (w/ Super Lube PTFE and films)
 Keycaps: ePBT Blanks
 
 ## Images
-<img src="/images/ls_1.jpg" width="500">
-<img src="/images/ls_2.jpg" width="500">
+<img src="/images/ls_1.jpg" width="500"> <img src="/images/ls_2.jpg" width="500">
 
 ## Parts
 

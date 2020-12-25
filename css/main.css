@@ -16,6 +16,9 @@ pre code {
     border: 1px solid #3b8183;
     padding: 10px;
 }
+.MathJax {
+    font-size: 1em;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -34,7 +37,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 2.5em;
+    font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {

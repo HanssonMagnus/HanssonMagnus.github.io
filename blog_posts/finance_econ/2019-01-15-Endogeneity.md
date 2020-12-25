@@ -192,7 +192,7 @@ for (i in seq(0, 1, by=0.01)){
 }
 ```
 
-![Fig 1](/images/beta_alpha.png)
+<img src="/images/beta_alpha.png" width="500"/>
 
 The beta coefficient starts at the true value when the correlation is $$0$$ (so does the intercept) and then linearly deviates. If also negative correlation is considered the following results arise,
 

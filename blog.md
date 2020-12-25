@@ -17,8 +17,8 @@ title: Magnus Hansson - Blog
 * [2020-03-24 Suckless st v.s. urxvt](./blog_posts/software/2020-03-24-Suckless-st-vs-urxvt)
 * [2020-03-02 Which Linux Distro?](./blog_posts/software/2020-03-02-Which-GNU-Linux-distro)
 * [2019-11-29 Arch install](./blog_posts/software/2019-11-29-Arch-install)
-* [2018-03-07 Bash](./blog_posts/software/2018-03-07-Bash-a-Unix-shell-language)
-* [2020-03-24 Web scraping](./blog_posts/software/2018-01-19-The-request-module)
+* [2018-03-07 Bash](./blog_posts/software/2018-03-07-Bash)
+* [2020-03-24 Web scraping](./blog_posts/software/2018-01-19-The-requests-module)
 
 #### Hardware/DIY:
 * [2020-12-20 Corne Keyboard](./blog_posts/hardware/2020-12-20-Corne)

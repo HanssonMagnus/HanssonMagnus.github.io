@@ -3,17 +3,25 @@ layout: default
 title: Magnus Hansson - Blog
 ---
 
-<h2> Finance/Economics: </h2>
+#### Finance/Economics:
+* [2019-09-29 No Arbitrage](./blog_posts/finance_econ/2019-09-29-No-arbitrage)
+* [2019-09-25 Nonlinearity in Finance](./blog_posts/finance_econ/2019-09-25-Nonlinearity-in-finance)
+* [2019-09-29 Endogeneity](./blog_posts/finance_econ/2019-01-15-Endogeneity)
 
-<h2> Machine Learning/Mathematics: </h2>
-<ul>
-    <li> <a href="./blog_posts/machine_learning/2017-10-17-ReLU-Nets-are-Splines"> 2017-10-17 ReLU nets are splines </a> </li>
-</ul>
-* [2017-10-17 LDA](./blog_posts/machine_learning/2020-11-13-LDA)
-<h2> Software: </h2>
+#### Machine Learning/Mathematics:
+* [2020-11-13 LDA](./blog_posts/machine_learning/2020-11-13-LDA)
+* [2017-11-30 Stock prediction with LSTM nets](./blog_posts/machine_learning/2017-11-30-Stock-lstm)
+* [2017-10-17 ReLU Nets are Splines](./blog_posts/machine_learning/2017-10-17-relu-nets)
 
-<h2> Hardware/DIY: </h2>
-<ul>
-    <li> <a href="./blog_posts/hardware/2020-12-20-Corne.html"> 2020-12-20 Corne Keyboard </a> </li>
-    <li> <a href="./blog_posts/hardware/2020-11-28-Lets-Split.html"> 2020-11-28 Let's Split Keyboard </a> </li>
-</ul>
+#### Software:
+* [2020-03-24 Suckless st v.s. urxvt](./blog_posts/software/2020-03-24-Suckless-st-vs-urxvt)
+* [2020-03-02 Which Linux Distro?](./blog_posts/software/2020-03-02-Which-GNU-Linux-distro)
+* [2019-11-29 Arch install](./blog_posts/software/2019-11-29-Arch-install)
+* [2018-03-07 Bash](./blog_posts/software/2018-03-07-Bash-a-Unix-shell-language)
+* [2020-03-24 Web scraping](./blog_posts/software/2018-01-19-The-request-module)
+
+#### Hardware/DIY:
+* [2020-12-20 Corne Keyboard](./blog_posts/hardware/2020-12-20-Corne")
+* [2020-11-28 Let's Split Keyboard](./blog_posts/hardware/2020-11-28-Lets-Split")
+* [2020-09-16 Niu Keyboard](./blog_posts/hardware/2020-09-16-Niu-40")
+* [2020-11-28 Make USB cable](./blog_posts/hardware/2020-09-13-Usb-Cable")

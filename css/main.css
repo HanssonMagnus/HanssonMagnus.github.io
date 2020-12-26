@@ -33,6 +33,12 @@ a {
 a:hover {
     text-decoration: underline;
 }
+a:link {
+    color: #2b696b;
+}
+a:visited {
+    color: #3b8183;
+}
 h1 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';

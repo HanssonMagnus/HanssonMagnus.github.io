@@ -24,7 +24,7 @@ with scripts,
 
 ```
 0       alsa_output.usb-Focusrite_Scarlett_2i2_USB-00.analog-stereo     module-alsa-card.c      s32le 2ch 48000Hz       RUNNING
-1       alsa_output.usb-Kingston_HyperX_Virtual_Surround_Sound_00000000-00.analog-stereo        module-alsa-card.c      s16le 2ch 48000Hz       SUSPENDED
+1       alsa_output.usb-Kingston_HyperX_Virtual.analog-stereo        module-alsa-card.c      s16le 2ch 48000Hz       SUSPENDED
 2       alsa_output.pci-0000_0b_00.3.iec958-stereo      module-alsa-card.c      s16le 2ch 44100Hz   SUSPENDED
 ```
 

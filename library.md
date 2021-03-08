@@ -42,6 +42,9 @@ Many books in the public domain can be accessed at [Gutenberg.org](http://www.gu
 * Piketty, Capital in the Twenty-First Century
 * Jackson, Prosperity Without Growth: Economics for a Finite Planet
 
+#### Engineering
+* [Truszkowski et al. Autonomous and Autonomic Systems: With Applications to NASA Intelligent Spacecraft Operations and Exploration Systems (2009)](https://www.goodreads.com/book/show/19586502-autonomous-and-autonomic-systems?ac=1&from_search=true&qid=t330KbE6Bz&rank=1)
+
 #### Fiction:
 * [Achebe, Things Fall Apart (1958)](https://en.wikipedia.org/wiki/Things_Fall_Apart)
 * [Fowles, The Magus (1965)](https://en.wikipedia.org/wiki/The_Magus_(novel))
@@ -50,6 +53,11 @@ Many books in the public domain can be accessed at [Gutenberg.org](http://www.gu
 
 Fantasy:
 * [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien_bibliography)
+* [Pullman, His Dark Materials Trilogy (1995-2000)](https://en.wikipedia.org/wiki/His_Dark_Materials)
+
+Finance:
+* [Harris, The Fear Index (2011)](https://www.goodreads.com/book/show/11429709-the-fear-index)
+* [Lefèvre, Reminiscences of a Stock Operator (1923)](https://en.wikipedia.org/wiki/Reminiscences_of_a_Stock_Operator)
 
 Science Fiction:
 * [Adams, The Hitchhiker's Guide to the Galaxy (1979)](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy)
@@ -95,10 +103,6 @@ Philosophical fiction:
 Behavioral finance:
 * [Tuckett, Minding the Markets: An Emotional Finance View of Financial Instability (2011)](https://www.goodreads.com/book/show/12194529-minding-the-markets)
 
-Fiction:
-* [Harris, The Fear Index (2011)](https://www.goodreads.com/book/show/11429709-the-fear-index)
-* [Lefèvre, Reminiscences of a Stock Operator (1923)](https://en.wikipedia.org/wiki/Reminiscences_of_a_Stock_Operator)
-
 History:
 * [Furguson, High Financier: The Lives and Time of Siegmund Warburg (2010)](https://www.goodreads.com/book/show/7948059-high-financier)
 * [Furguson, The Ascent of Money (2008)](https://en.wikipedia.org/wiki/The_Ascent_of_Money)
@@ -107,8 +111,13 @@ Monetary finance:
 * [Ammous, The Bitcoin Standard (2018)](https://www.goodreads.com/book/show/36448501-the-bitcoin-standard)
 * [Bagehot, Lombard Street (1873)](https://en.wikipedia.org/wiki/Lombard_Street:_A_Description_of_the_Money_Market)
 * [Bernanke, The Courage to Act: A Memoir of a Crisis and Its Aftermath (2015)](https://www.goodreads.com/book/show/32191707-the-courage-to-act)
+* [Brunnermeier, James, and Landau The Euro and the Battle of Ideas (2016)](https://en.wikipedia.org/wiki/The_Euro_and_the_Battle_of_Ideas)
 * [Cargill, The Financial System, Financial Regulation and Central Bank Policy (2017)](https://www.cambridge.org/highereducation/books/financial-system-financial-regulation-and-central-bank-policy/44EDFB8D8302BAAD47D2C67B979A3F24#contents)
 * [Hayek, Prices and Production (1931)](https://cdn.mises.org/prices_and_production_and_other_works.pdf)
+* [James, Making a Modern Central Bank: The Bank of England 1979–2003 (2020)](https://doi.org/10.1017/9781108875189)
+* [James, Making the European Monetary Union (2006)](https://www.hup.harvard.edu/catalog.php?isbn=9780674416802)
+* [James, The Deutsche Bank and the Nazi Economic War Against the Jews (2001)](https://doi.org/10.1017/CBO9780511511875)
+* [James, The Nazi Dictatorship and the Deutsche Bank (2004)](https://www.goodreads.com/book/show/3830261-the-nazi-dictatorship-and-the-deutsche-bank?ac=1&from_search=true&qid=Iw1fJa5KJy&rank=1)
 * [Keynes, A Treatise on Money (1930)](https://en.wikipedia.org/wiki/A_Treatise_on_Money)
 * [Keynes, How to Pay for the War (1940)](https://fraser.stlouisfed.org/files/docs/historical/Misc/howtopayforthewar_1940.pdf)
 * [Keynes, The General Theory of Employment, Interest and Money (1936)](https://en.wikipedia.org/wiki/The_General_Theory_of_Employment,_Interest_and_Money)
@@ -141,16 +150,17 @@ Monetary finance:
 * [Ørberg, Lingua Latīna Per Sē Illūstrāta (1955)](https://en.wikipedia.org/wiki/Hans_%C3%98rberg#Lingua_Lat%C4%ABna_Per_S%C4%93_Ill%C5%ABstr%C4%81ta)
 
 #### Maths/Science:
+* [Bell, Men of Mathematics](https://en.wikipedia.org/wiki/Men_of_Mathematics)
+* [Blom, Problems and Snapshots from the World of Probability](https://www.goodreads.com/book/show/19982234-problems-and-snapshots-from-the-world-of-probability)
+* [Dunham, Euler](https://www.goodreads.com/book/show/275918.Euler)
+* [Feynman, The Feynman Lectures on Physics](https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics)
+* [Finetti, Philosophical Lectures on Probability](https://www.goodreads.com/book/show/3396733-philosophical-lectures-on-probability)
+* [Gleick, Chaos: Making a New Science](https://en.wikipedia.org/wiki/Chaos:_Making_a_New_Science)
+* [Mandelbrot, The Fractal Geometry of Nature](https://en.wikipedia.org/wiki/The_Fractal_Geometry_of_Nature)
+* [Rota, Indiscrete Thoughts](https://www.goodreads.com/book/show/1646354.Indiscrete_Thoughts)
+* [Rudin, The Way I Remember It](https://www.goodreads.com/book/show/292081.The_Way_I_Remember_It)
 * [Singh, Fermat's Last Theorem ](https://www.goodreads.com/book/show/131305.Fermat_s_Last_Theorem?ac=1&from_search=true&qid=cUhW5CSoie&rank=1)
-* Rota, Indiscrete Thoughts
-* Finetti, Philosophical Lectures on Probability
-* Richard Feynman
-* Gleick, Chaos: Making a New Science
-* William Dunham, Euler
-* Rudin, The Way I Remember It
-* Bell, Men of Mathematics
-* Mandelbrot, The Fractal Geometry of Nature
-* Blom, Problems and Snapshots from the World of Probability
+* [Smith, An Introduction to Gödel's Theorems](https://www.goodreads.com/book/show/208291.An_Introduction_to_G_del_s_Theorems)
 
 #### Non-fiction:
 * Kling, The Three Landuages of Politics
@@ -168,7 +178,6 @@ Monetary finance:
 
 #### Philosophy:
 * [Frankl, Man's Search for Meaning](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning)
-* [Sadhguru, Inner Engineering: A Yogi's Guide to Joy](https://www.goodreads.com/book/show/29513878-inner-engineering?ac=1&from_search=true&qid=JJWMivfZ7U&rank=1)
 * Seneca, Letters from a Stoic
 * Aurelius, Meditations
 * (Zeno, The Republic)
@@ -212,6 +221,9 @@ Philosophical Theology:
 * Woods, The Church and the Market: A Catholic Defense of the Free Economy (2005)
 * Woods, How the Catholic Church Built Western Civilization (2005)
 
+* [Sadhguru, Inner Engineering: A Yogi's Guide to Joy (2016)](https://www.goodreads.com/book/show/29513878-inner-engineering?ac=1&from_search=true&qid=JJWMivfZ7U&rank=1)
+* [Yogananda, Autobiography of a Yogi (1946)](https://en.wikipedia.org/wiki/Autobiography_of_a_Yogi)
+
 #### Psychology:
 * Gigerenzer, Rationality for Mortals: How People Cope with Uncertainty
 * Jaynes, The Origin of Conciousness in the Breakdown of the Bicameral Mind
@@ -243,6 +255,7 @@ Philosophical Theology:
 * [Campbell, Lo, and MacKinlay, The Econometrics of Financial Markets (1997)](https://press.princeton.edu/titles/5904.html)
 * [Cochrane, Asset Pricing (2005)](https://faculty.chicagobooth.edu/john.cochrane/teaching/asset_pricing.htm)
 * [Duffie, Dynamic Asset Pricing Theory (2001)](https://www.goodreads.com/book/show/404064.Dynamic_Asset_Pricing_Theory?ac=1&from_search=true&qid=po0mU3rUrq&rank=4)
+* [Foucault, Pagano, and Roell, Market Liquidity: Theory, Evidence, and Policy](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199936243.001.0001/acprof-9780199936243)
 * [Tsay, Analysis of Financial Time Series (2010)](https://faculty.chicagobooth.edu/ruey.tsay/teaching/)
 
 #### Game Theory:
